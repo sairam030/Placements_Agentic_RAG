@@ -1,0 +1,812 @@
+[
+  {
+    "company": "ABB_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 6,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship program consists of the following stages: 1. Eligibility Check: Candidates who meet the eligibility criteria will be shortlisted for the next round. 2. Technical Round: Shortlisted candidates will be invited for a technical interview. 3. HR Round: Selected candidates from the technical round will be invited for an HR interview. 4. Final Selection: The final selection will be based on the performance in both the technical and HR rounds."
+    ]
+  },
+  {
+    "company": "Aditya Auto Products_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 30000,
+    "duration_months": 4,
+    "cgpa_min": 4.0,
+    "apply_by": [],
+    "location": [
+      "Onsite",
+      "Bangalore",
+      "Bengaluru"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the AI/ML Acoustic Diagnostics Internship, Industry 4.0 Data Analyst Internship, and Statistical Quality Data Scientist Internship involves the following steps: 1. Application: Candidates must submit their application through the Aditya Auto Products career portal or the respective drive link. 2. Eligibility Check: Applications will be screened based on the eligibility criteria mentioned in the job description. 3. Technical Assessment: Shortlisted candidates will be invited for a technical assessment, which may include coding challenges, problem-solving tasks, or a presentation of their previous projects. 4. Interview: Successful candidates from the technical assessment will be invited for a face-to-face interview with the hiring manager and team members. 5. Offer: Candidates who perform well in the interview will receive a job offer, which includes details about the compensation package and other benefits."
+    ]
+  },
+  {
+    "company": "Aditya Birla_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 25000,
+    "duration_months": 6,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship role consists of the following rounds: 1. Profile & CTC Round: In this round, candidates will be evaluated based on their academic background, projects, and work experience. They will also be asked to provide their current CTC. 2. Technical Round: This round will consist of a coding test or a problem-solving task. Candidates will be evaluated based on their ability to write clean and efficient code. 3. HR Round: In this round, candidates will be evaluated based on their communication skills, teamwork abilities, and cultural fit. They may also be asked about their past experiences and future goals. 4. Final Round: The final round will be a presentation round, where candidates will be asked to present a project or solution to a panel of judges. They will be evaluated based on their ability to explain their project or solution clearly and effectively. Candidates who perform well in all rounds will be offered the internship role. The selection process may vary slightly depending on the specific role and team. NONE"
+    ]
+  },
+  {
+    "company": "Amazon_MTech_2026",
+    "role": "Business Analyst Intern",
+    "stipend": 70000,
+    "duration_months": 6,
+    "cgpa_min": 8.0,
+    "apply_by": [],
+    "location": [],
+    "rounds": [
+      "SELECTION PROCESS The selection process for the Business Analyst I Internship includes the following stages: 1. Application Review: Applications will be reviewed based on eligibility criteria and qualifications. 2. Online Assessment: Candidates who meet the eligibility criteria will be invited to take an online assessment. 3. Interview: Candidates who perform well in the online assessment will be invited for a series of interviews. 4. Background Check: Candidates who are offered a position will undergo a background check. 5. Offer: Candidates who successfully complete the selection process will receive an offer. NONE"
+    ]
+  },
+  {
+    "company": "Analog Devices",
+    "role": "General Engineering Intern",
+    "stipend": 45000,
+    "duration_months": 21,
+    "cgpa_min": null,
+    "apply_by": [
+      "25/01/25",
+      "03/02/25",
+      "29/01/25",
+      "21 Jan",
+      "23 Jan"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the Data Analyst/Data Scientist Intern role at Analog Devices involves the following steps: 1. Eligibility Criteria: Candidates must have a minimum CGPA of 8 in their PG (Master's) degree. 2. Online Written Test: A one-hour online test consisting of 44 questions, including analytical and technical questions. 3. First Round Interview: Selected candidates are invited for a one-hour interview based on their resume and Python, SQL, and Pyspark skills. 4. Second Round Interview: Selected candidates are invited for a one-hour interview based on their resume. 5. Data Engineer Intern Role: This role has a separate application process with its own eligibility criteria, test, and interview rounds."
+    ]
+  },
+  {
+    "company": "ArcherIRM_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "10/03/25"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: Online Test Multiple Roles - 10/03/25 Do Selected Based site 120 min online protected written in DS Lab (video and screen record) 25 MCQ's 2 Coding 1 Easy 1 Medium Managerial Round 4th round 1 got selected Graduate Intern Role"
+    ]
+  },
+  {
+    "company": "Astrikos_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": null,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [],
+    "rounds": [
+      "Selection Process The selection process for the Building Management System (BMS) Analytics Challenge consists of the following stages: 1. Data Cleaning and Preprocessing: In this stage, participants will be required to clean and preprocess the dataset to ensure data quality and consistency. This may include handling missing values, outliers, and inconsistencies, as well as converting timestamps into meaningful time-based features. 2. Exploratory Data Analysis (EDA): Participants will perform EDA to gain insights into the dataset and identify trends, patterns, and correlations. This may involve data visualization techniques, statistical analysis, and hypothesis testing. 3. Clustering Analysis (if applicable): Participants may choose to apply clustering techniques to segment the data into meaningful groups based on similarities. 4. Time Series Analysis (if applicable): Participants may conduct time series analysis to identify trends and forecast maintenance needs. 5. Predictive Modelling: Participants may develop predictive models to forecast maintenance needs or identify potential issues before they occur. 6. Dashboard Design and Interactivity: Participants will design and build an interactive dashboard using Google Data Studio (Looker’s Studio) to visualize key insights from their analysis. 7. Submission: Participants will submit their EDA report, interactive dashboard, and predictions for the test dataset. 8. Evaluation: Submissions will be evaluated based on the following criteria: - Data Cleaning & Preprocessing (20%) - Exploratory Data Analysis (40%) - Predictive Modelling (10%) - Dashboard Design & Interactivity (30%) The evaluation criteria weightages may vary slightly depending on the specific challenge requirements."
+    ]
+  },
+  {
+    "company": "Axius Software_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 20000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Kolkata"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Senior Software Engineer Intern position consists of two rounds. In the first round, candidates are evaluated based on their profile and current CTC. In the second round, candidates are required to attend a coding interview. The final selection is based on the performance in both rounds. Candidates who do not clear the first round will be notified via email. ---------------- EXTRACTED TEXT: ---------------- The selection process for the Senior Software Engineer Intern position consists of two rounds."
+    ]
+  },
+  {
+    "company": "Beckman Coulter_MTech_2026",
+    "role": "Security Intern",
+    "stipend": 35000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship program consists of the following stages: 1. Application Screening: The applications will be screened based on the eligibility criteria mentioned above. 2. Technical Interview: The shortlisted candidates will be called for a technical interview. The interview will consist of questions related to the candidate's academic background and their technical skills. 3. HR Interview: The candidates who clear the technical interview will be called for an HR interview. The HR interview will focus on the candidate's personality, communication skills, and their motivation to join the organization. 4. Background Verification: The selected candidates will undergo a background verification process. This process includes a criminal background check and a verification of educational qualifications. 5. Medical Examination: The final selected candidates will undergo a medical examination to ensure they are medically fit to join the organization."
+    ]
+  },
+  {
+    "company": "Bosch_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 11,
+    "cgpa_min": 6.5,
+    "apply_by": [
+      "07 May"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the ID Internship consists of two rounds. Round 1: Online Assessment This round includes a written test and a coding challenge. The written test assesses your understanding of various concepts related to computer science and engineering. The coding challenge evaluates your problem-solving skills and ability to write clean and efficient code. Round 2: Technical Interview If you clear Round 1, you will be invited for a technical interview. This round is an opportunity for you to demonstrate your technical expertise and knowledge to the interviewer. The interviewer may ask you questions related to your projects, research work, or any other topic relevant to computer science and engineering. Round 3: HR Interview If you clear Round 2, you will be invited for an HR interview. This round is an opportunity for the HR team to assess your fit with the organization and your communication skills. They may ask you questions about your motivation, career goals, and work experience. ---------------- EXTRACTED TEXT: ---------------- The selection process for the ID Internship consists of two rounds."
+    ]
+  },
+  {
+    "company": "Commscope_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 11,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "NONE The text you're looking for, \"Selection Process:\", is present in the role text, but it's not extracted here because the instructions are to extract only"
+    ]
+  },
+  {
+    "company": "Dell_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "12 Feb",
+      "11 Feb"
+    ],
+    "location": [
+      "Bangalore",
+      "Bengaluru"
+    ],
+    "rounds": [
+      "SELECTION PROCESS Our selection process is designed to ensure that we find the best talent for our teams. It consists of the following stages: 1. Application: Candidates submit their applications through our website or career fairs. 2. Eligibility Check: We review applications to ensure candidates meet the minimum eligibility requirements. 3. Online Test: Candidates take a 90-minute online test, which includes multiple-choice questions, coding tasks, and a SQL query. 4. Interview: Selected candidates are invited for a face-to-face interview with a hiring manager or team. 5. Offer: Successful candidates receive a job offer, which includes a salary and benefits package."
+    ]
+  },
+  {
+    "company": "Dell_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": null,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [
+      "19/02/25"
+    ],
+    "location": [],
+    "rounds": [
+      "Selection Process: The question regarding employment sponsorship is primarily relevant to foreign citizens. \"Current Employer\" does NOT refer to the institute that you are currently studying at. You will have the opportunity to work on meaningful projects and partner with professionals across the globe. You will perform tasks of varying complexity, requiring judgement with limited direct supervision. You will work on overflow tasks from various groups within the company. You will participate in special projects as needed. You are required to have M.Tech with specialization in Data Science or AI. You are required to have ongoing course work with relevant projects in Data Science and Data Engineering. You are required to have Python, SQL, Macro, Basic Programming skills. You are required to have the ability to prioritize and maintain organization in day-to-day activities. You are required to have the ability to follow process, policies and practices to achieve consistency and compliance. You are required to have critical thinking and problem-solving skills. You are encouraged to communicate well with senior level team members. You are required to have collaboration skills. You are required to have data management skills. You will be selected based on an online test. The online test will consist of 17 questions, including 2 coding questions (1 SQL, 1 coding), 15 MCQs, and will be 90 minutes long. Out of 80 students who take the online test, 80 will be shortlisted for the next round. From the rest of the 64 students, 5 will be called for other roles. The next round will be for the Graduate Intern Marketing role on 19/02/25."
+    ]
+  },
+  {
+    "company": "Dell_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [],
+    "rounds": [
+      "SELECTION PROCESS We follow a rigorous selection process to ensure that we find the best talent for our teams. Our process includes several rounds, each designed to assess different skills and competencies. Round 1: Application Review In the first round, we review applications to ensure that candidates meet the minimum eligibility criteria. This includes checking academic records, projects, and work experience. Round 2: Technical Assessment The second round is a technical assessment, where candidates are evaluated on their problem-solving abilities, analytical thinking, and coding skills. This round may include coding challenges, data analysis tasks, or algorithm design questions. Round 3: Interview The third round is a face-to-face or virtual interview with a team member or hiring manager. This round is designed to assess communication skills, cultural fit, and motivation. Candidates may be asked behavioral questions, technical questions, or may be asked to present a project or solution. Round 4: Background Check The final round is a background check, where we verify educational qualifications, work history, and criminal records. This round is essential to ensure that we hire candidates who meet our high standards of integrity and trustworthiness. We believe that our selection process is fair, transparent, and merit-based, and we are committed to providing equal opportunities to all candidates. ---------------- SELECTION PROCESS"
+    ]
+  },
+  {
+    "company": "Emerson_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 45000,
+    "duration_months": 6,
+    "cgpa_min": 5.3,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "SELECTION PROCESS The eligibility criteria for the Software Engineer Intern position include having a B.E./ B.Tech./ Computer Science/ Information Technology / Electronics/Electrical degree with a minimum of 70% or 7 CGPA. The candidates must also have good programming skills, preferably in C/ C++/ C#/ Python, and excellent communication skills. The selection process for the Software Engineer Intern position involves an online written test in Data Science Lab Innovation center, which is a video-only test with no audio. The test consists of two coding questions, both of medium level. The candidates who pass this test will be considered eligible for the interview round. The interview round will be conducted in the form of a coding test, which allows the use of C#/C++/C and Python. The internship duration is from July 2025 to December 2025, with the possibility of extension until June 2026 based on intern performance and business needs. The candidates who perform exceptionally in the evaluation process may be offered a PPO (Pre-Placement Offer) along with the internship, while others will be evaluated during the internship period for performance. Full-time positions, if offered, will be based on business needs and student performance during the internship. The full-time CTC (Cost to Company) is 15.381 LPA, and additional benefits for full-time roles are not applicable for the internship. The candidates must opt-in for the internship and apply before 27th February 2025, 10:00 AM. The start date for the internship will be announced later."
+    ]
+  },
+  {
+    "company": "Ericsson_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 60000,
+    "duration_months": 12,
+    "cgpa_min": 6.5,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the Student Internship Program consists of the following stages: 1. Application: Candidates are required to apply online through the Ericsson Career Website. 2. Eligibility Check: Candidates who meet the eligibility criteria will be shortlisted for the next round. 3. Technical Interview: Shortlisted candidates will be invited for a technical interview, which will assess their technical skills and knowledge. 4. HR Interview: Candidates who pass the technical interview will be invited for an HR interview, which will assess their communication skills, teamwork abilities, and cultural fit. 5. Offer: Candidates who pass both the technical and HR interviews will be extended an offer."
+    ]
+  },
+  {
+    "company": "GE Healthcare_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 28000,
+    "duration_months": 9,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [],
+    "rounds": [
+      "Selection Process: The intern should deliver on the assigned projects within the defined timelines, under minimal supervision and guidance. The intern should attempt to learn and understand the problem statements and offer ways to resolve the same. The intern should learn the assigned and / or skills (technical/functional/behavioural) as required to succeed in the role achieving the desired results. The intern should be a good team player and uphold integrity. The intern should be open to be mentored, seek feedback. The intern should have strong interpersonal skills, capable of working within a globally diverse team across different time zones. The intern should have a M.Tech degree in Computer Science Engineering, Electronics & Communication Engineering, Electrical & Electronics Engineering, Electrical Engineering & Mechanical Engineering. The intern should have a 70% or 7 CGPA aggregate in the current degree. The intern should have no active backlogs at the time of application. The intern should be willing to work in GE HealthCare premises during the internship. The intern should be willing to work on any projects as assigned based on fitment and business need. The internship duration is 9 months. Note: Intern conversion to FTE is subject to interns’ performance and based on business need."
+    ]
+  },
+  {
+    "company": "Hachidori_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 30000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Robotics Application Engineer Intern position at Hachidori Robotics involves the following stages: 1. Application Review: Applications will be reviewed based on the eligibility criteria mentioned above. 2. Technical Interview: Selected candidates will be invited for a technical interview where they will be evaluated on their problem-solving skills and programming abilities. 3. Hands-on Project: Selected candidates will be required to complete a hands-on project to demonstrate their ability to apply theoretical knowledge to practical problems. 4. Final Interview: Selected candidates will be invited for a final interview with the hiring manager and other team members to assess their fit with the team and the organization."
+    ]
+  },
+  {
+    "company": "Honeywell_MTech_2026_",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [],
+    "rounds": [
+      "Selection Process: Candidates will be shortlisted based on their academic records and eligibility criteria. Shortlisted candidates will be invited for a technical interview. The interview will consist of a coding round and a system design round. Candidates who clear the interview will be offered the internship."
+    ]
+  },
+  {
+    "company": "Intel_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 50000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the role of Hardware Engineer involves multiple rounds. In the first round, candidates are evaluated based on their academic records and technical skills through a written test or coding assessment. Candidates who perform well in this round are invited for interviews. The interview process typically involves a series of technical interviews with different teams. These interviews may focus on specific areas of hardware design, such as logic design, RTL coding, verification, and physical design. Candidates may also be asked about their experience and motivation for the role. The final selection is based on the candidate's performance in the interviews and their overall fit with the team and the organization. Candidates who are selected are offered a position and a compensation package. For the role of Software Engineer, the selection process is similar but may involve different rounds and assessments. Candidates may be evaluated based on their academic records, technical skills, and experience. They may be asked to participate in coding challenges or design exercises during the interview process. The final selection is based on the candidate's technical skills, problem-solving abilities, and cultural fit with the team and the organization. The eligibility criteria for both roles include a Master's degree with a minimum CGPA of 7. Candidates are not subjected to direct resume screening, but are shortlisted based on their academic records and invited for interviews. The selection process is competitive, with multiple teams interviewing candidates for each role. Ultimately, one candidate is selected for each role and offered an internship or full-time position."
+    ]
+  },
+  {
+    "company": "Intel_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 45000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Software Engineering Intern role at Intel India consists of the following stages: 1. Application: Candidates are required to apply online through the Intel Careers website. 2. Profile & CTC Round: Shortlisted candidates are invited for a round where they discuss their profile and expected compensation. 3. Technical Interview: Candidates are evaluated on their technical skills and problem-solving abilities. 4. System Design Interview: Candidates are assessed on their ability to design a system from scratch. 5. HR Interview: Candidates are interviewed by the HR team to assess their fit with the organization."
+    ]
+  },
+  {
+    "company": "Intel_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 50000,
+    "duration_months": 6,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship positions at Intel consists of the following stages: 1. Application Review: Applications will be reviewed based on the eligibility criteria mentioned above. 2. Technical Interview: Selected candidates will be invited for a technical interview where they will be assessed on their problem-solving skills and technical knowledge. 3. HR Interview: Selected candidates will be interviewed by the HR team to assess their fit with the organization and the team. 4. Project Presentation: Selected candidates will be required to present their project ideas and solutions to a panel of experts. 5. Final Selection: The final selection will be based on the overall performance of the candidate in all the above stages."
+    ]
+  },
+  {
+    "company": "Ivanti_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship program consists of three rounds. Round 1: Online Assessment This round includes a series of online tests to assess the candidate's technical skills, logical reasoning, and problem-solving abilities. Round 2: Technical Interview The candidates who clear Round 1 will be invited for a technical interview. This round is designed to evaluate the candidate's in-depth knowledge of their field and their ability to apply that knowledge to real-world problems. Round 3: HR Interview The final round is an HR interview, where the candidate's communication skills, teamwork abilities, and cultural fit are evaluated. Candidates who successfully clear all three rounds will be offered the internship."
+    ]
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "General Engineering Intern",
+    "stipend": 52000,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [
+      "20/01/25"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: For the ASIC Internship: - Pen and paper test for the ASIC role will be conducted on 23rd January. Interview date for this role is yet to be decided. For the COO Internship: - Online test for Data Science and COO shortlist will be conducted on 20th Jan @ 6 PM. Interview will be offline on 23rd January."
+    ]
+  },
+  {
+    "company": "Marvell Technology_",
+    "role": "General Engineering Intern",
+    "stipend": 55000,
+    "duration_months": 12,
+    "cgpa_min": 7.0,
+    "apply_by": [],
+    "location": [
+      "Hyderabad",
+      "Bangalore",
+      "Pune"
+    ],
+    "rounds": [
+      "Selection Process Marvell follows a rigorous selection process for hiring the best talent. The process includes the following rounds: 1. Online Written Test: - Eligibility Criteria: 7 CGPA in PG(Master's) - BDA branch was made Ineligible at the final movement on the exam day!!! - Role: ML Engineer Intern(Driver Complier Design for ML models) - Glider Rank based online site - 1 hour - online protected written test in Innovation Center Lab (video and audio) - 2 sections: 1 - MCQ's Technical + Aptitude 2 - MCQ's Code Snippets 2. Second Round: - Technical interview conducted in MIT Placement cell 3. Fourth Round: - HR interview conducted in MIT Placement cell Note: Students who opt-in for NeoPAT are informed to apply/register on the workday with the provided link to ease the interview process. The link will be active till Jan 16th, EOD. The drive will be physical on 28th and 29th January 2025."
+    ]
+  },
+  {
+    "company": "NTRO_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 6,
+    "cgpa_min": 7.5,
+    "apply_by": [
+      "10 May"
+    ],
+    "location": [
+      "Remote"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship program consists of the following stages: 1. Eligibility Check: The eligibility of the applicant is checked based on the following criteria: a. The applicant must have a valid PG degree with a minimum CGPA of 75% or 7.5 on a 10-point scale. b. The applicant must have a valid email address and a mobile number. c. The applicant must have a valid resume. 2. Shortlisting: Based on the eligibility check, the applicants are shortlisted for the next round. 3. Technical Interview: The shortlisted applicants are called for a technical interview, which is conducted online. The interview is designed to assess the applicant's technical skills and problem-solving abilities. 4. HR Interview: The applicants who clear the technical interview are called for an HR interview. The HR interview is conducted to assess the applicant's communication skills, teamwork abilities, and cultural fit. 5. Offer: The applicants who clear both the technical and HR interviews are offered an internship. NONE Selection Process"
+    ]
+  },
+  {
+    "company": "NetApp_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 60000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "28/02/25"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the NetApp IT Intern and MTS Intern roles involves several rounds. First, applicants must meet the eligibility criteria, which includes pursuing a relevant degree and achieving a minimum GPA. Next, they must complete an online test, which includes coding questions and multiple-choice questions. Those who pass the online test are invited for a technical interview with a panel. After the technical interview, candidates are invited for a managerial interview. Finally, a select number of candidates are offered the internship."
+    ]
+  },
+  {
+    "company": "Niftrix_MTech_2026",
+    "role": "Backend Developer Intern",
+    "stipend": 15000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "07 Apr"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the Full Stack Developer, iOS Developer, and Android Developer positions involves the following steps: 1. Eligibility Criteria: Candidates must meet the eligibility criteria, which includes pursuing an M.E./M.Tech degree in Computer Science, Information Technology, or related fields, and having a minimum of 70% or 7 CGPA in their UG and PG studies. 2. Opt-In: Students who have opted-in for the internship program can directly apply. 3. Interview: Selected candidates will be invited for an interview. 4. Duration and Start Date: The duration of the internship is 12 months, and the start date will be announced later. 5. Round Details: The selection process includes a profile and CTC round, followed by multiple profiles and a stipend round. 6. Apply Before: Candidates must apply before 07 Apr 2025, 10:00 AM."
+    ]
+  },
+  {
+    "company": "Nissan Digital_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 20000,
+    "duration_months": 6,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [],
+    "rounds": [
+      "Selection Process The selection process for the internship consists of two rounds. In the first round, candidates will be evaluated based on their academic records and projects. In the second round, candidates will be called for a personal interview. The final selection will be based on the overall performance of the candidates in both rounds."
+    ]
+  },
+  {
+    "company": "Noika",
+    "role": "General Engineering Intern",
+    "stipend": null,
+    "duration_months": null,
+    "cgpa_min": 6.5,
+    "apply_by": [
+      "9 March"
+    ],
+    "location": [],
+    "rounds": [
+      "Selection Process The selection process for Student Hackathon consists of two rounds. In the first round, participants will be evaluated based on their coding skills and knowledge through an online coding test and multiple choice questions (MCQs). The top performers from this round will be invited for the second round, which will be a 2.5 hour online protected written test, conducted remotely via video call. This round will consist of two coding tasks and 25 MCQs. The final selection will be based on the performance in both rounds. EXTRACTED TEXT: ---------------- The selection process for Student Hackathon consists of two rounds."
+    ]
+  },
+  {
+    "company": "Novartis_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 1,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Hyderabad"
+    ],
+    "rounds": [
+      "Round 2 Multiple Profiles Technical Interview E35TPM ---------------- Round 3 Multiple Profiles HR Interview E35TPM ---------------- Round 4 Multiple Profiles Final Offer E35TPM ---------------- Selection Process: The selection process for the Data Science Intern role will be conducted on 10th or 11th April. The exact date will be communicated once confirmed. The Trainee Engineer role will be an internship + FTE (Internship + confirmed full-time offer) model. The CTC details for reference are: M.Tech/M.E: Annual Base Salary: E970,000, Cost to Company: E1,140,743, Joining Bonus: E200,000. It is mandatory for all students to select the role preference again in the optional form field."
+    ]
+  },
+  {
+    "company": "Nvidia_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 80000,
+    "duration_months": 6,
+    "cgpa_min": null,
+    "apply_by": [
+      "06 Feb",
+      "20/01/25",
+      "07 Feb"
+    ],
+    "location": [
+      "Pune"
+    ],
+    "rounds": [
+      "Selection Process: The candidate will be responsible for supporting in design and development of software solutions in the areas of Chip Resource Manager, Graphics, Video, 2D and 3D graphics under OpenGL and DirectX, ISP, driver stacks for Windows and Linux OS. We are looking for Interns who are passionate about working at the intersection of leading-edge graphics, multimedia and operating system software. What you'll be doing: - Principles of hardware operation: CPU and memory architecture, buses and interconnects - Operating System fundamentals: multi-processing and scheduling, memory management, privilege modes, file systems and device drivers - Algorithms and data structures - Principles of parallel computing - C and/or C++ programming languages - Python / PERL knowledge is preferred What we need to see: - Strong academic background - Pursuing M. tech/BTech in Computer Science or E&C - Good understanding of programming languages and processor architecture - Good understanding of Operating System Fundamentals. - Knowledge of Linux kernel is a plus - Strong C/C++ programming skills - Knowledge of scripting (Perl or python) is a plus - Candidates should have a solid background in Operating System, Algorithm development - Knowledge on Object-oriented programming is highly a plus in C / C++ Or Java - Aptitude in innovative and optimal designs Ways to stand out from the crowd: - Exposure to Digital Systems, Computer Architecture, Computer Arithmetic, Software Engg., - C & C++ programming languages, assembly language programming, system level integration & system level programming is preferred. - Good communications skills and ability and desire to work as a team player are a must. The candidate will be assessed based on their academic background, programming skills, understanding of operating systems and algorithms, and problem-solving abilities. The selection process includes an online test, attendance profile and CTC round, and a system software engineering intern round. The stipend for the internship is 80T PM. The internship period is from July 2025 to Dec 2025. The skills to be assessed include C, C++ programming, and analytical and problem-solving skills. The rounds will be conducted on February 7, 2025"
+    ]
+  },
+  {
+    "company": "Nvidia_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 80000,
+    "duration_months": 6,
+    "cgpa_min": 7.8,
+    "apply_by": [
+      "08 May"
+    ],
+    "location": [
+      "Pune"
+    ],
+    "rounds": [
+      "Selection Process: - Innovation: Demonstrate a keen interest in emerging tech trends, particularly in AI and ML, and a desire to apply these technologies in innovative projects. - Compiler Test Development: Develop and review test plans, implement test cases, automate tests, integrate tests into NVIDIA test management frameworks, port 3rd party testing, and author test reports. - Process Improvement: Utilize current iterative planning and test development processes. Identify potential or observed weaknesses in current process, offer ideas for actions that can improve quality, and participate in quality initiatives. - Test Automation: Automate compiler testing using NVIDIA test frameworks and by programming. Includes test execution, test reporting, and results analysis and automation of build and test environments. Work with software compiler developers and assist in providing automated solutions for unit testing. - Test Operations: Utilize test suites to find, report and track compiler performance changes. Work with development team to drive regressions to resolution. Generate statistics based on performance data, identify and investigate outliers and monitor performance trends. Maintain historical data and baselines for comparison. - Analysis: Analyze performance degradation or functional defect of compilers, identify regression root cause, suggest corrective action, and perform reviews to continuously improve testing. - Develop and review test plans, implement test cases, automate tests, integrate tests into NVIDIA test management frameworks, port 3rd party testing, and author test reports. - Utilize current iterative planning and test development processes. - Analyze performance degradation or"
+    ]
+  },
+  {
+    "company": "Philips_MTech_2026_",
+    "role": "General Engineering Intern",
+    "stipend": 55000,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore",
+      "Bengaluru"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the role involves the following steps: 1. Application: Candidates are required to apply online through the Philips careers website. 2. Shortlisting: Applications are shortlisted based on the eligibility criteria and the skills and experience mentioned in the job description. 3. Assessments: Shortlisted candidates are invited to take online assessments to evaluate their technical and problem-solving skills. 4. Interview: Candidates who perform well in the assessments are invited for a face-to-face interview with the hiring manager and other team members. 5. Offer: Candidates who are successful in the interview are extended an offer, which includes details of the compensation package and other benefits. 6. Background Check: Before joining, candidates are required to undergo a background check, which includes verification of educational qualifications and employment history. NONE"
+    ]
+  },
+  {
+    "company": "PowerSchool_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 25000,
+    "duration_months": null,
+    "cgpa_min": 6.0,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Technical Support Intern position involves the following steps: 1. Application Review: Applications are reviewed based on eligibility criteria and requirements. 2. Technical Assessment: Candidates who meet the eligibility criteria and requirements are invited for a technical assessment. This assessment includes a coding test and a problem-solving exercise. 3. Interview: Candidates who perform well in the technical assessment are invited for an interview. The interview focuses on their technical skills, problem-solving abilities, and communication skills. 4. Background Check: Candidates who are offered a position are subjected to a background check. 5. Offer: Candidates who pass the background check are extended an offer. NONE Selection Process"
+    ]
+  },
+  {
+    "company": "ResMed_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 60000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "10/02/25"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Data Engineering Internship at ResMed involves the following rounds: 1. Online Test: Candidates who meet the eligibility criteria will be invited to take an online test. The test consists of multiple choice questions (MCQs) and a coding question. 2. Technical Interview: Candidates who pass the online test will be invited for a technical interview. The interview will be conducted by a panel of experts and will focus on the candidate's technical skills and knowledge. 3. Managerial Interview: Candidates who pass the technical interview will be invited for a managerial interview. The interview will focus on the candidate's problem-solving skills, communication skills, and ability to work in a team. 4. Final Round: A select few candidates from the managerial interview round will be invited for the final round. The final round may involve a presentation or a project showcase. 5. Offer: Candidates who perform well in the final round will be offered the internship. The selection process for the Software Engineer Internship and Data Science Internship at ResMed is similar to the Data Engineering Internship, with some differences in the eligibility criteria and the focus of the interviews. For the Software Engineer Internship, candidates must have a Master's degree in a relevant field and proficiency in at least one programming language. The interviews will focus on the candidate's coding skills and problem-solving abilities. For the Data Science Internship, candidates must have a Master's degree in a relevant field and proficiency in statistical analysis methods and machine learning algorithms. The interviews will focus on the candidate's data analysis skills and ability to develop and deploy machine learning models. For the Machine Learning Ops Internship, candidates must have a Master's degree in a relevant field and basic knowledge of data collection, preparation, and feature engineering pipelines, as well as CI/CD pipelines. The interviews will focus on the candidate's infrastructure design and implementation skills and ability to work with cloud platforms. All internships have the same eligibility criteria for the online test and the same rounds of interviews, with the exception of the focus of the interviews based on the specific role. The selection process for the Machine Learning Ops Internship also includes identifying, designing, and implementing internal process improvements and building infrastructure needed for AWS platform. The"
+    ]
+  },
+  {
+    "company": "SAP Labs_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "27 February"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the graduate intern role at SAP Labs consists of the following rounds: 1. Online Test: This is a mandatory round for all applicants. It is a 45-minute, SAP-based, written test that can be taken remotely. The test includes two coding questions of easy level. 2. Technical Interview: This round is based on a panel interview. Candidates who clear the online test are invited for this round. 3. Managerial Interview: This round assesses a candidate's managerial skills and potential. Only those who clear the technical interview are invited for this round. 4. Final Round: The final round is a one-on-one interview with a hiring manager. Only one candidate is selected for the role in each round. The eligibility criteria for the graduate intern role at SAP Labs are: - A minimum of 70% or 7 CGPA throughout the academic career. - Applicants must apply before the last date and time for their preferred location. The role details for the graduate intern role are: - Role: Graduate Intern - Designation: Core I (Spot) - Stipend: INR 35,000 per month - Duration: 12 months - Start Date: To be announced The application deadline for the graduate intern role is 27th February 2025, 11:00 AM. Online Test 2. Technical Interview 3. Managerial Interview 4. Final Round The online test is a mandatory round for all applicants and consists of two coding questions of easy level. The technical interview is based on a panel interview and is for those who clear the online test. The managerial interview assesses a candidate's managerial skills and potential, and only those who clear the technical interview are invited for this round. The final round is a one-on-one interview with a hiring manager, and only one candidate is selected for the role in each round."
+    ]
+  },
+  {
+    "company": "STMicrelectronics_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "03 May"
+    ],
+    "location": [
+      "Noida"
+    ],
+    "rounds": [
+      "Selection Process Students are informed to apply in the below link and Opt-in NeoPAT to be eligible for the selection process. Resume format should be like the attached \"Intern CV format\" <https://stmicroelectronics.eightfold.ailevents/candidate/landing?plannedEventid=6nJ6wXK033> The selection process for the internship program at STMicroelectronics involves the following steps: 1. Eligibility Check: Candidates must meet the eligibility criteria, which includes having a CGPA of 65% or above and applying before the last date and time. 2. Application: Candidates must apply through the provided link and opt-in for NeoPAT. They must also ensure their resume is in the specified format. 3. Profile & CTC Round: In this round, candidates are evaluated based on their profile and current CTC. 4. Multiple Profiles Round: In this round, candidates are evaluated based on their fit for multiple profiles. 5. Stipend Round: The final round involves negotiation of stipend. Candidates are informed to read the drive description carefully and ensure they meet the criteria before applying. They are also advised to download the file for detailed information."
+    ]
+  },
+  {
+    "company": "Sabic_MTech_2026_",
+    "role": "General Engineering Intern",
+    "stipend": 25000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "20 Feb"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship program consists of the following steps: 1. Eligible candidates are shortlisted based on their academic records and project work. 2. Shortlisted candidates are invited for a technical interview. 3. The final selection is based on the performance in the interview."
+    ]
+  },
+  {
+    "company": "Sabic_MTech_2026_",
+    "role": "General Engineering Intern",
+    "stipend": 25000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "24 Mar",
+      "21 Mar"
+    ],
+    "location": [
+      "Bangalore",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "rounds": [
+      "Selection Process: Objectives: - Understand the behavior of EM waves, on interaction with periodic structures (e.g.: surface roughness, pyramid structure etc.) of different length scale. - The behavior of the EM waves on different surfaces can change with varying frequencies. The physics governing these behavior needs to be understood, characterized, and implemented in the modelling. - Develop & validate analytical and simulation methods to predict the system level performance with these features for specified application. Work Scope: - Thorough research to understand the physics of wave interaction with different surfaces features. - Perform literature search, benchmarking, and baseline studies/analysis. - Learn the predictive tools required for the project. - Develop the predictive models to understand and evaluate the effect of these surface features for specified applications (Eg: ADAS Radome/Absorber, Antennas etc.) - Work with team members to prototype and test the design concept. - Validate the CAE model with the test results. - Documentation and reporting. Please select the type of internship - Engineering interns - 6 to 10 Months Assigned project lead/mentor for the intern - Priyanka Bhagawath"
+    ]
+  },
+  {
+    "company": "Samsung Electro Mechanics_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 30000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "21 May"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Campus Recruitment Drive 2025-26 consists of the following rounds: 1. Online Written Test 2. Technical Interview 3. HR Interview 4. Final Interview The Online Written Test will be conducted online and will consist of multiple-choice questions and coding problems. The duration of the test will be 2 hours. The Technical Interview will be conducted by the technical team and will focus on the candidate's technical skills and knowledge. The interview will consist of questions related to the job description and the candidate's academic background. The HR Interview will be conducted by the HR team and will focus on the candidate's personality traits, communication skills, and work experience. The interview will also include questions about the candidate's motivation and career goals. The Final Interview will be conducted by the hiring manager and will be the final round of the selection process. The interview will focus on the candidate's overall fit for the role and the organization. The interview will also include questions about the candidate's previous projects and work experience. The selection process may vary slightly depending on the specific requirements of the role and the organization. However, the above rounds are the general steps involved in the selection process for the Campus Recruitment Drive 2025-26."
+    ]
+  },
+  {
+    "company": "Saviynt_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 70000,
+    "duration_months": 12,
+    "cgpa_min": 1.5,
+    "apply_by": [
+      "22/02/25"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the Associate Consultant role at Saviynt involves the following steps: 1. Eligibility Criteria: Candidates must meet the eligibility criteria, which includes having a Bachelor’s degree or equivalent in Computer Science, Information Technology, or a related field, and a minimum of 70% or 7 CGPA in their UG and PG studies. 2. Online Test: Candidates who meet the eligibility criteria will be invited to take an online test. The test consists of two coding questions (one medium and one hard level), 28 multiple-choice questions, and lasts for 1.5 hours. 3. Internship: Candidates who perform well in the online test will be invited for an internship. The duration of the internship is 12 months, and the stipend is INR 270 TPM. 4. Second Round: After the internship, candidates will be invited for a second round of interviews. This round consists of a technical interview, which lasts for 30 minutes and covers topics such as Java, Networking, and resume-based questions. NONE"
+    ]
+  },
+  {
+    "company": "Schneider_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 10,
+    "cgpa_min": 6.5,
+    "apply_by": [],
+    "location": [
+      "Bengaluru"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Master Engineer Trainee Internship role at Schneider Electric involves the following steps: 1. Application: Candidates are required to apply online through the Schneider Electric career portal. 2. Shortlisting: Based on the eligibility criteria and the application, a shortlist of candidates is prepared. 3. Assessments: Shortlisted candidates are invited to take online assessments, which include aptitude tests, technical tests, and behavioral assessments. 4. Interview: Candidates who perform well in the assessments are invited for a personal interview with the hiring manager or a panel of interviewers. 5. Offer: Candidates who are successful in the interview are extended an offer letter, which includes details of the compensation package and the terms and conditions of employment. 6. Background Verification: Before joining, candidates are required to undergo a background verification process. 7. Medical Examination: Candidates are required to undergo a medical examination to ensure they are fit to work in the organization. 8. Onboarding: Selected candidates are onboarded and undergo a comprehensive orientation program to familiarize them with the organization and their role."
+    ]
+  },
+  {
+    "company": "Signify_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "11 Feb",
+      "10 Feb"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Assistant Development Engineer role at Signify Innovation Lab consists of the following rounds: 1. Online Test: This is a 85-minute protected online test conducted remotely (video, audio, and screen). It includes 2 coding questions (one in C-based and one in Java-based) and 24 multiple-choice questions (12 cognitive and 12 logical). 2. Technical Interview: This is a panel interview for non-technical roles. 3. Managerial Interview: This is a round for assessing managerial skills. 4."
+    ]
+  },
+  {
+    "company": "Stryker_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 50000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [
+      "05 Feb",
+      "06 Feb",
+      "06 February"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Stryker MTech 2026 program consists of the following rounds: 1. Online Test: This round involves a 90-minute online test that includes multiple sections such as technical, cognitive, logical, visualization, and literature. The technical section has the highest weightage and consists of 50 questions. 2. Interview: The top 10 students from the first round are invited for a 30-45 minute interview round conducted in the placement cell. The interview panel consists of 5 members and includes questions related to projects, SQL, Python, and other technical skills. 3. Offer: The final offer is made based on the performance in the interview round. The selected candidates are offered a data analyst role with a CTC of INR 13L + 2L for CS students and INR 10L + 2L for non-CS students."
+    ]
+  },
+  {
+    "company": "Suprajit_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 30000,
+    "duration_months": 12,
+    "cgpa_min": 6.5,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the internship consists of two rounds. In the first round, the candidates will be evaluated based on their academic performance and their responses to a set of questions related to their technical skills and interests. The top candidates from this round will be invited for the second round, which will consist of a coding challenge and a technical interview. The final selection will be based on the performance in both rounds. ---------------- EXTRACTED TEXT: ---------------- The selection process for the internship consists of two rounds."
+    ]
+  },
+  {
+    "company": "Synaptics_MTech_2026",
+    "role": "Embedded Systems Intern",
+    "stipend": 35000,
+    "duration_months": 11,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Hyderabad"
+    ],
+    "rounds": [
+      "SELECTION PROCESS The selection process for the MTech course at Novartis will be conducted on the campus on 10th or 11th April. The exact date will be communicated once confirmed. The selection process will consist of the following rounds: Round 1: Profile & CTC This round will involve multiple profiles and the stipend for the selected candidates will be E35T PM."
+    ]
+  },
+  {
+    "company": "Techolution_MTech_2026",
+    "role": "ML / AI Intern",
+    "stipend": 30000,
+    "duration_months": null,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Hyderabad"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Generative AI Intern role at Techolution involves the following stages: 1. Application: Candidates are required to submit their application through the Techolution portal or drive. 2. Screening: Applications are screened based on eligibility criteria, including academic records, location, and work experience. 3. Technical Assessment: Shortlisted candidates are invited to take a technical assessment, which may include coding challenges, problem-solving tasks, and algorithm design questions. 4. Interview: Successful candidates from the technical assessment are invited for a face-to-face or remote interview with the hiring team. 5. Offer: Candidates who perform well in the interview are extended an offer, which includes details about the CTC, start date, and other employment terms. 6. Background Check: Selected candidates undergo a background check, which includes verification of academic records, work experience, and criminal history. 7. Onboarding: Once the background check is completed, new hires undergo an onboarding process, which includes orientation, training, and setting up their workstation. NONE"
+    ]
+  },
+  {
+    "company": "Thales_MTech_2026_",
+    "role": "Embedded Systems Intern",
+    "stipend": 25000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Hyderabad",
+      "Chennai",
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the Embedded Engineer - Intern and RTL Design Intern positions includes the following steps: 1. Application: Candidates must submit their application through the company's career portal, including their resume, cover letter, and academic transcripts. 2. Eligibility Check: Candidates must meet the minimum eligibility criteria for the position, such as educational qualifications and CGPA requirements. 3. Technical Assessment: Shortlisted candidates will be invited to take a technical assessment, which may include written tests, coding challenges, or design exercises. 4. Interview: Successful candidates from the technical assessment will be invited for a face-to-face or virtual interview with the hiring manager and/or technical team. 5. Background Check: Selected candidates will undergo a background check, which may include verification of educational qualifications, criminal records, and employment history. 6. Offer: Candidates who pass the background check will receive a job offer, which will include details such as salary, start date, and benefits. NONE (For RTL Design Intern job text)"
+    ]
+  },
+  {
+    "company": "Thomson Reuters_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 70000,
+    "duration_months": 21,
+    "cgpa_min": null,
+    "apply_by": [
+      "13/03/25"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the Data & Analytics Intern role at Thomson Reuters involves the following steps: 1. Eligibility Check: Candidates must meet the eligibility criteria, which includes having a minimum of 70% or 7 CGPA throughout their academic career and passing a Hacker Rank based online test. 2. Application: Candidates must apply for the role through the Thomson Reuters careers website before the deadline. 3. Round 1: Technical Online Interview: Candidates who pass the eligibility check will be invited for a technical online interview, which will be conducted remotely and mainly based on their resume. 4. Round 2: Stipend Negotiation: Candidates who perform well in the technical online interview will be invited for stipend negotiation, where they can discuss their expected compensation for the internship. 5. Placement: Candidates who successfully complete the stipend negotiation will be offered a placement in the Data & Analytics team at Thomson Reuters."
+    ]
+  },
+  {
+    "company": "Tishyas Medical Device_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 18000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the E18T PM role consists of the following stages: 1. Application Screening 2. Technical Assessment 3. Interview 4. Project Assessment 5. Offer Application Screening During this stage, the applications are screened based on the eligibility criteria mentioned above. The candidates who meet the eligibility criteria are shortlisted for the next round. Technical Assessment In this round, the shortlisted candidates are given a technical assessment test. The test consists of multiple-choice questions and coding problems. The candidates are given a time limit to complete the test. Interview The candidates who clear the technical assessment are called for an interview. The interview is conducted by the hiring manager or a senior technical expert. The interview focuses on the candidate's technical skills, problem-solving abilities, and communication skills. Project Assessment The candidates who clear the interview are given a project to work on. The project is designed to assess the candidate's ability to apply their technical skills to real-world problems. The project is evaluated by a team of experts. Offer The candidates who clear the project assessment are given an offer. The offer includes the salary, benefits, and other terms and conditions of employment. ---------------- EXTRACTED TEXT: ---------------- Selection Process 1. Offer ----------------"
+    ]
+  },
+  {
+    "company": "Videojet_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 35000,
+    "duration_months": 12,
+    "cgpa_min": null,
+    "apply_by": [],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process: The selection process for the C++ Software Development Internship at Videojet Technologies will consist of the following rounds: 1. Application Review: Candidates who meet the eligibility criteria will be shortlisted for the next round. 2. Technical Interview: Shortlisted candidates will be invited for a technical interview where they will be assessed on their programming skills and problem-solving abilities. 3. HR Interview: Candidates who clear the technical interview will be called for an HR interview where they will be assessed on their communication skills, teamwork abilities, and overall fit with the organization. 4. Final Round: The final round will consist of a presentation where candidates will be required to present a solution to a real-world problem. This round is designed to assess their ability to apply their programming skills to real-world scenarios. NONE"
+    ]
+  },
+  {
+    "company": "Volvo_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 9,
+    "cgpa_min": 6.5,
+    "apply_by": [
+      "14 Mar"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for NeoPAT consists of two rounds. In the first round, the students' attendance profile and CTC will be evaluated. Students who meet the eligibility criteria and have a good attendance record and CTC will be shortlisted for the second round. In the second round, students will be given a problem statement to solve within a stipulated time frame. The students who solve the problem statement correctly and efficiently will be selected for the NeoPAT program."
+    ]
+  },
+  {
+    "company": "Volvo_MTech_2026",
+    "role": "General Engineering Intern",
+    "stipend": 40000,
+    "duration_months": 9,
+    "cgpa_min": 6.5,
+    "apply_by": [
+      "21 April",
+      "80 markets"
+    ],
+    "location": [
+      "Bangalore"
+    ],
+    "rounds": [
+      "Selection Process The selection process for the Volvo MTech 2026 drive consists of three rounds. Round 1: Internship Round In this round, candidates who meet the eligibility criteria will be invited for an internship. The duration of the internship is 9 months and the stipend is 40TPM. Round 2: Technical Round The technical round is the second round of the selection process. Candidates who clear the internship round will be invited for this round. This round will consist of a technical interview and a coding round. Round 3: HR Round The final round of the selection process is the HR round. Candidates who clear the technical round will be invited for this round. This round will consist of a group discussion and a personal interview. Candidates who clear all three rounds will be offered a job with the Volvo Group India. ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    ]
+  }
+]

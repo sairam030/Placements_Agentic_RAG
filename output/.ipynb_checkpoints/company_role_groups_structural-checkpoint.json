@@ -1,0 +1,713 @@
+{
+  "ABB_MTech_2026": {
+    "company_id": "ABB_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/ABB_MTech_2026/ABB_MTech_2026.png",
+          "placements_data/Placements/ABB_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Aditya Auto Products_MTech_2026": {
+    "company_id": "Aditya Auto Products_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Aditya Auto Products_MTech_2026/Job Description AL & ML.docx",
+          "placements_data/Placements/Aditya Auto Products_MTech_2026/JD Data Analyst.docx",
+          "placements_data/Placements/Aditya Auto Products_MTech_2026/Aditya Auto Products_MTech_2026.png",
+          "placements_data/Placements/Aditya Auto Products_MTech_2026/JD Data science.docx",
+          "placements_data/Placements/Aditya Auto Products_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Aditya Birla_MTech_2026": {
+    "company_id": "Aditya Birla_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Aditya Birla_MTech_2026/JD- Intern.docx",
+          "placements_data/Placements/Aditya Birla_MTech_2026/Info.txt",
+          "placements_data/Placements/Aditya Birla_MTech_2026/Aditya Birla_MTech_2026.png"
+        ]
+      }
+    }
+  },
+  "Amazon_MTech_2026": {
+    "company_id": "Amazon_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Amazon_MTech_2026/L4_Business Analyst I_Internship_2025.pdf",
+          "placements_data/Placements/Amazon_MTech_2026/Amazon_MTech_2026.png",
+          "placements_data/Placements/Amazon_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Analog Devices": {
+    "company_id": "Analog Devices",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Analog Devices/Manipal Internship FY25.docx",
+          "placements_data/Placements/Analog Devices/DevOps Intern_JD.pdf",
+          "placements_data/Placements/Analog Devices/Analog Devices.png",
+          "placements_data/Placements/Analog Devices/Info.txt"
+        ]
+      }
+    }
+  },
+  "ArcherIRM_MTech_2026": {
+    "company_id": "ArcherIRM_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/ArcherIRM_MTech_2026/Screenshot 2025-03-04 120134.png",
+          "placements_data/Placements/ArcherIRM_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Astrikos_MTech_2026": {
+    "company_id": "Astrikos_MTech_2026",
+    "roles": {
+      "Challenge": {
+        "role_name": "Challenge",
+        "files": [
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/Data Science Challenge_2.pdf",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/Train_df - Train_df.csv",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/Test_df - Test_df.csv",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS3 1.ipynb",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/RNN.ipynb",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS_C_LE.ipynb",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/Data Science Challenge_1.pdf",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS.nb.html",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS.Rmd",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/Train_df_18-20.csv",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/traffic_volume_predictions_combined.csv",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/Train_df_15-17.csv",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS3.ipynb",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS1_C_OHE.ipynb",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/traffic_volume_predictions.csv",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS_Sir.ipynb",
+          "placements_data/Placements/Astrikos_MTech_2026/Challenge/DS2.ipynb"
+        ]
+      }
+    }
+  },
+  "Axius Software_MTech_2026": {
+    "company_id": "Axius Software_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Axius Software_MTech_2026/Axius Software_MTech_2026.png",
+          "placements_data/Placements/Axius Software_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Beckman Coulter_MTech_2026": {
+    "company_id": "Beckman Coulter_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Beckman Coulter_MTech_2026/Beckman Coulter_MTech_2026.png",
+          "placements_data/Placements/Beckman Coulter_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Bosch_MTech_2026": {
+    "company_id": "Bosch_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Bosch_MTech_2026/Bosch_MTech_2026.png",
+          "placements_data/Placements/Bosch_MTech_2026/JD.docx",
+          "placements_data/Placements/Bosch_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Commscope_MTech_2026": {
+    "company_id": "Commscope_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Commscope_MTech_2026/Commscope_MTech_2026.png",
+          "placements_data/Placements/Commscope_MTech_2026/Drive Description.png",
+          "placements_data/Placements/Commscope_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Dell_MTech_2026": {
+    "company_id": "Dell_MTech_2026",
+    "roles": {
+      "Role-2": {
+        "role_name": "Role-2",
+        "files": [
+          "placements_data/Placements/Dell_MTech_2026/Role-2/Graduate Intern_Growth Data_JD.pdf",
+          "placements_data/Placements/Dell_MTech_2026/Role-2/Info.txt",
+          "placements_data/Placements/Dell_MTech_2026/Role-2/Dell Technologies- Guidance on Application Submission.pdf"
+        ]
+      },
+      "Role-1": {
+        "role_name": "Role-1",
+        "files": [
+          "placements_data/Placements/Dell_MTech_2026/Role-1/Dell_MTech_2026.png",
+          "placements_data/Placements/Dell_MTech_2026/Role-1/Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf",
+          "placements_data/Placements/Dell_MTech_2026/Role-1/why_dell_is_a_great_place_to_work.pdf",
+          "placements_data/Placements/Dell_MTech_2026/Role-1/Info.txt"
+        ]
+      },
+      "Role-3": {
+        "role_name": "Role-3",
+        "files": [
+          "placements_data/Placements/Dell_MTech_2026/Role-3/Dell_MTech_2026.png",
+          "placements_data/Placements/Dell_MTech_2026/Role-3/Job Description - Graduate Intern - Data Science.pdf",
+          "placements_data/Placements/Dell_MTech_2026/Role-3/why_dell_is_a_great_place_to_work.pdf",
+          "placements_data/Placements/Dell_MTech_2026/Role-3/Info.txt"
+        ]
+      }
+    }
+  },
+  "Emerson_MTech_2026": {
+    "company_id": "Emerson_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Emerson_MTech_2026/JD - Software Engineer Intern_2025.docx",
+          "placements_data/Placements/Emerson_MTech_2026/Emerson_MTech_2026.png",
+          "placements_data/Placements/Emerson_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Ericsson_MTech_2026": {
+    "company_id": "Ericsson_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Ericsson_MTech_2026/Ericsson_Bangalore_R&D_AI_Intern_JD.pdf",
+          "placements_data/Placements/Ericsson_MTech_2026/Ericsson_MTech_2026.png",
+          "placements_data/Placements/Ericsson_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "GE Healthcare_MTech_2026": {
+    "company_id": "GE Healthcare_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/GE Healthcare_MTech_2026/GE Healthcare_MTech_2026.png",
+          "placements_data/Placements/GE Healthcare_MTech_2026/Internship JD - M. Tech.pdf"
+        ]
+      }
+    }
+  },
+  "Hachidori_MTech_2026": {
+    "company_id": "Hachidori_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Hachidori_MTech_2026/RoboticsApplicationEngineerFreshers_JD.pdf",
+          "placements_data/Placements/Hachidori_MTech_2026/Hachidori_MTech_2026.png",
+          "placements_data/Placements/Hachidori_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Honeywell_MTech_2026_": {
+    "company_id": "Honeywell_MTech_2026_",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Honeywell_MTech_2026_/Mechanical-VG Job description-JD8.docx",
+          "placements_data/Placements/Honeywell_MTech_2026_/Honeywell_MTech_2026.png",
+          "placements_data/Placements/Honeywell_MTech_2026_/JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+          "placements_data/Placements/Honeywell_MTech_2026_/Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+          "placements_data/Placements/Honeywell_MTech_2026_/Advanced Comm-Electronics-JD1.docx",
+          "placements_data/Placements/Honeywell_MTech_2026_/Info.txt"
+        ]
+      }
+    }
+  },
+  "Info": {
+    "company_id": "Info",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Info/Companies.xlsx"
+        ]
+      }
+    }
+  },
+  "Intel_MTech_2026": {
+    "company_id": "Intel_MTech_2026",
+    "roles": {
+      "Role - 1": {
+        "role_name": "Role - 1",
+        "files": [
+          "placements_data/Placements/Intel_MTech_2026/Role - 1/Hardware JD 1.png",
+          "placements_data/Placements/Intel_MTech_2026/Role - 1/Software JD 1.png",
+          "placements_data/Placements/Intel_MTech_2026/Role - 1/Intel_MTech_2026.png",
+          "placements_data/Placements/Intel_MTech_2026/Role - 1/Info.txt"
+        ]
+      },
+      "Role - 2": {
+        "role_name": "Role - 2",
+        "files": [
+          "placements_data/Placements/Intel_MTech_2026/Role - 2/Software JD 1.png",
+          "placements_data/Placements/Intel_MTech_2026/Role - 2/Intel_MTech_2026.png",
+          "placements_data/Placements/Intel_MTech_2026/Role - 2/Info.txt"
+        ]
+      },
+      "Role - 3": {
+        "role_name": "Role - 3",
+        "files": [
+          "placements_data/Placements/Intel_MTech_2026/Role - 3/Intel_MTech_2026.png",
+          "placements_data/Placements/Intel_MTech_2026/Role - 3/Intel_JD.docx",
+          "placements_data/Placements/Intel_MTech_2026/Role - 3/Info.txt"
+        ]
+      }
+    }
+  },
+  "Ivanti_MTech_2026": {
+    "company_id": "Ivanti_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Ivanti_MTech_2026/Ivanti_MTech_2026.png",
+          "placements_data/Placements/Ivanti_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Juniper Networks": {
+    "company_id": "Juniper Networks",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Juniper Networks/ASIC Internship JD - MTech Intern 2026.pdf",
+          "placements_data/Placements/Juniper Networks/COO Internship JD - MTech Intern 2026.pdf",
+          "placements_data/Placements/Juniper Networks/Juniper Networks.png",
+          "placements_data/Placements/Juniper Networks/Data Science Internship JD - MTech Intern 2026.pdf",
+          "placements_data/Placements/Juniper Networks/Info.txt"
+        ]
+      }
+    }
+  },
+  "Marvell Technology_": {
+    "company_id": "Marvell Technology_",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Marvell Technology_/Marvell_OT_Seating arrangement.pdf",
+          "placements_data/Placements/Marvell Technology_/Marvell Technology.png",
+          "placements_data/Placements/Marvell Technology_/Job description - Copy 1.pptx",
+          "placements_data/Placements/Marvell Technology_/Info.txt"
+        ]
+      }
+    }
+  },
+  "NTRO_MTech_2026": {
+    "company_id": "NTRO_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/NTRO_MTech_2026/NTRO_MTech_2026.png",
+          "placements_data/Placements/NTRO_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "NetApp_MTech_2026": {
+    "company_id": "NetApp_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/NetApp_MTech_2026/Job Description - IT Combined.pdf",
+          "placements_data/Placements/NetApp_MTech_2026/MTS Intern JD.pdf",
+          "placements_data/Placements/NetApp_MTech_2026/NetApp_MTech_2026.png",
+          "placements_data/Placements/NetApp_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Niftrix_MTech_2026": {
+    "company_id": "Niftrix_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Niftrix_MTech_2026/JD .pdf",
+          "placements_data/Placements/Niftrix_MTech_2026/Niftrix_MTech_2026.png",
+          "placements_data/Placements/Niftrix_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Nissan Digital_MTech_2026": {
+    "company_id": "Nissan Digital_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Nissan Digital_MTech_2026/Nissan Digital_MTech_2026.png",
+          "placements_data/Placements/Nissan Digital_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Noika": {
+    "company_id": "Noika",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Noika/Info.txt"
+        ]
+      }
+    }
+  },
+  "Novartis_MTech_2026": {
+    "company_id": "Novartis_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Novartis_MTech_2026/JD Intern - Data Science.docx",
+          "placements_data/Placements/Novartis_MTech_2026/Novartis_MTech_2026.png",
+          "placements_data/Placements/Novartis_MTech_2026/JD Intern - US Field Insights and Analytics.docx",
+          "placements_data/Placements/Novartis_MTech_2026/JD Intern - US Primary Market Research.docx",
+          "placements_data/Placements/Novartis_MTech_2026/JD_Trainee Engineer Intern.docx",
+          "placements_data/Placements/Novartis_MTech_2026/Info.txt",
+          "placements_data/Placements/Novartis_MTech_2026/JD Intern - US Analytics.docx"
+        ]
+      }
+    }
+  },
+  "Nvidia_MTech_2026": {
+    "company_id": "Nvidia_MTech_2026",
+    "roles": {
+      "Role - 1": {
+        "role_name": "Role - 1",
+        "files": [
+          "placements_data/Placements/Nvidia_MTech_2026/Role - 1/Nvidia_MTech_2026.png",
+          "placements_data/Placements/Nvidia_MTech_2026/Role - 1/NVIDIA - SW 6M Jul-Dec Spring Intern.pdf",
+          "placements_data/Placements/Nvidia_MTech_2026/Role - 1/Info.txt"
+        ]
+      },
+      "Role - 2": {
+        "role_name": "Role - 2",
+        "files": [
+          "placements_data/Placements/Nvidia_MTech_2026/Role - 2/NVIDIA - SW Compiler Verification Intern JD.pdf",
+          "placements_data/Placements/Nvidia_MTech_2026/Role - 2/Nvidia_MTech_2026.png",
+          "placements_data/Placements/Nvidia_MTech_2026/Role - 2/Info.txt"
+        ]
+      }
+    }
+  },
+  "Philips_MTech_2026_": {
+    "company_id": "Philips_MTech_2026_",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Philips_MTech_2026_/Software Intern - JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Project Management - JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Bio Medical -JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Mechanical, Mechatronics - JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Electronics - JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Philips_MTech_2026.png",
+          "placements_data/Placements/Philips_MTech_2026_/Cyber Security - JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Electrical - JD.pdf",
+          "placements_data/Placements/Philips_MTech_2026_/Info.txt"
+        ]
+      }
+    }
+  },
+  "PowerSchool_MTech_2026": {
+    "company_id": "PowerSchool_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/PowerSchool_MTech_2026/PowerSchool_MTech_2026.png",
+          "placements_data/Placements/PowerSchool_MTech_2026/Support Intern - JD.docx",
+          "placements_data/Placements/PowerSchool_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "ResMed_MTech_2026": {
+    "company_id": "ResMed_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/ResMed_MTech_2026/ResMed Data Engineer Intern - JD.pdf",
+          "placements_data/Placements/ResMed_MTech_2026/ResMed Software Engineer Intern - JD.pdf",
+          "placements_data/Placements/ResMed_MTech_2026/ResMed.png",
+          "placements_data/Placements/ResMed_MTech_2026/ResMed Data Science Intern - JD.pdf",
+          "placements_data/Placements/ResMed_MTech_2026/ResMed Machine Learning Ops Intern - JD.pdf",
+          "placements_data/Placements/ResMed_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "SAP Labs_MTech_2026": {
+    "company_id": "SAP Labs_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/SAP Labs_MTech_2026/SAP Labs_MTech_2026.png",
+          "placements_data/Placements/SAP Labs_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "STMicrelectronics_MTech_2026": {
+    "company_id": "STMicrelectronics_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/STMicrelectronics_MTech_2026/STMicrelectronics_MTech_2026.png",
+          "placements_data/Placements/STMicrelectronics_MTech_2026/Intern CV format.docx",
+          "placements_data/Placements/STMicrelectronics_MTech_2026/STMicrelectronics_MTech_2026_1.png",
+          "placements_data/Placements/STMicrelectronics_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Sabic_MTech_2026_": {
+    "company_id": "Sabic_MTech_2026_",
+    "roles": {
+      "Role-2": {
+        "role_name": "Role-2",
+        "files": [
+          "placements_data/Placements/Sabic_MTech_2026_/Role-2/NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-2/NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-2/NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-2/Sabic_MTech_2026.png",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-2/NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-2/NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx"
+        ]
+      },
+      "Role-1": {
+        "role_name": "Role-1",
+        "files": [
+          "placements_data/Placements/Sabic_MTech_2026_/Role-1/Updated Internship Requisitions_ June 2025.xlsx",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-1/Sabic_MTech_2026.png",
+          "placements_data/Placements/Sabic_MTech_2026_/Role-1/Info.txt"
+        ]
+      }
+    }
+  },
+  "Samsung Electro Mechanics_MTech_2026": {
+    "company_id": "Samsung Electro Mechanics_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Samsung Electro Mechanics_MTech_2026/Samsung Electro Mechanics_MTech_2026_1.png",
+          "placements_data/Placements/Samsung Electro Mechanics_MTech_2026/Samsung Electro Mechanics_MTech_2026.png",
+          "placements_data/Placements/Samsung Electro Mechanics_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Saviynt_MTech_2026": {
+    "company_id": "Saviynt_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Saviynt_MTech_2026/Saviynt_MTech_2026.png",
+          "placements_data/Placements/Saviynt_MTech_2026/ES_Associate Consultatnt_Revised_RG.docx",
+          "placements_data/Placements/Saviynt_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Schneider_MTech_2026": {
+    "company_id": "Schneider_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Schneider_MTech_2026/R&D M.Tech JD - Tier 1 Engg.pdf",
+          "placements_data/Placements/Schneider_MTech_2026/Schneider_MTech_2026.png",
+          "placements_data/Placements/Schneider_MTech_2026/JD - M.Tech Intern_GSC International.pdf",
+          "placements_data/Placements/Schneider_MTech_2026/Schneider Electric - GSC JD-M Tech Intern_Strategy&Performance.pdf",
+          "placements_data/Placements/Schneider_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Signify_MTech_2026": {
+    "company_id": "Signify_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Signify_MTech_2026/Signify_MTech_2026.png",
+          "placements_data/Placements/Signify_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Stryker_MTech_2026": {
+    "company_id": "Stryker_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Stryker_MTech_2026/Intern - Software (DRE).pptx",
+          "placements_data/Placements/Stryker_MTech_2026/SMB JD.pptx",
+          "placements_data/Placements/Stryker_MTech_2026/Intern - Software.pptx",
+          "placements_data/Placements/Stryker_MTech_2026/Stryker_MTech_2026.png",
+          "placements_data/Placements/Stryker_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Suprajit_MTech_2026": {
+    "company_id": "Suprajit_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Suprajit_MTech_2026/Suprajit_MTech_2026.png",
+          "placements_data/Placements/Suprajit_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Synaptics_MTech_2026": {
+    "company_id": "Synaptics_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Synaptics_MTech_2026/Projects.pdf",
+          "placements_data/Placements/Synaptics_MTech_2026/Synaptics_MTech_2026.png",
+          "placements_data/Placements/Synaptics_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Techolution_MTech_2026": {
+    "company_id": "Techolution_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Techolution_MTech_2026/Generative AI Intern - 2025.pdf",
+          "placements_data/Placements/Techolution_MTech_2026/CV Intern - 2025.pdf",
+          "placements_data/Placements/Techolution_MTech_2026/Python Intern - 2025.pdf",
+          "placements_data/Placements/Techolution_MTech_2026/Techolution_MTech_2026.png",
+          "placements_data/Placements/Techolution_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Thales_MTech_2026_": {
+    "company_id": "Thales_MTech_2026_",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Thales_MTech_2026_/Thales_MTech_2026.png",
+          "placements_data/Placements/Thales_MTech_2026_/Job Description - Embedded Intern.docx",
+          "placements_data/Placements/Thales_MTech_2026_/JD for M.Tech internship.pdf",
+          "placements_data/Placements/Thales_MTech_2026_/Info.txt"
+        ]
+      }
+    }
+  },
+  "Thomson Reuters_MTech_2026": {
+    "company_id": "Thomson Reuters_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Thomson Reuters_MTech_2026/JD Data & Analytics Internship.docx",
+          "placements_data/Placements/Thomson Reuters_MTech_2026/Thomson Reuters_MTech_2026.png",
+          "placements_data/Placements/Thomson Reuters_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Tishyas Medical Device_MTech_2026": {
+    "company_id": "Tishyas Medical Device_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Tishyas Medical Device_MTech_2026/Tishyas Medical Device_MTech_2026.png",
+          "placements_data/Placements/Tishyas Medical Device_MTech_2026/Info.txt"
+        ]
+      }
+    }
+  },
+  "Videojet_MTech_2026": {
+    "company_id": "Videojet_MTech_2026",
+    "roles": {
+      "default_role": {
+        "role_name": "default_role",
+        "files": [
+          "placements_data/Placements/Videojet_MTech_2026/Videojet_MTech_2026.png"
+        ]
+      }
+    }
+  },
+  "Volvo_MTech_2026": {
+    "company_id": "Volvo_MTech_2026",
+    "roles": {
+      "Role - 1": {
+        "role_name": "Role - 1",
+        "files": [
+          "placements_data/Placements/Volvo_MTech_2026/Role - 1/Volvo_MTech_2026.png",
+          "placements_data/Placements/Volvo_MTech_2026/Role - 1/Info.txt"
+        ]
+      },
+      "Role - 2": {
+        "role_name": "Role - 2",
+        "files": [
+          "placements_data/Placements/Volvo_MTech_2026/Role - 2/Volvo_MTech_2026.png",
+          "placements_data/Placements/Volvo_MTech_2026/Role - 2/Info.txt"
+        ]
+      }
+    }
+  }
+}
