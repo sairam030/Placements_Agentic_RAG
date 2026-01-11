@@ -1,0 +1,4529 @@
+[
+  {
+    "company_name": "NTRO",
+    "role_name": "general",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "40000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "PAN India"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "10-10-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "ME",
+        "MSc"
+      ],
+      "branches": [
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Cryptography",
+        "Communications",
+        "Cyber Security",
+        "Data Analytics",
+        "Remote Sensing",
+        "Software Development",
+        "Linguistics",
+        "Maritime",
+        "Aviation"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7.5",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not Eligible You were disabled from drive or portal when this drive was taken place Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "Cryptography",
+      "Communications",
+      "Cyber Security",
+      "Data Analytics",
+      "Remote Sensing",
+      "Software Development",
+      "Linguistics",
+      "Maritime",
+      "Aviation"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "National Technical Research Organisation(NTRO) is a premier technical research organization of the Govt of India, which is involved in design, development, acquisition and integration of cutting-edge technologies, in multiple domains, for generating actionable intelligence, to meet Tech-Int requirements for the security of the nation.",
+    "primary_key": "NTRO",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/NTRO_MTech_2026",
+    "source_files": [
+      "NTRO_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Emerson",
+    "role_name": "general",
+    "role_title": "Software Engineer Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "45000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 months extendable to another 6 months based on business needs & Intern performance",
+    "location": [
+      "Bengaluru"
+    ],
+    "work_mode": "Onsite",
+    "apply_before": "27-02-2025",
+    "eligibility": {
+      "degrees": [
+        "B.E.",
+        "B.Tech.",
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "Information Technology",
+        "Electronics",
+        "Electrical"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "70%",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "No active backlogs",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Good programming skills (preferably C/ C++/ C#/ Python), Excellent communication skills"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Coding test",
+        "details": "1.5 hrs - online protected written in Data Science Lab Innovation center (video only no audio), 1 coding question Medium level, 1 Coding question Medium level"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "C",
+      "C++",
+      "C#",
+      "Python"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "27-02-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "Jul 2025"
+    },
+    "apply_link": "",
+    "additional_notes": "PPO: Students who perform exceptionally in our evaluation process might be extended an PPO along with Internship while other will be evaluated during the internship period for performance. Any Full-Time positions will be based on business needs and student performance during Internship. Full Time CTC if offered (All fixed no variable component) PG 15.38 LPA",
+    "primary_key": "Emerson",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Emerson_MTech_2026",
+    "source_files": [
+      "JD - Software Engineer Intern_2025.docx",
+      "Emerson_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Thales",
+    "role_name": "general",
+    "role_title": "Embedded Engineer - Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "225000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Not specified"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "17-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "PhD"
+      ],
+      "branches": [
+        "Computer Science",
+        "Electrical Engineering"
+      ],
+      "cgpa_10th": "Not specified",
+      "cgpa_12th": "Not specified",
+      "cgpa_ug": "Not specified",
+      "cgpa_pg": "6.0",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligible for Core (Spot) Thales Group"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "C/C++",
+      "Assembly",
+      "Yocto",
+      "RISC-V",
+      "Secure Boot",
+      "Hypervisor",
+      "UEFI",
+      "Git",
+      "Verilog",
+      "VHDL",
+      "SystemVerilog",
+      "FPGA Programming",
+      "Simulation",
+      "Synthesis",
+      "Memory Subsystems",
+      "Verification Methodologies"
+    ],
+    "contact_info": {
+      "hr_name": "Not specified",
+      "email": "Not specified",
+      "phone": "Not specified"
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "Not specified",
+    "additional_notes": "Job Title: RTL Design Intern, Duration: 6 months, Job Summary: Strong knowledge of digital design fundamentals, Basic understanding of simulation, synthesis, FPGA design flow, Write synthesizable RTL code using Verilog, VHDL or SystemVerilog, Experience with FPGA programming and debugging is a must, Hands-on experience with open-source or industry standard tools will be an added advantage, Familiarity with computer architecture and memory subsystems, Familiarity with different types of memory or IPs such as BRAM, SRAM, DRAM will be an added advantage, Good to have knowledge on verification methodologies, An ideal candidate should possess analytical skills, problem solving ability and attention to details, Good communication skills and ability to work in a team environment",
+    "primary_key": "Thales",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Thales_MTech_2026_",
+    "source_files": [
+      "Thales_MTech_2026.png",
+      "Job Description - Embedded Intern.docx",
+      "JD for M.Tech internship.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Schneider",
+    "role_name": "general",
+    "role_title": "MTECH INTERN – GLOBAL SUPPLY CHAIN ANALYTICS",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "10 months",
+    "location": [
+      "Bengaluru, KA"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "05-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Mechatronics",
+        "IIOT",
+        "Automation",
+        "Computer Science",
+        "Robotics"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Projects or research papers in the field of IIoT or Data and Analytics, Strong interest in supply chain and data and analytics, Technologically savvy with familiarity in emerging technologies, Consistent academic performance and active participation in co-curricular activities, Excellent communication skills, both written and verbal, A proactive attitude and eagerness to learn from experienced professionals"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Data Analytics",
+      "BI",
+      "RPA",
+      "Data Science",
+      "Emerging Technologies"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Hands-on experience with data analytics in a real-world environment, Mentorship from experienced professionals in the field, Opportunity to work on impactful projects that contribute to the business, A collaborative and inclusive work culture that values innovation",
+    "primary_key": "Schneider",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Schneider_MTech_2026",
+    "source_files": [
+      "R&D M.Tech JD - Tier 1 Engg.pdf",
+      "Schneider_MTech_2026.png",
+      "JD - M.Tech Intern_GSC International.pdf",
+      "Schneider Electric - GSC JD-M Tech Intern_Strategy&Performance.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Techolution",
+    "role_name": "general",
+    "role_title": "Generative AI Intern",
+    "employment_type": "Full Time",
+    "stipend_salary": {
+      "amount": "",
+      "currency": "",
+      "period": ""
+    },
+    "duration": "",
+    "location": [
+      "Hyderabad, Telangana, India"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "",
+    "eligibility": {
+      "degrees": [],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [],
+      "gender": "",
+      "other_criteria": ""
+    },
+    "selection_process": [],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python programming",
+      "Data Structures and Algorithms",
+      "Generative AI principles and architectures",
+      "Large Language Models (LLMs) and their applications",
+      "Fine-tuning Techniques for AI models",
+      "Knowledge about different vector databases",
+      "Retrieval-Augmented Generation (RAG) systems",
+      "Machine Learning and Deep Learning concepts"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Techolution is seeking a Generative AI Intern to work on cutting-edge projects, leveraging expertise in generative AI models to help clients unlock new possibilities and deliver exceptional experiences.",
+    "primary_key": "Techolution",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Techolution_MTech_2026",
+    "source_files": [
+      "Generative AI Intern - 2025.pdf",
+      "CV Intern - 2025.pdf",
+      "Python Intern - 2025.pdf",
+      "Techolution_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Bosch",
+    "role_name": "general",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "8 to 10 Months",
+    "location": [
+      "Bangalore",
+      "Coimbatore"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "07-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "MS",
+        "M.Sc.",
+        "MBA"
+      ],
+      "branches": [
+        "CSE",
+        "ECE",
+        "AIML",
+        "Data Science",
+        "Mechanical",
+        "Aerospace",
+        "Electrical",
+        "Physics",
+        "Maths",
+        "Signal Processing",
+        "Robotics",
+        "Mechatronics",
+        "Mechanics"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6.5",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Prior exposure to process mapping, automation projects, or lean initiatives is a plus."
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "Machine Learning",
+      "Computer Vision",
+      "Deep Learning",
+      "Time Series",
+      "Natural Language Processing",
+      "Control Systems",
+      "Numerical Methods",
+      "Optimization",
+      "Signal Processing",
+      "Robotics",
+      "Cybersecurity",
+      "Privacy Preserving ML",
+      "LSTM",
+      "Transformers",
+      "Mamba",
+      "AI",
+      "Gen AI",
+      "LLMs",
+      "Prompting",
+      "Data Analytics",
+      "Visualization",
+      "Process Optimization"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "You were disabled from drive or portal when this drive was taken place. Drives criteria do not match your data before the last date & time to apply.",
+    "primary_key": "Bosch",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Bosch_MTech_2026",
+    "source_files": [
+      "Bosch_MTech_2026.png",
+      "JD.docx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Signify",
+    "role_name": "general",
+    "role_title": "Assistant Development Engineer",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "10-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": ""
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "2 coding questions (1 C based, 1 Java based), 24 MCQs (12 cognitive, 12 logical)"
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": "Panel based (Non Technical Role)"
+      },
+      {
+        "round": 3,
+        "name": "Managerial Interview",
+        "details": ""
+      },
+      {
+        "round": 4,
+        "name": "HR Interview",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "C",
+      "Java"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "11-02-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "On Conversion CTC: 12.65 Lacs + 2 Lacs Joining bonus",
+    "primary_key": "Signify",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Signify_MTech_2026",
+    "source_files": [
+      "Signify_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Noika",
+    "role_name": "general",
+    "role_title": "",
+    "employment_type": "Not specified",
+    "stipend_salary": {
+      "amount": "",
+      "currency": "",
+      "period": ""
+    },
+    "duration": "",
+    "location": [],
+    "work_mode": "Remote",
+    "apply_before": "",
+    "eligibility": {
+      "degrees": [],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "6.5",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [],
+      "gender": "",
+      "other_criteria": "65% or 6.5 CGPA Through out"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Coding and MCQ's",
+        "details": "2 coding easy level, 25 MCQ"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "07-03-2023",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "https://www.nokia.com/about-us/careers/student-and-graduate-opportunities/india/studenthackathon/",
+    "additional_notes": "Apply through Hackathon only",
+    "primary_key": "Noika",
+    "batch_year": "unknown",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Noika",
+    "source_files": [
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Suprajit",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "30000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "08-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6.5",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not Eligible You were disabled from drive or portal when this drive was taken place Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "20-05-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "20-05-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Drive will be physical on 20th May: Students who can attend the drive at campus should only apply",
+    "primary_key": "Suprajit",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Suprajit_MTech_2026",
+    "source_files": [
+      "Suprajit_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "ABB",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "40000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "01-04-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "BTech"
+      ],
+      "branches": [
+        "CSE"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "UG CSE Students only"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Attendance",
+        "details": ""
+      },
+      {
+        "round": 2,
+        "name": "Profile & CTC",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "https://forms.office.com/pages/responsepage.aspx?id=4OkuN-CcM0CmSsBwc6kezcj6dcNEaypFqtvDDUcUErpUM1pMWVdMTFozMVUzTzY4NERTU0dITEJRTy4u&route=shorturl",
+    "additional_notes": "No one got call from BDA",
+    "primary_key": "ABB",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/ABB_MTech_2026",
+    "source_files": [
+      "ABB_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Saviynt",
+    "role_name": "general",
+    "role_title": "Associate Consultant, Expert Services (Professional Services), IAM/IGA",
+    "employment_type": "Full-time",
+    "stipend_salary": {
+      "amount": "20",
+      "currency": "INR",
+      "period": "per annum"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Hybrid",
+    "apply_before": "21-02-2025",
+    "eligibility": {
+      "degrees": [
+        "BTech",
+        "MTech"
+      ],
+      "branches": [
+        "CS",
+        "IT",
+        "ECE"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "7",
+      "cgpa_pg": "7",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "B.Tech/BE should be in either CS or IT (preferred) or ECE (Electronics)"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "1.5 hr, 2 coding questions (1 Medium, 1 Hard), 28 MCQs"
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": "30 mins, Java, Networking, resume-based"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Java",
+      "Web services (REST & SOAP)",
+      "Network fundamentals",
+      "HTTP Basics",
+      "Cryptography & Certificates fundamentals",
+      "SQL queries",
+      "Unix/Linux fundamentals",
+      "Shell Scripting",
+      "LDAP",
+      "Active Directory",
+      "Azure Active Directory"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "21-02-2025",
+      "test_date": "22-02-2025",
+      "interview_date": "25-02-2025",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Join Saviynt – Pioneers in Intelligent & Smart Identity Security. Opportunities for continuous learning and career advancement. Work with a talented and energetic team in a supportive and dynamic environment.",
+    "primary_key": "Saviynt",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Saviynt_MTech_2026",
+    "source_files": [
+      "Saviynt_MTech_2026.png",
+      "ES_Associate Consultatnt_Revised_RG.docx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Nissan Digital",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "20000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "Thiruvanathapuram",
+      "Kerala"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "30-04-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Not specified",
+      "other_criteria": "Not Eligible You were disabled from drive or portal when this drive was taken place Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "Mid of May or Early June"
+    },
+    "apply_link": "",
+    "additional_notes": "Tentative Start Date of Internship Mid of May or Early June",
+    "primary_key": "Nissan Digital",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Nissan Digital_MTech_2026",
+    "source_files": [
+      "Nissan Digital_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Honeywell",
+    "role_name": "general",
+    "role_title": "Intern Masters Electronics Systems Design (Analog & Digital)",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35",
+      "currency": "T PM",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Not specified"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "07-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Electronics System Design (Analog & Digital Electronics)"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "PAN India"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "35",
+    "skills_required": [
+      "Electronic Systems design",
+      "Electronics Troubleshooting",
+      "Electronic Testing",
+      "High-speed microprocessors",
+      "Architectural circuit design",
+      "Micro-controller circuit designs",
+      "Analog and digital circuit knowledge",
+      "Circuit simulations",
+      "Estimating hardware design tasks",
+      "Identifying risks",
+      "Planning development",
+      "Creating, interpreting and reviewing electrical schematics",
+      "SPI, I2C, CAN, USB, RS-232/485 Serial and Ethernet interface designs",
+      "PCB CAD and circuit simulators and analysis tools (Mentor Graphics/ORCAD, LT-SPICE, PSPICE, MATLAB)",
+      "Embedded systems firmware development on leading processors Integrated Debugger Environment",
+      "Coordinate with software/Firmware teams",
+      "Testing, debugging and troubleshooting of Power Supplies and Analog/Digital Electronic Circuits",
+      "LiDAR, RADAR and Camera Sensor modules interfacing & communication",
+      "Different sensors (e.g., Pressure, Temperature, Motor Speed/Position) data acquisition & communication in Embedded Systems environment",
+      "Debugging, identifying root cause and recommending corrective action on in-service product issues",
+      "Self-motivated, self-managing, self-learner and creative thinker",
+      "Team player; able to work in cross functional team with minimum supervision",
+      "Clear & concise communication skills- verbal & written; capable technical writing skills"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "07-02-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Students must be flexible for relevant role provided by Honeywell",
+    "primary_key": "Honeywell",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Honeywell_MTech_2026_",
+    "source_files": [
+      "Mechanical-VG Job description-JD8.docx",
+      "Honeywell_MTech_2026.png",
+      "JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+      "Intern Mtech Electric instrumentation &Embedded-JD2.docx",
+      "Advanced Comm-Electronics-JD1.docx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Marvell Technology",
+    "role_name": "general",
+    "role_title": "Analog Layout Intern, Analog Circuit Design Intern, Physical Design Intern, RTL Design Intern, Design Verification Intern, Design for Test Intern, Validation Intern, Hardware Intern, Serdes Characterization Intern, Software QA Engineer Intern, Software Engineering Intern, Firmware Engineering Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "55T",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore",
+      "Pune",
+      "Hyderabad"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "16-01-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "ECE",
+        "EE",
+        "CSE",
+        "IT",
+        "VLSI",
+        "Computer Engineering"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Opted-In, Eligibility Criteria"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      },
+      {
+        "round": 2,
+        "name": "Placement Hall",
+        "details": "3rd Floor; Library Building 3"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "TCL",
+      "Perl",
+      "Shell",
+      "C/C++",
+      "Verilog/System Verilog",
+      "UVM",
+      "MATLAB",
+      "VLSI",
+      "ARM/RISCV architecture",
+      "Linux OS",
+      "Data Structures",
+      "Algorithms",
+      "Computer Networks",
+      "Firmware Development",
+      "Embedded Systems",
+      "Debugging",
+      "Oscilloscopes",
+      "Logic Analyzers",
+      "Signal Generator",
+      "Multimeter",
+      "Power Source",
+      "Emulators"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "16-01-2025",
+      "test_date": "",
+      "interview_date": "28-01-2025, 29-01-2025",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "https://youtu.be/hvu4MlGkrqw",
+    "additional_notes": "Students who Opt-in NeoPAT are informed to apply/register on workday with below link to ease interview process, the link will be active till Jan 16th, EOD",
+    "primary_key": "Marvell Technology",
+    "batch_year": "unknown",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Marvell Technology_",
+    "source_files": [
+      "Marvell Technology.png",
+      "Job description - Copy 1.pptx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Hachidori",
+    "role_name": "general",
+    "role_title": "Robotics Application Engineer Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "30000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "30-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Electronics",
+        "Mechatronics",
+        "Computer Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Not specified",
+      "other_criteria": "Eligibility Criteria Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Python",
+      "C",
+      "Git",
+      "GitHub",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Hachidori Robotics Private Limited, Regd. Office: No 21 /A-C. II Phase, Kumbalgodu Industrial Area, Bengaluru, 560074, CIN No: U72900KA2019PTC1271204",
+    "primary_key": "Hachidori",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Hachidori_MTech_2026",
+    "source_files": [
+      "RoboticsApplicationEngineerFreshers_JD.pdf",
+      "Hachidori_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Juniper Networks",
+    "role_name": "general",
+    "role_title": "ASIC Internship, COO Internship, Data Science Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "252000",
+      "currency": "INR",
+      "period": "per annum"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "17-01-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "Network Engineering",
+        "Electronics and Communication",
+        "Data Science"
+      ],
+      "cgpa_10th": "Not specified",
+      "cgpa_12th": "Not specified",
+      "cgpa_ug": "Not specified",
+      "cgpa_pg": "7.5 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligibility Criteria: 75% or 7.5 CGPA throughout"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "Hacker Rank based online test for Data Science role: 2 hrs - online protected written in Data Science Lab (video only no audio), 1 coding question hard level, 1 data analysis question mid level, 5 aptitude questions mid level"
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": "Technical online interview conducted in MIT Placement cell"
+      },
+      {
+        "round": 3,
+        "name": "Managerial Interview",
+        "details": "Managerial online interview conducted in MIT Placement cell"
+      },
+      {
+        "round": 4,
+        "name": "HR Interview",
+        "details": "HR online interview conducted in MIT Placement cell"
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Verilog RTL coding",
+      "C/C++",
+      "Synopsys Design Compiler",
+      "Verplex LEC",
+      "Spyglass",
+      "high performance memory subsystems",
+      "multi-domain clock synchronization",
+      "high-speed serial interfaces",
+      "programming experience in C/C++, Python, Go, Java",
+      "data structures and algorithms",
+      "big data tool sets",
+      "distributed storage and computation engine",
+      "cloud-based CI/CD tools",
+      "multi-cloud production environment",
+      "Apache Storm",
+      "Apache Spark",
+      "Elasticsearch",
+      "Redis",
+      "Java",
+      "Python"
+    ],
+    "contact_info": {
+      "hr_name": "Not specified",
+      "email": "Not specified",
+      "phone": "Not specified"
+    },
+    "important_dates": {
+      "registration_start": "Not specified",
+      "registration_end": "17-01-2025",
+      "test_date": "20-01-2025",
+      "interview_date": "23-01-2025",
+      "result_date": "Not specified",
+      "joining_date": "Not specified"
+    },
+    "apply_link": "Not specified",
+    "additional_notes": "Online test for Data Science and COO shortlist will be conducted on 20th Jan 6 PM and interview on 23rd January: Interview will be offline: Pen and paper test for ASIC role be conducted on 23rd January: Interview date for this role is yet to be decided.",
+    "primary_key": "Juniper Networks",
+    "batch_year": "unknown",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Juniper Networks",
+    "source_files": [
+      "ASIC Internship JD - MTech Intern 2026.pdf",
+      "COO Internship JD - MTech Intern 2026.pdf",
+      "Juniper Networks.png",
+      "Data Science Internship JD - MTech Intern 2026.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Niftrix",
+    "role_name": "general",
+    "role_title": "Full Stack Developer, iOS Developer, Android Developer",
+    "employment_type": "Full-Time",
+    "stipend_salary": {
+      "amount": "8",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore Office"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "07-04-2025",
+    "eligibility": {
+      "degrees": [
+        "M.E.",
+        "M.Tech"
+      ],
+      "branches": [
+        "Computer Science",
+        "Information Technology",
+        "Software Engineering"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Pursuing M.E./M.Tech in Computer Science, Information Technology, Software Engineering, or related fields"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Vue.js",
+      "Node.js",
+      "Django",
+      "Spring Boot",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "RESTful APIs",
+      "AWS",
+      "Azure",
+      "Firebase",
+      "DevOps tools",
+      "CI/CD",
+      "Docker",
+      "Swift",
+      "Objective-C",
+      "Xcode",
+      "iOS SDK",
+      "MVVM architecture",
+      "Core Data",
+      "Alamofire",
+      "Kotlin",
+      "Java",
+      "Jetpack Components",
+      "Room DB",
+      "Retrofit",
+      "Android SDK",
+      "UI design principles",
+      "Gradle",
+      "Android Studio"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Direct Interview for the students who have Opted-In",
+    "primary_key": "Niftrix",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Niftrix_MTech_2026",
+    "source_files": [
+      "JD .pdf",
+      "Niftrix_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Dell",
+    "role_name": "Role-2",
+    "role_title": "Graduate Intern (10-12 month Internship)",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "",
+      "currency": "",
+      "period": ""
+    },
+    "duration": "10-12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "",
+    "eligibility": {
+      "degrees": [
+        "M.Tech"
+      ],
+      "branches": [
+        "Data Science",
+        "AI"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8 CGPA Through out",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2025"
+      ],
+      "gender": "Any",
+      "other_criteria": "Ongoing course work with relevant projects in Data Science and Data Engineering, Python, SQL, Macro, Basic Programming, Ability to prioritize and maintain organization in day-to-day activities, Ability to follow process, policies and practices to achieve consistency and compliance, Critical thinking and problem-solving skills"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "Graduate Intern Data Engineering - 13/02/25, Unstop based online site, 90 min online protected written in Remotely (video, audio and screen record), 17 questions (2 coding, 15 MCQ)"
+      },
+      {
+        "round": 2,
+        "name": "Further Rounds",
+        "details": "Not specified"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "SQL",
+      "Macro",
+      "Basic Programming"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "13/02/25",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Eligibility criteria changed from 60% or 6 CGPA to 80% or 8 CGPA throughout. 80 shortlisted students, 16 got selected to round - 2. 5 got call for other role from the rest (64 students from the total 80).",
+    "primary_key": "Dell_Role-2",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Dell_MTech_2026/Role-2",
+    "source_files": [
+      "Graduate Intern_Growth Data_JD.pdf",
+      "Info.txt",
+      "Dell Technologies- Guidance on Application Submission.pdf"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Dell",
+    "role_name": "Role-1",
+    "role_title": "Graduate Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "11-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "CSE",
+        "IT",
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Student should not have more than 12 months of prior experience"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "90 min online protected written (video, audio, and screen record), 17 questions (2 coding, 15 MCQ)"
+      },
+      {
+        "round": 2,
+        "name": "Interview",
+        "details": "Placement Hall; 3rd Floor; Building 17 Feb 2025 09.00 AM"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "Java",
+      "C++",
+      "Web Development",
+      "SQL",
+      "PostGRE",
+      "Power BI",
+      "ThoughtSpot",
+      "R",
+      "Statistical Analysis"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "11-02-2025",
+      "test_date": "13-02-2025",
+      "interview_date": "19-02-2025",
+      "result_date": "",
+      "joining_date": "12-02-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "On Conversion CTC INR 21,96,000",
+    "primary_key": "Dell_Role-1",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Dell_MTech_2026/Role-1",
+    "source_files": [
+      "Dell_MTech_2026.png",
+      "Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf",
+      "why_dell_is_a_great_place_to_work.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Dell",
+    "role_name": "Role-3",
+    "role_title": "Graduate Intern - Data Science",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35T",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bengaluru (Bangalore), India"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "18-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "60% or 6 CGPA Throughout",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not Eligible for Core (Spot) Dell Technologies"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Reinforcement Learning",
+      "Conversational AI",
+      "Cloud-native architectures",
+      "Microservices",
+      "CI/CD",
+      "DevOps tools"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Eligibility criteria: 60% or 6 CGPA Throughout. No one was shortlisted from BDA.",
+    "primary_key": "Dell_Role-3",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Dell_MTech_2026/Role-3",
+    "source_files": [
+      "Dell_MTech_2026.png",
+      "Job Description - Graduate Intern - Data Science.pdf",
+      "why_dell_is_a_great_place_to_work.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Sabic",
+    "role_name": "Role-2",
+    "role_title": "Surface Feature Sensitivity in RF Applications",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "25000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bengaluru",
+      "Gurugram",
+      "Vadodara",
+      "Mumbai"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "21-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Electronics",
+        "Electrical",
+        "Communications Engineering",
+        "Communication Engineering"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [
+        "2025"
+      ],
+      "gender": "Any",
+      "other_criteria": ""
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      },
+      {
+        "round": 2,
+        "name": "Intern Interview",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "1",
+    "skills_required": [
+      "Strong fundamentals of RF communication",
+      "Analytical and numerical methods for predicting RF performance"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "21-03-2025",
+      "test_date": "24-03-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Project lead/mentor: Priyanka Bhagawath",
+    "primary_key": "Sabic_Role-2",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Sabic_MTech_2026_/Role-2",
+    "source_files": [
+      "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx",
+      "NOVA 2025 - SHPP GAPT - Web Analytics.docx",
+      "NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+      "Sabic_MTech_2026.png",
+      "NOVA 2025 - SHPP GAPT - Fatigue Failure Prediction.docx",
+      "NOVA 2025 - SHPP GAPT - Performance Prediction of Optical Lenses & Waveguides.docx"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Sabic",
+    "role_name": "Role-1",
+    "role_title": "Engineering interns",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "",
+      "currency": "",
+      "period": ""
+    },
+    "duration": "6 to 10 Months",
+    "location": [
+      "Bengaluru"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "",
+    "eligibility": {
+      "degrees": [
+        "B.E/B.Tech",
+        "Masters"
+      ],
+      "branches": [
+        "Chemical Engineering",
+        "Polymer Material Science",
+        "Mechanical Engineering",
+        "Materials Science",
+        "Process Engineering",
+        "Computer Science",
+        "Design"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [
+        "2025"
+      ],
+      "gender": "Any",
+      "other_criteria": "Strong Programming skills and exposure to Blockchain, Understanding of Polymer Materials, Experience in running lab scale experimental units involving reactors, Excellent academic background, Good knowledge on multiphase reactor design and Chemical reaction engineering, UX Design"
+    },
+    "selection_process": [],
+    "number_of_positions": "2",
+    "skills_required": [
+      "Strong Programming skills and exposure to Blockchain",
+      "Understanding of Polymer Materials",
+      "Experience in running lab scale experimental units involving reactors",
+      "Excellent academic background",
+      "Good knowledge on multiphase reactor design and Chemical reaction engineering",
+      "UX Design"
+    ],
+    "contact_info": {
+      "hr_name": "Sivalingam Gunasekaran, Narayana Rao, Sumanda Bandyopadhyay, Shailesh Bhaisora, Amit Sharma, Bhaskar Patham",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "2025-06-01"
+    },
+    "apply_link": "",
+    "additional_notes": "Only Mechanical Engg. preferred for one role",
+    "primary_key": "Sabic_Role-1",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Sabic_MTech_2026_/Role-1",
+    "source_files": [
+      "Updated Internship Requisitions_ June 2025.xlsx",
+      "Sabic_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Intel",
+    "role_name": "Role - 1",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "50000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "14-01-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Not specified"
+      ],
+      "cgpa_10th": "Not specified",
+      "cgpa_12th": "Not specified",
+      "cgpa_ug": "Not specified",
+      "cgpa_pg": "7",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligibility Criteria: 7 CGPA in PG(Master's)"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      }
+    ],
+    "number_of_positions": "1",
+    "skills_required": [
+      "Not specified"
+    ],
+    "contact_info": {
+      "hr_name": "Not specified",
+      "email": "Not specified",
+      "phone": "Not specified"
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "Not specified",
+    "additional_notes": "No test direct resume screening, short listing and then Interview call finally selection. Multiple teams will be interviewing. (internship offered on OS development)",
+    "primary_key": "Intel_Role - 1",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Intel_MTech_2026/Role - 1",
+    "source_files": [
+      "Hardware JD 1.png",
+      "Software JD 1.png",
+      "Intel_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Intel",
+    "role_name": "Role - 2",
+    "role_title": "Software Engineer",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "45000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "23-01-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science and Engineering",
+        "Electronics and Communication Engineering",
+        "Information Technology"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not specified"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Not specified"
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Software Engineering",
+      "Embedded Systems",
+      "Graphics",
+      "Firmware",
+      "AI"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "23-01-2025",
+      "test_date": "",
+      "interview_date": "27-01-2025",
+      "result_date": "",
+      "joining_date": "27-01-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Compensation structure may vary for different business units.",
+    "primary_key": "Intel_Role - 2",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Intel_MTech_2026/Role - 2",
+    "source_files": [
+      "Software JD 1.png",
+      "Intel_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Intel",
+    "role_name": "Role - 3",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "25000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "12-06-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "CSE",
+        "ECE",
+        "IT",
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8.0",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Must be available for a long duration internship"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Generative Al",
+      "Python",
+      "DevOps",
+      "Data structures",
+      "Linux UX",
+      "Pandas/NumPy",
+      "ML Algorithms",
+      "ML Ops",
+      "Benchmarking LLMs",
+      "LLM Quantization",
+      "LLM Inference Tuning",
+      "Speech Processing Models",
+      "Code Generation Models",
+      "Multi Modals",
+      "Multi Modal LLMs",
+      "Text- Inference",
+      "Finetuning-LoRA",
+      "PreTraining",
+      "vLLM",
+      "Speech – Inference",
+      "FineTuning",
+      "CTC",
+      "Seq2Seq",
+      "Video – Inference",
+      "Image – Inference",
+      "FineTuning",
+      "Flux",
+      "LdM3D",
+      "ControlNet",
+      "StableDiffusion",
+      "TextInversion",
+      "Dreambooth",
+      "SingleCard",
+      "MultiCard Execution",
+      "Vibe Coding – Vercel",
+      "Vibe Coding – GitHub-CoPilot",
+      "MCP",
+      "Google Sentiment Analysis",
+      "RAG",
+      "OPEA",
+      "APIs-Tasks-Models",
+      "Full-Stack Development"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "You were disabled from drive or portal when this drive was taken place. Drives criteria do not match your data before the last date & time to apply.",
+    "primary_key": "Intel_Role - 3",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Intel_MTech_2026/Role - 3",
+    "source_files": [
+      "Intel_MTech_2026.png",
+      "Intel_JD.docx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Synaptics",
+    "role_name": "general",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "1 month",
+    "location": [
+      "Hyderabad"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "28-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "CSE",
+        "ECE",
+        "EEE",
+        "IT"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": ""
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Communications Engineering & Signal Processing",
+      "algorithm",
+      "MATLAB",
+      "Programming: C",
+      "IEEE",
+      "Embedded time critical systems and the tools",
+      "Strong C Programming fundamentals",
+      "Number representation and bitwise operation",
+      "Programming: C, Python, TCL",
+      "C programming",
+      "OS Concepts",
+      "embedded OS / RTOS and kernel programming",
+      "communication protocols",
+      "C/C++ programming",
+      "Embedded systems",
+      "Linux Internals",
+      "Networking",
+      "Database analyst",
+      "Oracle database",
+      "business analyst",
+      "Devops",
+      "Cyber security",
+      "Embedded Software",
+      "Operating Systems and Device drivers",
+      "Academic projects in IOT and AI",
+      "Basic VLSI flows",
+      "modern design techniques",
+      "low power logic design",
+      "Proficient in digital architecture and design",
+      "CAD/DFT/STA/Synthesis skills",
+      "Digital Design",
+      "HDL/HVL (Verilog/SystemVerilog)",
+      "Languages/Scripts (C/C++, Perl/Shell)",
+      "Industry Standard Simulation tools/verification tools"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "10-04-2025 or 11-04-2025",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Selection process will be conducted in campus on 10th or 11th April: Exact Date will be communicated once confirmed.",
+    "primary_key": "Synaptics",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Synaptics_MTech_2026",
+    "source_files": [
+      "Projects.pdf",
+      "Synaptics_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Astrikos",
+    "role_name": "general",
+    "role_title": "Data Science Developer",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "30000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "21-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "Engineering",
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "70% or 7 CGPA throughout"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Problem Statement",
+        "details": "1 week timeline from 21st March to 27th March 2025"
+      },
+      {
+        "round": 2,
+        "name": "Assessment",
+        "details": "28th March to 2nd April 2025"
+      },
+      {
+        "round": 3,
+        "name": "Final Interviews",
+        "details": "4th & 5th April 2025"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "R",
+      "SQL",
+      "Hive",
+      "Pig",
+      "Scala",
+      "Java",
+      "C++",
+      "Statistics",
+      "Machine Learning",
+      "Multivariable Calculus",
+      "Linear Algebra",
+      "Data Wrangling",
+      "Data Visualization",
+      "Excellent Communication Skills",
+      "Strong Software Engineering Background",
+      "Hands-on experience with data science tools",
+      "Problem-solving aptitude",
+      "Analytical mind and great business sense"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "21-03-2025",
+      "test_date": "28-03-2025",
+      "interview_date": "04-04-2025",
+      "result_date": "",
+      "joining_date": "22-03-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Eligibility Criteria: Not Eligible for Core (Spot) Astrikos AI Pvt Ltd",
+    "primary_key": "Astrikos",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Astrikos_MTech_2026",
+    "source_files": [
+      "Astrikos_MTech_2026.png",
+      "Drive Description.txt",
+      "Info.txt",
+      "Data Science Challenge_2.pdf",
+      "Data Science Challenge_1.pdf"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "PowerSchool",
+    "role_name": "general",
+    "role_title": "Technical Support Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "25000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "10 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Hybrid",
+    "apply_before": "13-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "60% or 6 CGPA",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not Eligible You were disabled from drive or portal when this drive was taken place Drives criteria do not match your data before the last date & time to apply."
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      },
+      {
+        "round": 2,
+        "name": "Technical Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Java",
+      "JZEE",
+      "Core Java",
+      "Web Services",
+      "JBoss",
+      "MySQL",
+      "Oracle",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Strong analytical and problem-solving skills",
+      "Excellent written and verbal communication skills"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Design and develops; updates and programming changes to applications by setting expectations and features priorities throughout development life cycle; analyses and determines programming; and integration activities required based on general objectives and knowledge of overall architecture of product or solution.",
+    "primary_key": "PowerSchool",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/PowerSchool_MTech_2026",
+    "source_files": [
+      "PowerSchool_MTech_2026.png",
+      "Support Intern - JD.docx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "ResMed",
+    "role_name": "general",
+    "role_title": "Data Engineer Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "60",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore",
+      "Chennai"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "30-01-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "IT",
+        "Computer Science",
+        "Software Engineering"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not Eligible"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "Scala",
+      "SQL",
+      "NoSQL",
+      "Distributed Computing",
+      "Data Ingestion",
+      "Data Processing",
+      "Spark Architecture",
+      "Airflow",
+      "Rest APIs",
+      "Terraform",
+      "DevOps",
+      "AWS",
+      "GCP",
+      "Data Quality & Governance",
+      "Docker",
+      "Kubernetes"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Dream big, iterate and experiment to drive innovation.",
+    "primary_key": "ResMed",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/ResMed_MTech_2026",
+    "source_files": [
+      "ResMed Data Engineer Intern - JD.pdf",
+      "ResMed Software Engineer Intern - JD.pdf",
+      "ResMed.png",
+      "ResMed Data Science Intern - JD.pdf",
+      "ResMed Machine Learning Ops Intern - JD.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Novartis",
+    "role_name": "general",
+    "role_title": "Data Science Intern - Advanced Analytics",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "11 months",
+    "location": [
+      "Hyderabad"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "01-04-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "ME"
+      ],
+      "branches": [
+        "Data Science",
+        "Statistics",
+        "Computer Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Currently pursuing or recently completed a Master's degree in a relevant field"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "R",
+      "Forecasting Techniques",
+      "Gen AI - LLM",
+      "NLP",
+      "Anomaly Detection"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "10th or 11th April",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Internship confirmed full time offer model. Annual Base Salary: 2970,000 INR, Cost to Company: 81,140,743 INR, Joining Bonus: 200,000 INR",
+    "primary_key": "Novartis",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Novartis_MTech_2026",
+    "source_files": [
+      "JD Intern - Data Science.docx",
+      "Novartis_MTech_2026.png",
+      "JD Intern - US Field Insights and Analytics.docx",
+      "JD Intern - US Primary Market Research.docx",
+      "JD_Trainee Engineer Intern.docx",
+      "Info.txt",
+      "JD Intern - US Analytics.docx"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Philips",
+    "role_name": "general",
+    "role_title": "Software Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "",
+      "currency": "",
+      "period": ""
+    },
+    "duration": "",
+    "location": [],
+    "work_mode": "Not specified",
+    "apply_before": "",
+    "eligibility": {
+      "degrees": [
+        "BTech",
+        "MTech"
+      ],
+      "branches": [
+        "CSE",
+        "ECE",
+        "IT",
+        "Data Science",
+        "Mechanical",
+        "Biomedical",
+        "Mechatronics"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [],
+      "gender": "Any",
+      "other_criteria": "Sound knowledge of SDLC, Good hands-on coding knowledge, Good in OS fundamentals, Preferably worked on Windows platform"
+    },
+    "selection_process": [],
+    "number_of_positions": "",
+    "skills_required": [
+      "C/C++",
+      "SDLC",
+      "OS fundamentals",
+      "Coding"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "The role involves coding, realization, and testing of systems, subsystems, and components with a focus on consumer needs and technological competitiveness.",
+    "primary_key": "Philips",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Philips_MTech_2026_",
+    "source_files": [
+      "Software Intern - JD.pdf",
+      "Project Management - JD.pdf",
+      "Bio Medical -JD.pdf",
+      "Mechanical, Mechatronics - JD.pdf",
+      "Electronics - JD.pdf",
+      "Philips_MTech_2026.png",
+      "Cyber Security - JD.pdf",
+      "Electrical - JD.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Axius Software",
+    "role_name": "general",
+    "role_title": "Senior Software Engineer Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "22000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Kolkata"
+    ],
+    "work_mode": "Remote",
+    "apply_before": "21-04-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligibility Criteria Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "Nikhil",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "21-04-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Not Eligible",
+    "primary_key": "Axius Software",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Axius Software_MTech_2026",
+    "source_files": [
+      "Axius Software_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Aditya Birla",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "225000",
+      "currency": "INR",
+      "period": "per annum"
+    },
+    "duration": "6 months",
+    "location": [
+      "Bengaluru"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "12-06-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Not Eligible if disabled from drive or portal"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Strong analytical thinking",
+      "Problem-solving skills",
+      "Experience with relational databases",
+      "Strong commercial focus",
+      "High standard of written and oral communication",
+      "Self-motivation",
+      "Proven rapid learning ability",
+      "Teamwork",
+      "Communication"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "12-06-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "July 2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Internship starts from July 2025. On conversion, CTC is 10 LPA.",
+    "primary_key": "Aditya Birla",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Aditya Birla_MTech_2026",
+    "source_files": [
+      "JD- Intern.docx",
+      "Info.txt",
+      "Aditya Birla_MTech_2026.png"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Samsung Electro Mechanics",
+    "role_name": "general",
+    "role_title": "Al Engineer | Machine Learning (Al Robotics)",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "30000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "22-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "CSE",
+        "ECE",
+        "IT",
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6.0",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": ""
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "C++",
+      "Python",
+      "Embedded Systems",
+      "Robotics",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "ROS",
+      "OpenCV",
+      "Agile Development"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "22-05-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "On Conversion CTC 10 to 12 LPA",
+    "primary_key": "Samsung Electro Mechanics",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Samsung Electro Mechanics_MTech_2026",
+    "source_files": [
+      "Samsung Electro Mechanics_MTech_2026_1.png",
+      "Samsung Electro Mechanics_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Amazon",
+    "role_name": "general",
+    "role_title": "Business Analyst Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "70",
+      "currency": "T",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "PAN India"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "18-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8",
+      "backlogs": "",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": ""
+    },
+    "selection_process": [],
+    "number_of_positions": "",
+    "skills_required": [
+      "SQL",
+      "Excel Advanced VBA",
+      "Tableau/Quicksight",
+      "Python",
+      "VBA",
+      "Macros",
+      "Selenium scripts",
+      "Data Visualization tools",
+      "NLP & Text Processing",
+      "Scala",
+      "R",
+      "Amazon Redshift",
+      "AWS technologies"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "June 2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Internship duration is from June to November 2025.",
+    "primary_key": "Amazon",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Amazon_MTech_2026",
+    "source_files": [
+      "L4_Business Analyst I_Internship_2025.pdf",
+      "Amazon_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Analog Devices",
+    "role_name": "general",
+    "role_title": "Data Intern, Data Analyst/Data Scientist Intern, Embedded Systems Intern, IC Layout Intern, DevOps Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "24500",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore, India"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "21-01-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "BTech",
+        "Master's"
+      ],
+      "branches": [
+        "Data Science",
+        "Statistics",
+        "Mathematics",
+        "Computer Science",
+        "Electronics",
+        "Computer Engineering",
+        "Information Technology"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "8",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Pursuing a degree in relevant field"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "1 hr - online protected written in Data Science Lab/Remote (video and audio), total 44 questions, 14 - Analytical questions (Easy Level), 30 - technical questions (Easy Level)"
+      },
+      {
+        "round": 2,
+        "name": "Interview",
+        "details": "1 hr purely based on python, sql, pyspark on their own IDE (Hard to clear)"
+      },
+      {
+        "round": 3,
+        "name": "Interview",
+        "details": "1 hr purely based on Resume"
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Python",
+      "R",
+      "SQL",
+      "Tableau",
+      "Power BI",
+      "C",
+      "Embedded Systems",
+      "IC Layout",
+      "DevOps",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "GitHub",
+      "Terraform",
+      "Ansible",
+      "Prometheus",
+      "Grafana",
+      "ELK stack"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "21-01-2025",
+      "test_date": "23-01-2025",
+      "interview_date": "27-01-2025",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Analog Devices is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. The roles include Data Intern, Data Analyst/Data Scientist Intern, Embedded Systems Intern, IC Layout Intern, and DevOps Intern. The internship duration is 12 months, and the stipend is 24500 INR per month.",
+    "primary_key": "Analog Devices",
+    "batch_year": "unknown",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Analog Devices",
+    "source_files": [
+      "Manipal Internship FY25.docx",
+      "DevOps Intern_JD.pdf",
+      "Analog Devices.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "STMicrelectronics",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "24000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Greater Noida"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "03-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Hardware",
+        "Software"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6.5",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligible students must apply through the provided link and opt-in NeoPAT"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Multiple Profiles"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Digital Design",
+      "Analog Mixed Signal",
+      "Silicon Validation Testing",
+      "Automation CAD SW",
+      "ML Chip/IP Design",
+      "Software Development",
+      "Embedded sw/HWDev",
+      "SoC System Architecture",
+      "Digital Power applications"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "03-05-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "https://stmicroelectronics.eightfold.ai/ailevents/candidate/landing?plannedEventId=6nJ6wXK033",
+    "additional_notes": "On Conversion CTC between 15 to 20 LPA",
+    "primary_key": "STMicrelectronics",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/STMicrelectronics_MTech_2026",
+    "source_files": [
+      "STMicrelectronics_MTech_2026.png",
+      "STMicrelectronics_MTech_2026_1.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Ivanti",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "20-06-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7.5",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligibility criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Assessment",
+        "details": ""
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Ivanti's mission is to be a technology leader enabling organizations to elevate Everywhere Work automating tasks that discover, manage, secure, and service all their IT assets.",
+    "primary_key": "Ivanti",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Ivanti_MTech_2026",
+    "source_files": [
+      "Ivanti_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "GE Healthcare",
+    "role_name": "general",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "28T",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 or 9 Months",
+    "location": [
+      "PAN India"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "02-06-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science Engineering",
+        "Electronics & Communication Engineering",
+        "Electrical & Electronics Engineering",
+        "Electrical Engineering",
+        "Mechanical Engineering"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "No active backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Willing to work in GE HealthCare premises during the internship, Willing to work on any projects as assigned based on fitment and business need"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Strong interpersonal skills",
+      "Capable of working within a globally diverse team across different time zones"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Intern conversion to FTE is subject to interns’ performance and based on business need. Disclaimer: GE HealthCare will never ask for payment to process documents, refer you to a third party to process applications or visas, or ask you to pay costs.",
+    "primary_key": "GE Healthcare",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/GE Healthcare_MTech_2026",
+    "source_files": [
+      "GE Healthcare_MTech_2026.png",
+      "Internship JD - M. Tech.pdf"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Volvo",
+    "role_name": "Role - 1",
+    "role_title": "Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "40000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "9 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "14-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6.5",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligible and interested students are informed to Opt-in NeoPAT"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Attendance Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "Apply Link - clickthis Link",
+    "additional_notes": "No one got call from BDA",
+    "primary_key": "Volvo_Role - 1",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Volvo_MTech_2026/Role - 1",
+    "source_files": [
+      "Volvo_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Volvo",
+    "role_name": "Role - 2",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "40",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "month(s)",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "21-04-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Data Analytics",
+        "Data Science/AIML",
+        "Supply Chain Management",
+        "Industrial and production",
+        "Manufacturing management"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6.5 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Excellent communication in English, Good knowledge in MS Office, Power BI, SQL, Python, Power Apps, Power Automate, 365, good in data management and analytics"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Power BI",
+      "SQL",
+      "Python",
+      "Power Apps",
+      "Power Automate",
+      "365",
+      "data management and analytics"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "You were disabled from drive or portal when this drive was taken place. Drives criteria do not match your data before the last date & time to apply.",
+    "primary_key": "Volvo_Role - 2",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Volvo_MTech_2026/Role - 2",
+    "source_files": [
+      "Volvo_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Aditya Auto Products",
+    "role_name": "general",
+    "role_title": "AI/ML Acoustic Diagnostics Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "",
+      "currency": "",
+      "period": ""
+    },
+    "duration": "6 months",
+    "location": [
+      "Onsite, North Bangalore - Doddaballapur, near Bengaluru Airport"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "",
+    "eligibility": {
+      "degrees": [
+        "Computer Science",
+        "Electrical Engineering",
+        "Data Science"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "60% or 6 CGPA",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Currently pursuing or recently completed a degree in Computer Science, Electrical Engineering, Data Science, or a related field."
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Feature extraction",
+      "Audio signal analysis",
+      "Digital signal processing",
+      "Acoustic diagnostics",
+      "Edge computing",
+      "Data visualization",
+      "Model explainability",
+      "Automotive motor systems and components"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "10 Jun 2025 02.00 PM",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Hands-on experience with real-world AI/ML projects in an automotive environment. Mentorship from experienced professionals in AI/ML and acoustic diagnostics. Exposure to cutting-edge technologies and tools for audio signal processing.",
+    "primary_key": "Aditya Auto Products",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Aditya Auto Products_MTech_2026",
+    "source_files": [
+      "Job Description AL & ML.docx",
+      "JD Data Analyst.docx",
+      "Aditya Auto Products_MTech_2026.png",
+      "JD Data science.docx",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Videojet",
+    "role_name": "general",
+    "role_title": "Software Development Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "23500",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "18-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "CSE"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Good understanding of C++/Java, Familiarity with object-oriented programming concepts, Basic understanding of UI development, Basic knowledge of software development lifecycle and methodologies, Excellent problem-solving skills and attention to detail, Ability to work independently and as a team, Good communication skills"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "C++",
+      "Java",
+      "Object-Oriented Programming",
+      "UI Development",
+      "Software Development Lifecycle"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Internship starts on to be announced",
+    "primary_key": "Videojet",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Videojet_MTech_2026",
+    "source_files": [
+      "Videojet_MTech_2026.png"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "NetApp",
+    "role_name": "general",
+    "role_title": "IT Intern, MTS Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "60",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "19-02-2025",
+    "eligibility": {
+      "degrees": [
+        "Master's"
+      ],
+      "branches": [
+        "Computer Science",
+        "Computer Engineering",
+        "Electrical/Electronic Engineering",
+        "Information Systems"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "6 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Familiarity with machine learning algorithms, proficiency in programming languages, familiarity with UI frameworks, experience with SQL and data analytics, familiarity with machine learning libraries, basic concepts of computer architecture, exploratory knowledge of distributed computing and machine learning toolsets"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "3 coding questions (1 Easy, 1 Medium, 1 Hard), 27 MCQs (logical, Java, Networking, Aptitude)"
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": "based on Panel"
+      },
+      {
+        "round": 3,
+        "name": "Managerial Interview",
+        "details": ""
+      },
+      {
+        "round": 4,
+        "name": "HR Interview",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "5",
+    "skills_required": [
+      "Python",
+      "C/C++",
+      "Java",
+      "JavaScript",
+      "Go",
+      "Angular",
+      "React JS",
+      "SQL",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "multi-threading",
+      "complex algorithms",
+      "data structures",
+      "operating system fundamentals"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "19-02-2025",
+      "test_date": "28-02-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Only 5 got selected for next round from BDA: 1 MTS Intern Role, 4 IT Intern Role",
+    "primary_key": "NetApp",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/NetApp_MTech_2026",
+    "source_files": [
+      "Job Description - IT Combined.pdf",
+      "MTS Intern JD.pdf",
+      "NetApp_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Beckman Coulter",
+    "role_name": "general",
+    "role_title": "Product Security/Cyber Security, AllML Solutions",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "PAN India"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "10-06-2025",
+    "eligibility": {
+      "degrees": [
+        "ME",
+        "Mech"
+      ],
+      "branches": [
+        "Cyber Security",
+        "Information Security",
+        "Machine Learning",
+        "Computer Science",
+        "Artificial Intelligence",
+        "Information Science and Technology"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "60% or 6 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Not specified",
+      "other_criteria": "Not Eligible if disabled from drive or portal"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "2",
+    "skills_required": [
+      "Product Security",
+      "Cyber Security",
+      "AllML Solutions"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Drives criteria do not match your data before the last date & time to apply",
+    "primary_key": "Beckman Coulter",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Beckman Coulter_MTech_2026",
+    "source_files": [
+      "Beckman Coulter_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Nvidia",
+    "role_name": "Role - 1",
+    "role_title": "System Software Engineering Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "80",
+      "currency": "T PM",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "Pune",
+      "Bangalore",
+      "Hyderabad"
+    ],
+    "work_mode": "On-site",
+    "apply_before": "06-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech",
+        "BTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "E&C"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7.8",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Strong academic background, Good understanding of programming languages and processor architecture, Good understanding of Operating System Fundamentals, Knowledge of Linux kernel is a plus, Strong C/C++ programming skills, Knowledge of scripting (Perl or python) is a plus, Knowledge on Object-oriented programming is highly a plus in C / C++ Or Java, Aptitude in innovative and optimal designs"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "2 coding questions medium level (only C & C++), 27 aptitude questions Mid level (C,C++, logical, reasoning)"
+      },
+      {
+        "round": 2,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "C",
+      "C++ Programming",
+      "Analytical and Problem-solving skills",
+      "Principles of hardware operation",
+      "Operating System fundamentals",
+      "Algorithms and data structures",
+      "Principles of parallel computing",
+      "Python / PERL knowledge is preferred"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "06-02-2025",
+      "test_date": "07-02-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "07-02-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "They showed up after a month, Software Intern role - 20/01/2025, Hacker Rank based online site, 1 hrs - online protected written in Data Science Lab Innovation Centre (video only no audio)",
+    "primary_key": "Nvidia_Role - 1",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Nvidia_MTech_2026/Role - 1",
+    "source_files": [
+      "Nvidia_MTech_2026.png",
+      "NVIDIA - SW 6M Jul-Dec Spring Intern.pdf",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Nvidia",
+    "role_name": "Role - 2",
+    "role_title": "SW Compiler Verification Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "28000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "6 months",
+    "location": [
+      "Pune",
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "05-05-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "CSE",
+        "ECE",
+        "IT"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7.8",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligible for internship"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "C, C++ Programming; Problem-solving skills, Data Structure, AI/ML, Operating System"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "C",
+      "C++ Programming",
+      "Problem-solving skills",
+      "Data Structure",
+      "AI/ML",
+      "Operating System"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "05-05-2025",
+      "test_date": "08-05-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "08-07-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Online test will be conducted in labs on 8th May 2025 at 3 PM",
+    "primary_key": "Nvidia_Role - 2",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Nvidia_MTech_2026/Role - 2",
+    "source_files": [
+      "NVIDIA - SW Compiler Verification Intern JD.pdf",
+      "Nvidia_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "ArcherIRM",
+    "role_name": "general",
+    "role_title": "Graduate Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "Not specified",
+      "currency": "Not specified",
+      "period": "Not specified"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "05-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Not specified"
+      ],
+      "cgpa_10th": "Not specified",
+      "cgpa_12th": "Not specified",
+      "cgpa_ug": "Not specified",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Not specified",
+      "other_criteria": "70% or 7 CGPA throughout"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": "Not specified"
+      },
+      {
+        "round": 2,
+        "name": "Intern Online Test",
+        "details": "25 MCQ's, 2 Coding (1 Easy, 1 Medium)"
+      },
+      {
+        "round": 3,
+        "name": "Technical Round",
+        "details": "Based on team"
+      },
+      {
+        "round": 4,
+        "name": "Managerial Round",
+        "details": "Not specified"
+      },
+      {
+        "round": 5,
+        "name": "HR Round",
+        "details": "Not specified"
+      }
+    ],
+    "number_of_positions": "1",
+    "skills_required": [
+      "Not specified"
+    ],
+    "contact_info": {
+      "hr_name": "Not specified",
+      "email": "Not specified",
+      "phone": "Not specified"
+    },
+    "important_dates": {
+      "registration_start": "Not specified",
+      "registration_end": "05-03-2025",
+      "test_date": "10-03-2025",
+      "interview_date": "Not specified",
+      "result_date": "Not specified",
+      "joining_date": "11-03-2025"
+    },
+    "apply_link": "Not specified",
+    "additional_notes": "On conversion CTC 10 LPA",
+    "primary_key": "ArcherIRM",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/ArcherIRM_MTech_2026",
+    "source_files": [
+      "Screenshot 2025-03-04 120134.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "SAP Labs",
+    "role_name": "general",
+    "role_title": "Graduate Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "35000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore",
+      "Pune",
+      "Mumbai",
+      "Gurgaon",
+      "Hyderabad"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "27-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Eligibility Criteria Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Test",
+        "details": "2 coding questions (2 Easy)"
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": "based on Panel"
+      },
+      {
+        "round": 3,
+        "name": "Managerial Interview",
+        "details": ""
+      },
+      {
+        "round": 4,
+        "name": "HR",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "1",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "28-02-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "Online Test for Multiple roles - 28/02/25, SAP Based platform, 45 Mins based online written remotely (No video and No audio)",
+    "primary_key": "SAP Labs",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/SAP Labs_MTech_2026",
+    "source_files": [
+      "SAP Labs_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Commscope",
+    "role_name": "general",
+    "role_title": "Internship",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "40",
+      "currency": "T PM",
+      "period": "per month"
+    },
+    "duration": "2 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "22-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "Information Science Engineering"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "60%",
+      "cgpa_pg": "6 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Strong fundamentals in Computer Science or Information Science Engineering, thorough understanding of data structures, real-time embedded systems, good knowledge in fundamentals OSI layers, TCP/IP protocols and socket programming, cloud technologies, good knowledge in Linux kernel, networking, protocols, packet routing, bridging and data plane services, good programming knowledge in C/C++, and/or scripting languages like JavaScript, jQuery, Python, Perl, DevOps, CI/CD, knowledge of various tools, source technologies, and cloud services"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online assessment",
+        "details": "on HackerEarth"
+      },
+      {
+        "round": 2,
+        "name": "Face-to-face interviews",
+        "details": "at their Bangalore office"
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "C/C++",
+      "JavaScript",
+      "jQuery",
+      "Python",
+      "Perl",
+      "DevOps",
+      "CI/CD",
+      "Linux kernel",
+      "Networking",
+      "OSI layers",
+      "TCP/IP protocols",
+      "socket programming",
+      "cloud technologies",
+      "data structures",
+      "real-time embedded systems",
+      "packet routing",
+      "bridging",
+      "data plane services"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "22-02-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "The internship is part of the New College Graduates Internship Program designed to provide invaluable work experience through completing meaningful projects, collaborating with industry experts, receiving on-the-job training, and participating in professional development workshops, executive speaker series, and other networking and social events.",
+    "primary_key": "Commscope",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Commscope_MTech_2026",
+    "source_files": [
+      "Commscope_MTech_2026.png",
+      "Drive Description.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Ericsson",
+    "role_name": "general",
+    "role_title": "Student Intern, AI & ML",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "60000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore",
+      "Chennai"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "13-05-2025",
+    "eligibility": {
+      "degrees": [
+        "B.E.",
+        "B.Tech.",
+        "M.E.",
+        "M.Tech."
+      ],
+      "branches": [
+        "Computer Science",
+        "related disciplines"
+      ],
+      "cgpa_10th": "75%",
+      "cgpa_12th": "75%",
+      "cgpa_ug": "65%",
+      "cgpa_pg": "65%",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "First Class with Distinction"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Hadoop",
+      "Spark",
+      "Kafka",
+      "Relational SQL and NoSQL databases",
+      "Python",
+      "Java",
+      "C++",
+      "Scala",
+      "GUI / Web UI technologies",
+      "Agile development",
+      "Lean principles",
+      "GitHub"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "13-05-2025",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "To be announced"
+    },
+    "apply_link": "",
+    "additional_notes": "Focus of the work will be on Implementing AI/ML solutions for Telecom and Networking using cutting edge AI technologies, including Generative AI, Agentic AI, Trustworthy AI, Computer Vision, etc.",
+    "primary_key": "Ericsson",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Ericsson_MTech_2026",
+    "source_files": [
+      "Ericsson_Bangalore_R&D_AI_Intern_JD.pdf",
+      "Ericsson_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Thomson Reuters",
+    "role_name": "general",
+    "role_title": "Data & Analytics Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "70T",
+      "currency": "EUR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "08-03-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Data and Analytics",
+        "Data Science"
+      ],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "7 CGPA",
+      "backlogs": "Not specified",
+      "batch_year": [
+        "2025",
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Currently pursuing a MTECH degree with an expected completion in 2025/2026 in a technical field such as Data and Analytics, Data Science."
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Online Assessment",
+        "details": "1 hrs - online protected written remotely (video only no audio), 60 questions, 10 - Big Data, 10 - ML, 10 - Aptitude, 10 - comprehensive, 10 - Mean Avg SD, 10 - Analytical"
+      },
+      {
+        "round": 2,
+        "name": "Technical Interview",
+        "details": "Technical online interview conducted online remotely, mainly based on your resume"
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [
+      "Python",
+      "SQL",
+      "Tableau",
+      "Power BI"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "08-03-2025",
+      "test_date": "13-03-2025",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": "17-03-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "Hands-On Experience: Provide real-time projects that allow interns to apply their academic knowledge and gain practical skills in data and analytics. Mentorship and Guidance: Pair interns with experienced mentors who can offer guidance, support, and insights into the field of data analytics. Skill Development: Offer training sessions, workshops, and access to online courses to help interns enhance their technical and analytical skills. Exposure to Tools and Technologies: Give interns the opportunity to work with industry-standard tools and technologies, such as Python, R, SQL, and data visualization software. Collaborative Environment: Foster a supportive and inclusive workplace where interns can collaborate with team members and contribute ideas. Feedback and Evaluation: Offer regular feedback and performance evaluations to help interns understand their strengths and areas for improvement.",
+    "primary_key": "Thomson Reuters",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Thomson Reuters_MTech_2026",
+    "source_files": [
+      "JD Data & Analytics Internship.docx",
+      "Thomson Reuters_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Tishyas Medical Device",
+    "role_name": "general",
+    "role_title": "Tishyas Medical Device Development Solutions Private Limited",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "18000",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "06-06-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [],
+      "cgpa_10th": "",
+      "cgpa_12th": "",
+      "cgpa_ug": "",
+      "cgpa_pg": "60% or 6 CGPA",
+      "backlogs": "",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "",
+      "other_criteria": "Not Eligible You were disabled from drive or portal when this drive was taken place Drives criteria do not match your data before the last date & time to apply"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Profile & CTC Round",
+        "details": ""
+      }
+    ],
+    "number_of_positions": "",
+    "skills_required": [],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "",
+      "test_date": "",
+      "interview_date": "",
+      "result_date": "",
+      "joining_date": ""
+    },
+    "apply_link": "",
+    "additional_notes": "CTC minimum 4.8 LPA",
+    "primary_key": "Tishyas Medical Device",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Tishyas Medical Device_MTech_2026",
+    "source_files": [
+      "Tishyas Medical Device_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  },
+  {
+    "company_name": "Stryker",
+    "role_name": "general",
+    "role_title": "M.Tech Intern",
+    "employment_type": "Internship",
+    "stipend_salary": {
+      "amount": "50T",
+      "currency": "INR",
+      "period": "per month"
+    },
+    "duration": "12 months",
+    "location": [
+      "Gurugram",
+      "Bangalore"
+    ],
+    "work_mode": "Not specified",
+    "apply_before": "05-02-2025",
+    "eligibility": {
+      "degrees": [
+        "MTech"
+      ],
+      "branches": [
+        "Computer Science",
+        "related stream"
+      ],
+      "cgpa_10th": "50%",
+      "cgpa_12th": "50%",
+      "cgpa_ug": "5.0",
+      "cgpa_pg": "5.0",
+      "backlogs": "No backlogs",
+      "batch_year": [
+        "2026"
+      ],
+      "gender": "Any",
+      "other_criteria": "Must be flexible, independent, and self-motivated"
+    },
+    "selection_process": [
+      {
+        "round": 1,
+        "name": "Pre-Placement Talk",
+        "details": ""
+      },
+      {
+        "round": 2,
+        "name": "Online Test",
+        "details": "85 questions in 88 minutes, including technical, cognitive, logical, visualization, and literature sections"
+      },
+      {
+        "round": 3,
+        "name": "Technical Interview",
+        "details": "30-45 minutes, 5 panel members, projects, SQL, Python"
+      },
+      {
+        "round": 4,
+        "name": "HR Interview",
+        "details": "10-15 minutes, online"
+      }
+    ],
+    "number_of_positions": "Not specified",
+    "skills_required": [
+      "Data Structures",
+      "Algorithms",
+      "Java",
+      "Python",
+      "Cloud",
+      "C",
+      "C++",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "Software Engineering",
+      "SDLC",
+      "DDLC",
+      "Technical Documentation",
+      "Agile Development"
+    ],
+    "contact_info": {
+      "hr_name": "",
+      "email": "",
+      "phone": ""
+    },
+    "important_dates": {
+      "registration_start": "",
+      "registration_end": "05-02-2025",
+      "test_date": "06-02-2025",
+      "interview_date": "07-02-2025",
+      "result_date": "",
+      "joining_date": "06-02-2025"
+    },
+    "apply_link": "",
+    "additional_notes": "The internship starts on 06-02-2025 and the stipend is 50T per month. The selection process includes a pre-placement talk, an online test, a technical interview, and an HR interview.",
+    "primary_key": "Stryker",
+    "batch_year": "2026",
+    "source_folder": "/data/shreyas25/sairam/placements_data/Placements/Stryker_MTech_2026",
+    "source_files": [
+      "Intern - Software (DRE).pptx",
+      "SMB JD.pptx",
+      "Intern - Software.pptx",
+      "Stryker_MTech_2026.png",
+      "Info.txt"
+    ],
+    "extraction_status": "success"
+  }
+]

@@ -1,0 +1,1502 @@
+[
+  {
+    "chunk_id": "NTRO_about_company_01",
+    "primary_key": "NTRO",
+    "company": "NTRO",
+    "role": "general",
+    "type": "about_company",
+    "text": "National Technical Research Organisation(NTRO) is premier technical research organization of the Govt of India, which is inter alia involved in design; development; acquisition and integration of cutting-edge technologies, in multiple domains, for generating actionable intelligence, to meet Tech-Int: requirements for the security of the nation: We work in domain areas such as Artifical Intelligence; Cloud Computing; Crypto logy, Communications; Cyber Security; Data Analytics, Remote sensing; Software Development; Linguistics, Maritime, Aviation,et al and have challenging real life problem statements to be addressed.",
+    "source": "NTRO_MTech_2026.png, Info.txt",
+    "char_count": 623
+  },
+  {
+    "chunk_id": "NTRO_compensation_benefits_02",
+    "primary_key": "NTRO",
+    "company": "NTRO",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "The internship offers an attractive monthly stipend of Rs: 40,000/-(for Post graduate students)",
+    "source": "NTRO_MTech_2026.png, Info.txt",
+    "char_count": 95
+  },
+  {
+    "chunk_id": "NTRO_additional_info_03",
+    "primary_key": "NTRO",
+    "company": "NTRO",
+    "role": "general",
+    "type": "additional_info",
+    "text": "NTRO offers internships for post graduate students pursuing M: Tech /MEJM.Sc. for a duration of 03 to 06 months. Apply Before 10 2025 I0.00 AM. Drives criteria do not match your data before the last date & time to apply: PAN India Internship 40T PM Duration : 6 month(s, Starts On To be announced.",
+    "source": "NTRO_MTech_2026.png, Info.txt",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "Emerson_about_company_01",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "about_company",
+    "text": "Emerson (NI is now part of Emerson) is seeking Software Engineer Interns to work on design and development of test frameworks, algorithms, platforms and software products developed by Emerson. The primary responsibilities in this position include working with development teams to define, document, design, deploy code & infrastructure components that help release NI products on time and with high quality.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 407
+  },
+  {
+    "chunk_id": "Emerson_roles_responsibilities_02",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Understand challenges with existing infrastructure/frameworks/code. Design and develop framework and tools to facilitate creating and executing automated driver tests, functional and non-functional. Recommend new approaches to improve the stability and efficiency. Follow software development processes and design practices of the team. Understand and adhere to coding guidelines of the team. Develop feature documentation. Participate in feature design and code review exercises.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 480
+  },
+  {
+    "chunk_id": "Emerson_skills_required_03",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "skills_required",
+    "text": "B.E./ B.Tech./ Computer Science/ Information Technology / Electronics/Electrical. Good programming Skills (preferably C/ C++/ C#/ Python) & Interest to take on complex problems and proactively find out ways to solve them. Excellent communication skills to be able to gather information from Global peers.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 304
+  },
+  {
+    "chunk_id": "Emerson_skills_optional_04",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Understanding of NI software tools (i.e. LabVIEW, LabVIEW RT, TestStand) is a plus. Understanding of Linux Desktop & LinuxRT is a plus. Demonstrated ability to: persistently drive tasks to successful completion, take initiative, be a self-starter, and work independently, quickly learn applicable technology, systems, and products. Strong problem-solving skills, work ethic, and drive to succeed.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 396
+  },
+  {
+    "chunk_id": "Emerson_interview_process_05",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "interview_process",
+    "text": "1.5 hrs - online protected written in Data Science Lab Innovation center (video only no audio). 1 coding question Medium level. 1 Coding question Medium level.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 159
+  },
+  {
+    "chunk_id": "Emerson_eligibility_criteria_06",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "70% & above with no active backlogs. 70% or 7 CGPA PG only.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 59
+  },
+  {
+    "chunk_id": "Emerson_compensation_benefits_07",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "Stipend: INR 45,000 /month. PPO: Students who perform exceptionally in our evaluation process might be extended an PPO along with Internship while other will be evaluated during the internship period for performance. Full Time CTC if offered (AIl fixed no variable component) PG 15.38 LPA. Additional Benefits for Full Time Roles (not applicable for internship) Internet Allowance, Medical; Accident & Term Life Insurance, Out-Patient Consultation, Health Check Up, Tele consultation App subscription.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 501
+  },
+  {
+    "chunk_id": "Emerson_additional_info_08",
+    "primary_key": "Emerson",
+    "company": "Emerson",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Location: Bengaluru. Mode: Onsite Internship. Duration: July 2025 to Jun 2025 extendable to another 6 months based on business needs & Intern performance. Any Full-Time positions will be based on business needs student performance during Internship. Apply Before 27 Feb 2025 10.00 AM. Drive Description Download file Mode: Coding test (c#Icttlc & Python are allowed no Java). Internship Duration: Jul 2025 to Dec 2025, we might extend the internship until Jun 2026 based on intern performance business needs.",
+    "source": "JD - Software Engineer Intern_2025.docx, Emerson_MTech_2026.png, Info.txt",
+    "char_count": 508
+  },
+  {
+    "chunk_id": "Thales_roles_responsibilities_01",
+    "primary_key": "Thales",
+    "company": "Thales",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Conduct cutting-edge research and development in embedded software systems, focusing on RISC-V architecture, secure boot, and hypervisor technologies. Contribute to writing detailed technical specifications, research papers, and publications related to secure boot and hypervisors for RISC-V platforms. Collaborate with cross-functional teams to design, implement, and evaluate embedded software solutions on RISC-V platforms. Develop and test embedded software on evaluation boards using Yocto and similar development tools. Design and implement secure boot mechanisms and low-level firmware for embedded systems. Contribute to the development and evaluation of open-source hypervisors for RISC-V platforms. Stay up-to-date with the latest advancements in embedded systems, RISC-V architecture, and security technologies.",
+    "source": "Thales_MTech_2026.png, Job Description - Embedded Intern.docx, JD for M.Tech internship.pdf",
+    "char_count": 822
+  },
+  {
+    "chunk_id": "Thales_skills_required_02",
+    "primary_key": "Thales",
+    "company": "Thales",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Currently pursuing a Mtech / PhD in Computer Science, Electrical Engineering, or a related field, with a focus on embedded systems, computer architecture, or cybersecurity. Strong knowledge of embedded software systems, operating systems, and computer architecture. Proficiency in programming languages such as C/C++ and assembly. Experience with evaluation boards and embedded development tools, particularly Yocto. Hands-on experience in secure firmware development, including UEFI. Strong understanding of RISC-V architecture and secure boot mechanisms. Familiarity with open-source hypervisors (e.g., Xen, KVM) and virtualization concepts. Experience with performance analysis, optimization, and debugging. Solid written and verbal communication skills, with the ability to produce technical documentation and publications.",
+    "source": "Thales_MTech_2026.png, Job Description - Embedded Intern.docx, JD for M.Tech internship.pdf",
+    "char_count": 827
+  },
+  {
+    "chunk_id": "Thales_skills_optional_03",
+    "primary_key": "Thales",
+    "company": "Thales",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Experience with secure boot systems and bootloaders in embedded systems. Familiarity with RISC-V security extensions (e.g., TrustZone) and hardware security concepts (e.g., cryptographic algorithms). Experience in hypervisor design and virtualization technologies. Knowledge of hardware security principles and cryptographic algorithms used in embedded systems. Experience with version control systems like Git. Familiarity with modern software development practices and tools.",
+    "source": "Thales_MTech_2026.png, Job Description - Embedded Intern.docx, JD for M.Tech internship.pdf",
+    "char_count": 477
+  },
+  {
+    "chunk_id": "Thales_additional_info_04",
+    "primary_key": "Thales",
+    "company": "Thales",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration: 12 month(s), Starts On: To be announced, Apply Before: 17 Feb 2025, 10:00 AM, Profile & CTC Round: Multiple Profiles, Drive Description: Download file No Description, Round Details: Profile & CTC Round Multiple Profiles",
+    "source": "Thales_MTech_2026.png, Job Description - Embedded Intern.docx, JD for M.Tech internship.pdf",
+    "char_count": 229
+  },
+  {
+    "chunk_id": "Schneider_about_company_01",
+    "primary_key": "Schneider",
+    "company": "Schneider",
+    "role": "general",
+    "type": "about_company",
+    "text": "Schneider’s purpose is to empower all to make the most of our energy and resources, bridging progress and sustainability for all. We call this Life Is On. Our mission is to be your digital partner for Sustainability and Efficiency. We drive digital transformation by integrating world-leading process and energy technologies, end-point to cloud connecting products, controls, software and services, across the entire lifecycle, enabling integrated company management, for homes, buildings, data centers, infrastructure, and industries. We are the most local of global companies. We are advocates of open standards and partnership ecosystems that are passionate about our shared Meaningful Purpose, Inclusive and Empowered values. www.se.com",
+    "source": "R&D M.Tech JD - Tier 1 Engg.pdf, Schneider_MTech_2026.png, JD - M.Tech Intern_GSC International.pdf",
+    "char_count": 740
+  },
+  {
+    "chunk_id": "Schneider_roles_responsibilities_02",
+    "primary_key": "Schneider",
+    "company": "Schneider",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Participate in the full cycle of product development and delivery, including design, modelling, simulation, and experimental testing and validation. Contribute to the definition and validation of product validation tests. Evaluate new ideas from internal/external customers by leading the first technical feasibility assessment with the technical leader. Support league leader in addressing new technologies and market evolution through proof-of-concept activities. Perform root cause analyses in adopting systematic methodologies for root cause determination. Contribute to arc system design related to development of MCCB and ACB. (Power System MET) Participate in the full cycle of product development and delivery, including design, modelling, simulation, and experimental testing and validation. Contribute to the definition and validation of product validation tests. Evaluate new ideas from internal/external customers by leading the first technical feasibility assessment with the technical leader. Support league leader in addressing new technologies and market evolution through proof-of-concept activities. Perform root cause analyses in adopting systematic methodologies for root cause determination. Contribute to address thermal performance challenge for technical activities related to development of MCCB and ACB. (Thermal Engg MET) Lead technical discussions for Analytics and IIoT projects as required. Collaborate with stakeholders on data-driven projects and contribute innovative ideas. Stay updated with emerging technologies and trends in data analytics. Help prepare reports and presentations to communicate findings effectively. Participate in team meetings and contribute to discussions with insights and feedback. (MTECH INTERN – GLOBAL SUPPLY CHAIN ANALYTICS) Work on Innovation initiatives with global GSC sites to pilot startup solutions, hands-on trials at Schneider facilities, track the innovation projects & entire program. Pilot should be concluded with a Go/No-Go decision for further scale. (Strategy & Performance) Responsible for process improvement projects for a given scope. Areas of expertise: SPS, process design, ergonomics, capacity, simulation tools, investment, cost analysis, performance, etc.). Can have hierarchical / non-hierarchical responsibilities with associated people management & budgetary accountability. Strongly contributing to / leading continuous improvement actions for the scope. (Supply Chain Performance) Transformational, cross functional projects. (Special Transformational projects)",
+    "source": "R&D M.Tech JD - Tier 1 Engg.pdf, Schneider_MTech_2026.png, JD - M.Tech Intern_GSC International.pdf",
+    "char_count": 2553
+  },
+  {
+    "chunk_id": "Schneider_skills_required_03",
+    "primary_key": "Schneider",
+    "company": "Schneider",
+    "role": "general",
+    "type": "skills_required",
+    "text": "ME/MTech– Power Systems from reputed Institute. Should have hands on experience in simulation using design tool Ansys, MATLAB etc. Theoretical Knowledge of power system protection. ME/MTech– mechanical or Equivalent from reputed Institute. Should have hands on experience in simulation using design tool Ansys, MATLAB etc. Theoretical Knowledge of heat transfer. Projects or research papers in the field of IIoT or Data and Analytics. Strong interest in supply chain and data and analytics, with a desire to learn and grow in this field. Technologically savvy with familiarity in emerging technologies. Consistent academic performance and active participation in co-curricular activities. Excellent communication skills, both written and verbal. A proactive attitude and eagerness to learn from experienced professionals. Exposure to Industry 4.0/ AL/ ML/ Automation/ Robotics. IIOT/ AI Deep Learning/ Vision System. Focus on Customer. Digital Acumen. Electronics/Comp Science / Mechatronics. Software Programming knowledge – Coding (C/Java/Python), Database, Analytics, Awareness of IIoT (Industrial Internet of Things), Metaverse (AR/VR/MR/XR). Cobots, Robots, Humanoids. Project Life cycle management, Agile methodologies. Documentation. MS Office – Excel, PowerPoint, TEAMS. Cross-Cultural. Issue Resolution. Communicate Effectively. Customer Orientation. Learning Agility. Entrepreneurial.",
+    "source": "R&D M.Tech JD - Tier 1 Engg.pdf, Schneider_MTech_2026.png, JD - M.Tech Intern_GSC International.pdf",
+    "char_count": 1394
+  },
+  {
+    "chunk_id": "Schneider_skills_optional_04",
+    "primary_key": "Schneider",
+    "company": "Schneider",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Good social skills and empathy with a passion and drive for innovation. Motivated self-starter, who able to work in parallel on multiple projects.",
+    "source": "R&D M.Tech JD - Tier 1 Engg.pdf, Schneider_MTech_2026.png, JD - M.Tech Intern_GSC International.pdf",
+    "char_count": 146
+  },
+  {
+    "chunk_id": "Schneider_compensation_benefits_05",
+    "primary_key": "Schneider",
+    "company": "Schneider",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "INR 35000 per month for Internship Roles. There is No Service Agreement clause for any Full Time Hires at Schneider Electric. The Probationary Period for University Hires is 9 months.",
+    "source": "R&D M.Tech JD - Tier 1 Engg.pdf, Schneider_MTech_2026.png, JD - M.Tech Intern_GSC International.pdf",
+    "char_count": 183
+  },
+  {
+    "chunk_id": "Schneider_additional_info_06",
+    "primary_key": "Schneider",
+    "company": "Schneider",
+    "role": "general",
+    "type": "additional_info",
+    "text": "This is an Indicative Job Description (JD) about our GSC division. We request all the students to go through the same. The students should also be flexible and open to work in any of these Sub Departments if selected Internship or a Full - Time Role. Placement Locations: Bangalore. Important Information about the Schneider Electric University Program: Compensation: INR 35000 per month for Internship Roles. There is No Service Agreement clause for any Full Time Hires at Schneider Electric. The Probationary Period for University Hires is 9 months. This is an Indicative Job Description (JD) about our GSC division. We request all the students to go through the same. The students should also be flexible and open to work in any of these Sub Departments if selected Internship or a Full - Time Role.",
+    "source": "R&D M.Tech JD - Tier 1 Engg.pdf, Schneider_MTech_2026.png, JD - M.Tech Intern_GSC International.pdf",
+    "char_count": 802
+  },
+  {
+    "chunk_id": "Techolution_about_company_01",
+    "primary_key": "Techolution",
+    "company": "Techolution",
+    "role": "general",
+    "type": "about_company",
+    "text": "At Techolution, we specialize in building custom AI solutions that deliver innovation and drive measurable outcomes for enterprises worldwide. With our specialized expertise we help businesses take AI from their labs into the real world. As your one-stop shop engineering firm, Techolution guides you from ideation to ROI realization. We ensure real-world AI success by minimizing R&D risks for our clients with our innovative fixed-bid pricing model. Our Unique Value Proposition includes White Glove Service, Human-AI Partnership, and Customized AI Solutions. Techolution has partnered with 300+ clients worldwide, including 50+ Fortune 500 companies. Our growing team works across diverse sectors such as healthcare, education, retail, media, tech, banking, fintech, government, telecom, and manufacturing. Celebrating 9+ years in business, we are committed to AI Done Right! Awards & Recognition include Forbes' best-selling book by our CEO, 'Failing Fast?: The 10 Secrets to Succeed Faster,' AI Solutions Provider of the Year - AI Summit, Best in Business Award - Inc. Magazine, Best Cloud Transformation Consulting - CIO Review, and Inc. 500 Fastest Growing Company Award.",
+    "source": "Generative AI Intern - 2025.pdf, CV Intern - 2025.pdf, Python Intern - 2025.pdf",
+    "char_count": 1178
+  },
+  {
+    "chunk_id": "Techolution_roles_responsibilities_02",
+    "primary_key": "Techolution",
+    "company": "Techolution",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Assist in developing and implementing Generative AI models using Python, Machine Learning, and Deep Learning techniques. Contribute to Generative AI projects, applying state-of-the-art algorithms and methodologies. Collaborate on Large Language Model (LLM) projects, including fine-tuning and implementation of vector databases. Participate in the development and optimization of Retrieval-Augmented Generation (RAG) systems. Apply Data Structures and Algorithms to solve complex AI-related problems efficiently. Demonstrate strong ownership of assigned tasks and projects. Maintain a seeker mindset, continuously learning and staying updated with the latest advancements in AI. Show passion towards work and contribute innovative ideas to team discussions. Effectively comprehend and communicate complex AI concepts to team members and stakeholders.",
+    "source": "Generative AI Intern - 2025.pdf, CV Intern - 2025.pdf, Python Intern - 2025.pdf",
+    "char_count": 850
+  },
+  {
+    "chunk_id": "Techolution_skills_required_03",
+    "primary_key": "Techolution",
+    "company": "Techolution",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Proficiency in Python programming. Solid grasp of Data Structures and Algorithms. Knowledge of Generative AI principles and architectures. Familiarity with Large Language Models (LLMs) and their applications Gemini, Falcon, LLama, Langchain, Palm2. Experience with Fine-tuning Techniques for AI models. Knowledge about different vector databases like Pinecone, Waviate, Chroma, Faiss. Understanding of Retrieval-Augmented Generation (RAG) systems. Strong foundation in Machine Learning and Deep Learning concepts. Exhibit extreme ambition in achieving project goals and personal growth. Display unbeatable work ethics and commitment to delivering high-quality results.",
+    "source": "Generative AI Intern - 2025.pdf, CV Intern - 2025.pdf, Python Intern - 2025.pdf",
+    "char_count": 668
+  },
+  {
+    "chunk_id": "Techolution_skills_optional_04",
+    "primary_key": "Techolution",
+    "company": "Techolution",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Experience with Cloud Computing platforms (GCP, AWS, Azure). Knowledge of MLOps practices and tools. Familiarity with Docker containerization. Basic understanding of Linux/Bash Programming. Experience in synthetic data generation. Ability to set and work towards long-term and short-term goals. Extremely ambitious attitude towards personal and professional growth.",
+    "source": "Generative AI Intern - 2025.pdf, CV Intern - 2025.pdf, Python Intern - 2025.pdf",
+    "char_count": 365
+  },
+  {
+    "chunk_id": "Techolution_additional_info_05",
+    "primary_key": "Techolution",
+    "company": "Techolution",
+    "role": "general",
+    "type": "additional_info",
+    "text": "If you are passionate about leveraging AI technologies to create impactful solutions and meet the qualifications listed above, we invite you to apply for this exciting opportunity by sharing your video resume. We look forward to hearing your story and exploring how your skills align with the goals of our team. As an equal opportunity employer, Techolution celebrates diversity and is committed to creating an inclusive environment for all employees.",
+    "source": "Generative AI Intern - 2025.pdf, CV Intern - 2025.pdf, Python Intern - 2025.pdf",
+    "char_count": 451
+  },
+  {
+    "chunk_id": "Bosch_roles_responsibilities_01",
+    "primary_key": "Bosch",
+    "company": "Bosch",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Computer Vision & Deep learning/Time Series/Natural Lang Proc using LLMS/Natural Lang Proc/Computer vision/Control systems, numerical methods, optimization/Signal processing expert with AI /ML/Robotics Intern/Cybersecurity - privacy preserving ML (encryption)/LSTM/Transformers/Mamba - ML for Mechanics/AI Intern/Python and Gen AI (Knowledge on LLMs and Prompting.)/Data Analytics, Visualization, and Process Optimization Intern/Generic Role",
+    "source": "Bosch_MTech_2026.png, JD.docx, Info.txt",
+    "char_count": 441
+  },
+  {
+    "chunk_id": "Bosch_skills_required_02",
+    "primary_key": "Bosch",
+    "company": "Bosch",
+    "role": "general",
+    "type": "skills_required",
+    "text": "CSE/ECE/AIML/Data Science/Mechanical/Aerospace/Electrical, Physics, Maths (M.Sc)/Signal Processing/Robotics, Mechatronics, ECE (with project knowledge in robotics)/CSE/AL-ML/Data Science/M.Tech in AI/ML/M.Tech in Data science, Computer Science, Engineering, Business Analytics, Operations Research, or related fields",
+    "source": "Bosch_MTech_2026.png, JD.docx, Info.txt",
+    "char_count": 316
+  },
+  {
+    "chunk_id": "Bosch_skills_optional_03",
+    "primary_key": "Bosch",
+    "company": "Bosch",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Prior exposure to process mapping, automation projects, or lean initiatives is a plus",
+    "source": "Bosch_MTech_2026.png, JD.docx, Info.txt",
+    "char_count": 85
+  },
+  {
+    "chunk_id": "Bosch_interview_process_04",
+    "primary_key": "Bosch",
+    "company": "Bosch",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Profile & CTC Round Intern Stipend 2 35T PM",
+    "source": "Bosch_MTech_2026.png, JD.docx, Info.txt",
+    "char_count": 43
+  },
+  {
+    "chunk_id": "Bosch_additional_info_05",
+    "primary_key": "Bosch",
+    "company": "Bosch",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Internship 35T PM Duration month(s) Starts On To be announced Apply Before 07 May 2025 10.00 AM/Duration 8 to 10 Months/Duration 5 to 6 Months",
+    "source": "Bosch_MTech_2026.png, JD.docx, Info.txt",
+    "char_count": 142
+  },
+  {
+    "chunk_id": "Signify_interview_process_01",
+    "primary_key": "Signify",
+    "company": "Signify",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Round Details: \n1. Pre-Placement Talk \n2. Online Test - Hacker rank based online site, 85 min, 26 questions (2 coding: 1 C based, 1 Java Based; 24 MCQ: 12 cognitive, 12 logical) \n3. Technical Interview based on Panel (Non Technical Role) \n4. Managerial Interview \n5. HR",
+    "source": "Signify_MTech_2026.png, Info.txt",
+    "char_count": 269
+  },
+  {
+    "chunk_id": "Signify_eligibility_criteria_02",
+    "primary_key": "Signify",
+    "company": "Signify",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "Eligibility Criteria: \n7 CGPA in PG",
+    "source": "Signify_MTech_2026.png, Info.txt",
+    "char_count": 35
+  },
+  {
+    "chunk_id": "Signify_compensation_benefits_03",
+    "primary_key": "Signify",
+    "company": "Signify",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "On Conversion CTC: 12.65 Lacs + 2 Lacs Joining bonus \nStipend: 2 35T PM",
+    "source": "Signify_MTech_2026.png, Info.txt",
+    "char_count": 71
+  },
+  {
+    "chunk_id": "Signify_additional_info_04",
+    "primary_key": "Signify",
+    "company": "Signify",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration: 12 month(s) \nStarts On: 11 Feb 2025 (Confirmed date) \nApply Before: 10 Feb 2025 10.00 AM \nDrive Description: Download file \nOnline Test Date: 11 Feb 2025 04.30 PM \nOnline Test Time: 11 Feb 2025 07.00 PM",
+    "source": "Signify_MTech_2026.png, Info.txt",
+    "char_count": 212
+  },
+  {
+    "chunk_id": "Noika_interview_process_01",
+    "primary_key": "Noika",
+    "company": "Noika",
+    "role": "general",
+    "type": "interview_process",
+    "text": "1st round coding and MCQ's (7-9 March) \n2.5 hr online protected written Remotely (video only)\n2 coding easy level\n25 MCQ",
+    "source": "Info.txt",
+    "char_count": 120
+  },
+  {
+    "chunk_id": "Suprajit_interview_process_01",
+    "primary_key": "Suprajit",
+    "company": "Suprajit",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Drive will be physical on 20th May: Students who can attend the drive at campus should only apply: Round Details Profile & CTC Round Intern Stipend 2 30T PM",
+    "source": "Suprajit_MTech_2026.png, Info.txt",
+    "char_count": 156
+  },
+  {
+    "chunk_id": "Suprajit_additional_info_02",
+    "primary_key": "Suprajit",
+    "company": "Suprajit",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration : 12 month(s) Starts On 20 May 2025 (Confirmed date) Apply Before 08 May 2025 10.00 AM",
+    "source": "Suprajit_MTech_2026.png, Info.txt",
+    "char_count": 95
+  },
+  {
+    "chunk_id": "ABB_interview_process_01",
+    "primary_key": "ABB",
+    "company": "ABB",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Round Details: Attendance Profile & CTC Round",
+    "source": "ABB_MTech_2026.png, Info.txt",
+    "char_count": 45
+  },
+  {
+    "chunk_id": "ABB_eligibility_criteria_02",
+    "primary_key": "ABB",
+    "company": "ABB",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "UG CSE Students only, 8 CGPA in PG(Master's)",
+    "source": "ABB_MTech_2026.png, Info.txt",
+    "char_count": 44
+  },
+  {
+    "chunk_id": "ABB_additional_info_03",
+    "primary_key": "ABB",
+    "company": "ABB",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration: 6 month(s), Starts On: To be announced, Apply Before: 01 Apr 2025 04.30 PM, Apply through given link only: https://forms.office.com/pages/responsepage.aspx?id=4OkuN-CcM0CmSsBwc6kezcj6dcNEaypFqtvDDUcUErpUM1pMWVdMTFozMVUzTzY4NERTU0dITEJRTy4u&route=shorturl, Fill the form for the registration, Later given onto Neopat, No one got call from BDA",
+    "source": "ABB_MTech_2026.png, Info.txt",
+    "char_count": 351
+  },
+  {
+    "chunk_id": "Saviynt_about_company_01",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "about_company",
+    "text": "At Saviynt, we are redefining the future of identity security. As a leading provider of intelligent, cloud-first Identity Security solutions, we empower organizations to protect their most critical assets. Our innovative platform leverages advanced AI and machine learning to deliver unparalleled insights and automation, ensuring our clients stay ahead in a rapidly evolving digital landscape. Join our dynamic and forward-thinking team and be part of a company that values innovation, collaboration, and excellence. At Saviynt, your skills and passion will contribute to creating secure, seamless, and compliant environments for some of the world’s largest and most complex organizations.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 690
+  },
+  {
+    "chunk_id": "Saviynt_roles_responsibilities_02",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Implementation: Work on end-to-end implementation of Saviynt’s solutions, including requirements, design, configuration, testing, and deployment, ensuring quick time to value for our customers. Client Interaction: Coordinate and work with customers/partners during implementation projects, ensuring clear communication and high levels of customer satisfaction through a customer-first approach. Innovate: Have a keen eye for identifying opportunities for improvement, a passion for creative problem-solving, and a drive to implement innovative solutions. Best Practices: Adhere to best practices while implementing Saviynt solutions and advise customers/partners as well on the best practices to be followed. Technical Expertise: Develop a deep understanding of Saviynt product and stay up-to-date with product updates and new features in Saviynt product. Collaboration: Work closely with internal teams, including Operations, Product Management and Engineering, to ensure seamless delivery of services and solutions. Problem Solving: Identify and resolve any issues that arise during implementation in an agile and timely manner, ensuring a smooth and efficient implementation for our customers. Contribution: Contribute back to the Saviynt Community by answering questions on community forums, help building accelerators, publishing knowledge articles etc.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 1358
+  },
+  {
+    "chunk_id": "Saviynt_skills_required_03",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Bachelor’s degree or an equivalent in Computer Science, Information Technology, or a related field. 0-2 years of industry experience (preferably with Java or any IGA/IAM/IDM product in the market). Knowledge of Java, Web services (REST & SOAP), Network fundamentals, HTTP Basics, Cryptography & Certificates fundamentals. Sound knowledge/experience of SQL queries (especially JOINS) and be able to write complex SQL queries. Unix/Linux fundamentals and Shell Scripting. Good communication and interpersonal skills. Ability to work independently with minimal guidance and work on more than one project simultaneously. Strong problem-solving skills, good troubleshooting skills and attention to detail.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 700
+  },
+  {
+    "chunk_id": "Saviynt_skills_optional_04",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Experience on integration with REST APIs is a plus. Good understanding of identity governance and administration principles is a plus. Training or proven hands-on experience in implementing (design, development, testing and deployment) any leading IGA products in the market is a plus. Knowledge of LDAP or Active Directory or Azure Active Directory is a plus.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 360
+  },
+  {
+    "chunk_id": "Saviynt_interview_process_05",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Round 1: Intern Online Test - Hacker Earth Based Platform, 1.5 hr 90 mins online protected written Remotely (video only), 2 coding questions (1 - Medium, 1 - Hard Level), 28 MCQ. Round 2: Technical Interview - 30 mins, Java, Networking, resume based. Round 3: Profile & CTC Round.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 280
+  },
+  {
+    "chunk_id": "Saviynt_eligibility_criteria_06",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "B.Tech/BE should be in either CS or IT (preferred) or ECE (Electronics). 70% or 7 CGPA UG and PG.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 97
+  },
+  {
+    "chunk_id": "Saviynt_compensation_benefits_07",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "CTC After Conversion to FTE: INR 20 LPA (INR 18 LPA fixed). Stipend: 2 70T PM.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 78
+  },
+  {
+    "chunk_id": "Saviynt_additional_info_08",
+    "primary_key": "Saviynt",
+    "company": "Saviynt",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration: 12 month(s). Starts On: 22 Feb 2025 (Tentative date). Apply Before: 21 Feb 2025 02.00 PM. Location: Bangalore. Work Environment: Hybrid. Opportunities for continuous learning and career advancement. Work with a talented and energetic team in a supportive and dynamic environment. Contribute to solutions that protect some of the world’s largest and most complex organizations.",
+    "source": "Saviynt_MTech_2026.png, ES_Associate Consultatnt_Revised_RG.docx, Info.txt",
+    "char_count": 386
+  },
+  {
+    "chunk_id": "Nissan_Digital_about_company_01",
+    "primary_key": "Nissan Digital",
+    "company": "Nissan Digital",
+    "role": "general",
+    "type": "about_company",
+    "text": "Nissan Digital India is a Global Capability Centre of Nissan Motor focusing on Digital Transformative projects for Nissan Motor Japan.",
+    "source": "Nissan Digital_MTech_2026.png, Info.txt",
+    "char_count": 134
+  },
+  {
+    "chunk_id": "Nissan_Digital_additional_info_02",
+    "primary_key": "Nissan Digital",
+    "company": "Nissan Digital",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Internship Duration: 6 month(s); Tentative Start Date of Internship: Mid of May or Early June; Apply Before: 30 Apr 2025 10.00 AM",
+    "source": "Nissan Digital_MTech_2026.png, Info.txt",
+    "char_count": 129
+  },
+  {
+    "chunk_id": "Honeywell_about_company_01",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "about_company",
+    "text": "Honeywell International Inc. (Nasdaq: HON) invents and commercializes technologies that address some of the world’s most critical challenges around energy, safety, security, air travel, productivity, and global urbanization. We are a leading software-industrial company committed to introducing state-of-the-art technology solutions to improve efficiency, productivity, sustainability, and safety in high-growth businesses in broad-based, attractive industrial end markets. Our products and solutions enable a safer, more comfortable, and more productive world, enhancing the quality of life of people around the globe. Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 914
+  },
+  {
+    "chunk_id": "Honeywell_roles_responsibilities_02",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Candidate should have strong fundamentals in any one of the streams or specialization in Machine Design or Thermal and Computational Fluid Dynamics or Systems Engineering design. Candidate must have undergone the advanced courses in Finite Element Methods or Computational Fluid Dynamics. Required to perform Analog & Digital circuit design, Electronic Communication, Sensors Interfacing, analysis, simulation, testing, and HW product development & support activities as a member of Electrical team working on Aerospace projects mainly in the field of Controllers hardware, Power Supplies, LED Driver Controllers, Environmental Control Systems, Actuation Systems and Motor Controllers. Additional responsibilities may include task planning, resolving technical problems with the customer. Collaborate with experienced engineers to design and develop embedded software solutions and AI/ML based tools. Contribute to the testing and debugging of software. Work with cross-functional teams to define software requirements. Ensure the timely completion of software projects. Assist in the development and testing of radar algorithms and embedded software for weather applications. Collaborate with the team to troubleshoot and resolve technical issues related to embedded software. Analyze radar data and provide insights for improving radar performance. Document and present research findings and project updates.",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 1410
+  },
+  {
+    "chunk_id": "Honeywell_skills_required_03",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Strong fundamentals in Machine Design or Thermal and Computational Fluid Dynamics or Systems Engineering design. Advanced courses in Finite Element Methods or Computational Fluid Dynamics. Masters in Electronics System Design (Analog & Digital Electronics) from reputed institutes. Excellent skills at Electronic Systems design, Electronics Troubleshooting, Electronic Testing. Sound knowledge about high-speed microprocessors, architectural circuit design and different micro-controller circuit designs. Strong analog and digital circuit knowledge, circuit simulations. Estimating hardware design tasks, identifying risks, and planning development. Proficient at creating, interpreting and reviewing electrical schematics. Strong knowledge in SPI, I2C, CAN, USB, RS-232/485 Serial and Ethernet interface designs. Proficient in using PCB CAD and circuit simulators and analysis tools – Mentor Graphics/ORCAD, LT-SPICE, PSPICE and MATLAB. Good experience in Embedded systems firmware development on leading processors Integrated Debugger Environment. Currently pursuing a Master's degree in a technical discipline such as Electronics Engineering, Computer Engineering, or a related field. Strong understanding of embedded systems and software development. Proficiency in programming languages such as C/C++. Strong knowledge of radar signal processing and data analysis. Proficiency in programming languages such as MATLAB, Python, C, and C++.",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 1442
+  },
+  {
+    "chunk_id": "Honeywell_skills_optional_04",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Preferable to have LiDAR, RADAR and Camera Sensor modules interfacing & communication experience. Preferable to have different sensors (e.g. Pressure, Temperature, Motor Speed/Position etc.) data acquisition & communication experience in Embedded Systems environment. Knowledge of AI/ML-based tools development would be beneficial. Familiarity with weather radar systems and meteorological concepts. Experience with radar hardware and software tools.",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 450
+  },
+  {
+    "chunk_id": "Honeywell_eligibility_criteria_05",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "Pursuing or recently completed an Mtech degree in Electrical Engineering, Electronics, or a related field. Currently pursuing a Master's degree in a technical discipline such as Electronics Engineering, Computer Engineering, or a related field. Eligibility Criteria PAN India Internship. 70% or 7 CGPA Throughout.",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 313
+  },
+  {
+    "chunk_id": "Honeywell_compensation_benefits_06",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "Intern Stipend 2 35T PM. Internship 12 month(s).",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 48
+  },
+  {
+    "chunk_id": "Honeywell_additional_info_07",
+    "primary_key": "Honeywell",
+    "company": "Honeywell",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Starts On To be announced. Apply Before 07 Feb 2025 03.00 PM. You will report directly to Control Systems team lead and work out of our Bangalore, India location. You will report directly to our Weather Radar Team Lead and work out of our Hyderabad location on a hybrid work schedule. Work on real-world projects and contribute to the development of radar algorithms and embedded software. Collaborate with cross-functional teams to analyze radar data and provide insights. Learn from industry experts and enhance your technical skills in radar signal processing, embedded software development, and programming languages such as C and C++.",
+    "source": "Mechanical-VG Job description-JD8.docx, Honeywell_MTech_2026.png, JD - Intern Masters Electronics Systems Design_Analog and Digital -JD3.docx",
+    "char_count": 639
+  },
+  {
+    "chunk_id": "Marvell_Technology_roles_responsibilities_01",
+    "primary_key": "Marvell Technology",
+    "company": "Marvell Technology",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Learning the use of all the different IC layout development CAD and physical verification tools\nTraining on Mask/layout design using Cadence Virtuoso EXL using circuit design as input\nResponsible for layout development and delivery of Foundational IP and Analog layout for SOCs and Test chips\nDesign of analog circuits blocks ( Regulators, biasing circuits, op-amps , clock buffers, Delay locked loops, current DAC’s, equalizers etc) and high speed custom digital circuits( Serialzers and De-serializers) adhering to the required performance targets\nEngaging with layout team in optimizing the circuit performance and meeting the floor plan needs.\nContributing in top level integration ,functional and performance regression , EMIR and stress checks.\nBehavioral modeling of analog blocks and functional validation\nUnderstand design specifications, data flow of a given implementation block.\nImplement designs through all aspects of implementation (floor planning, placement, clock insertion, routing, timing closure, and physical verification) using industry standard EDA tools.\nWrite scripts in Python, TCL, Perl, and Shell to aid implementation activities\nUtilize problem solving skills to analyze, debug, and implement fixes for design violations using defined CAD tools/flow\nUtilize technical leadership abilities and sound communication skills to drive and manage physical design deliverables for cross-site teams\nKnowledge of scripting languages such as Perl/Python Tcl and UNIX shell etc. is desirable\nContribute to the development of one or more Co-processor units, industry standard, high-speed serial bus interfaces for Marvell’s next generation Multi-core embedded ARM processor family targeted at Networking, Storage, Security, and Wireless applications in the state-of-the-art deep sub-micron CMOS process technologies\nWrite specifications for the relevant block, micro-architecture of the block, design implementation using RTL coding techniques, Synthesis, place & route and timing sign off\nUse industry-standard design verification tools and processes such as Verilog/System Verilog, UVM and C programming to verify System on a Chip (SoC) designs\nDevelop simulation test environment and components such as test benches, checkers and monitors\nPerform automation of data collection and analysis using Python or other scripting languages\nWork closely with the design team to ensure best-in-class quality designs that meet our customer requirements\nThis position is required in the team which is responsible for implementing DFT / Test on complex IP and SOC for ASIC designs.\nCandidate will be performing DFT insertion and/or verification tasks for the team.\nStrong fundamentals in Digital Circuit Design is required\nScripting skills using PERL, Tcl and C-Shell\nExperience with Cadence/Mentor/Synopsys Tool set (Genus, Modus & NCSim / Tessent/Spyglass) is plus\nDevelop code in C/C++/Python and execute them automatically by doing required modification in existing farmwork\nDevelop validation plan by discussing Architecture, Design and Verification team and execute the same.\nUnderstand Good knowledge of C/C++ and/or Python. Knowledge of embedded Firmware/SW development.\nProject work in embedded systems and hands-on experience in debugging is plus\nFamiliarity with typical lab tools: Emulators, Oscilloscopes, Logic Analyzers is a plus\nAble to work across disciplines and manage time across several demands\nDesigning and Developing validation test plans for Asic products and understanding of Analog circuitry.\nProgramming experience in C, C++ and Python and any scripting language.\nFamiliar with Linux OS and equipment like Oscilloscope, Power Analyzer, AWG etc..\nBring up different hardware components on FPGA/Veloce setups/Asic\nDevelop firmware and validation scripts to automate pre-silicon and Post Silicon validation on FPGA/Veloce setup/Asic\nDebug hardware issues with designers, validate the fix or provide proper workaround\nDevelop automation software and scripts for measurement data collection and analysis.\nWork to enable Multigigabit Systems for data-center and storage applications through robust Serial and Parallel interface IPs.\nUnderstand characterization strategy and hardware development for Serial and Parallel Interfaces.\nEvaluate Transmitter, Receiver and related IP Block performance versus the specifications.\nSuggest performance improvement through statistical modelling and analyses of characterization data.\nAutomate processes to improve efficiency to increase characterization coverage.\nDevelop, integrate and test Cryptographic and Network Protocols (C/Python)\nPerform case studies and prototype modules for future products\nTest advanced networking and security features\nDevelop automation framework and test cases, and enhance test automation\nDevelop test application and test cases execution\nProficient in programming languages: C, C++, Python, and scripting languages: Bash, Perl\nDevelop, integrate, and test network and cryptographic protocols using C, C++, and Python\nConduct case studies and develop software prototypes for future products\nStrong understanding of Linux OS concepts, data structures, algorithms, computer architecture, and computer networks. Familiarity with ARM/RISCV architecture is desirable\nCollaborate with engineering teams to enhance existing Marvell and open-source software products\nConduct research and experiments on new AI algorithms, models, and architectures.\nDevelop prototypes and proof-of-concept implementations for performance, scalability and novel AI frameworks.\nDesign, implementation, verification, and customer support.\nProgramming knowledge in C/C++, Python/Java/C#etc.. Knowledge of data structures and algorithms.\nKnowledge of embedded systems and Linux OS concepts, Device Driver, PCIe concepts\nSkill in Automation Strategy and Methodology.\nGood skills in tools like iPerf, Wireshark, IXIA, Spirent.\nDefinition and implementation of product improvements, analyzing and troubleshooting deployment, configuration and product issues, proposing short term workarounds and implementing product fixes.\nFunctional and technical design of the software, developing and validating entire functional components and modules, collaboration with the team on integrating the product and its infrastructure, code reviews and improvement of the software development processes.\nCollaborate with Support, R&D and Technical marketing Engineers to diagnose and troubleshoot escalated customer issues and orchestrate development and testing of patches/hot-fixes.\nUnderstanding the dataplane and ML framework\nC & C++ Coding Knowledge and scripting for the dataplane applications and ML compiler applications\nARM Multicore based SOC architecture\nARM AARCH64 Knowledge a",
+    "source": "Marvell Technology.png, Job description - Copy 1.pptx, Info.txt",
+    "char_count": 6740
+  },
+  {
+    "chunk_id": "Marvell_Technology_skills_required_02",
+    "primary_key": "Marvell Technology",
+    "company": "Marvell Technology",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Knowledge of scripting languages such as Perl/Python Tcl and UNIX shell etc. is desirable\nStrong fundamentals in Digital Circuit Design is required\nScripting skills using PERL, Tcl and C-Shell\nExperience with Cadence/Mentor/Synopsys Tool set (Genus, Modus & NCSim / Tessent/Spyglass) is plus\nGood knowledge of C/C++ and/or Python. Knowledge of embedded Firmware/SW development.\nProject work in embedded systems and hands-on experience in debugging is plus\nFamiliarity with typical lab tools: Emulators, Oscilloscopes, Logic Analyzers is a plus\nProgramming experience in C, C++ and Python and any scripting language.\nFamiliar with Linux OS and equipment like Oscilloscope, Power Analyzer, AWG etc..\nBring up different hardware components on FPGA/Veloce setups/Asic\nDevelop firmware and validation scripts to automate pre-silicon and Post Silicon validation on FPGA/Veloce setup/Asic\nDebug hardware issues with designers, validate the fix or provide proper workaround\nDevelop automation software and scripts for measurement data collection and analysis.\nWork to enable Multigigabit Systems for data-center and storage applications through robust Serial and Parallel interface IPs.\nUnderstand characterization strategy and hardware development for Serial and Parallel Interfaces.\nEvaluate Transmitter, Receiver and related IP Block performance versus the specifications.\nSuggest performance improvement through statistical modelling and analyses of characterization data.\nAutomate processes to improve efficiency to increase characterization coverage.\nDevelop, integrate and test Cryptographic and Network Protocols (C/Python)\nPerform case studies and prototype modules for future products\nTest advanced networking and security features\nDevelop automation framework and test cases, and enhance test automation\nDevelop test application and test cases execution\nProficient in programming languages: C, C++, Python, and scripting languages: Bash, Perl\nDevelop, integrate, and test network and cryptographic protocols using C, C++, and Python\nConduct case studies and develop software prototypes for future products\nStrong understanding of Linux OS concepts, data structures, algorithms, computer architecture, and computer networks. Familiarity with ARM/RISCV architecture is desirable\nCollaborate with engineering teams to enhance existing Marvell and open-source software products\nConduct research and experiments on new AI algorithms, models, and architectures.\nDevelop prototypes and proof-of-concept implementations for performance, scalability and novel AI frameworks.\nDesign, implementation, verification, and customer support.\nProgramming knowledge in C/C++, Python/Java/C#etc.. Knowledge of data structures and algorithms.\nKnowledge of embedded systems and Linux OS concepts, Device Driver, PCIe concepts\nSkill in Automation Strategy and Methodology.\nGood skills in tools like iPerf, Wireshark, IXIA, Spirent.\nDefinition and implementation of product improvements, analyzing and troubleshooting deployment, configuration and product issues, proposing short term workarounds and implementing product fixes.\nFunctional and technical design of the software, developing and validating entire functional components and modules, collaboration with the team on integrating the product and its infrastructure, code reviews and improvement of the software development processes.\nCollaborate with Support, R&D and Technical marketing Engineers to diagnose and troubleshoot escalated customer issues and orchestrate development and testing of patches/hot-fixes.\nUnderstanding the dataplane and ML framework\nC & C++ Coding Knowledge and scripting for the dataplane applications and ML compiler applications\nARM Multicore based SOC architecture\nARM AARCH64 Knowledge a",
+    "source": "Marvell Technology.png, Job description - Copy 1.pptx, Info.txt",
+    "char_count": 3758
+  },
+  {
+    "chunk_id": "Marvell_Technology_skills_optional_03",
+    "primary_key": "Marvell Technology",
+    "company": "Marvell Technology",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Desirable : Knowledge of Computer Architecture, Serial and Parallel Interface standards, knowledge of I/O technologies, Network Theory, Communication Theory, VLSI.\nDesirable : Hands-on experience on Oscilloscopes, Logic Analyzers, Signal Generator, Multimeter, Power Source.\nGood knowledge of MATLAB, C/C++, Python, MS Excel and VBA. Knowledge of software development principles.",
+    "source": "Marvell Technology.png, Job description - Copy 1.pptx, Info.txt",
+    "char_count": 379
+  },
+  {
+    "chunk_id": "Marvell_Technology_interview_process_04",
+    "primary_key": "Marvell Technology",
+    "company": "Marvell Technology",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Attendance Profile & CTC Round Multiple Profiles Labs Stipend 55T PM 28 Jan 2025 09.00 AM Round 2 Placement Hall; 3rd Floor; Library Building 3 29 Jan 2025 0g.00 AM",
+    "source": "Marvell Technology.png, Job description - Copy 1.pptx, Info.txt",
+    "char_count": 164
+  },
+  {
+    "chunk_id": "Marvell_Technology_eligibility_criteria_05",
+    "primary_key": "Marvell Technology",
+    "company": "Marvell Technology",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "Drivas Bangalore Pune Hyderabad Internship componv Spacific Test 55T PM Opt-Out leodetboard Duration : 12 month(s) 88 Starts On 28 Jan 2025 (Confirmed date) Apply Before 16 Jan 2025 11.59 PM",
+    "source": "Marvell Technology.png, Job description - Copy 1.pptx, Info.txt",
+    "char_count": 190
+  },
+  {
+    "chunk_id": "Marvell_Technology_additional_info_06",
+    "primary_key": "Marvell Technology",
+    "company": "Marvell Technology",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Drive will be physical on 28th and 29th Januarly 2025. Students who Opt-in NeoPAT are informed to apply/register on workday with below link to ease interview process, the link will be active till Jan I6th, EOD Read More Round Details",
+    "source": "Marvell Technology.png, Job description - Copy 1.pptx, Info.txt",
+    "char_count": 233
+  },
+  {
+    "chunk_id": "Hachidori_about_company_01",
+    "primary_key": "Hachidori",
+    "company": "Hachidori",
+    "role": "general",
+    "type": "about_company",
+    "text": "Hachidori Robotics, a deep tech start-up pioneering in autonomous mobile robot (AMR), is poised to revolutionize material movement automation through its innovative yet simplistic solution which is affordable and easy to deploy without any interruption to ongoing operations. Since its inception in 2019, Hachidori has made significant progress in various dimensions including innovation of patented navigation technology, IP creation, End-to-end product design and development and successful deployment of field proven products. Hachidori is majorly scaling up its operations to strengthen its market penetration and deployment footprint.",
+    "source": "RoboticsApplicationEngineerFreshers_JD.pdf, Hachidori_MTech_2026.png, Info.txt",
+    "char_count": 639
+  },
+  {
+    "chunk_id": "Hachidori_roles_responsibilities_02",
+    "primary_key": "Hachidori",
+    "company": "Hachidori",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "• Understand the problem statements and design solutions for robotic applications\n• Implement control flow to realize desired functionality with the help of sensor-based data (e.g., vision, proximity sensors etc.)\n• Develop algorithms using sensor data to accomplish novel applications to enhance robot intelligence.\n• Evaluate and identify optimal HW platforms that can match the computing needs of complex algorithms and to achieve high performance requirements\n• Collaborate with other teams to research, develop, evaluate and optimize solutions.\n• Utilize various visualization tools to convey analysis and prediction results to stakeholders",
+    "source": "RoboticsApplicationEngineerFreshers_JD.pdf, Hachidori_MTech_2026.png, Info.txt",
+    "char_count": 645
+  },
+  {
+    "chunk_id": "Hachidori_skills_required_03",
+    "primary_key": "Hachidori",
+    "company": "Hachidori",
+    "role": "general",
+    "type": "skills_required",
+    "text": "• Bachelor or master’s degree in Electronics/Mechatronics or Computer Science.\n• Strong programming skills in Python. Good programming skills in C highly desirable.",
+    "source": "RoboticsApplicationEngineerFreshers_JD.pdf, Hachidori_MTech_2026.png, Info.txt",
+    "char_count": 164
+  },
+  {
+    "chunk_id": "Hachidori_skills_optional_04",
+    "primary_key": "Hachidori",
+    "company": "Hachidori",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "• Knowledge of Git, GitHub or similar version control systems is added an advantage.\n• Hand on experience in Machine Learning/Deep learning project is a plus.\n• Self-motivated individual with passion towards conceptualizing/developing new ideas and excellent problem-solving skills.",
+    "source": "RoboticsApplicationEngineerFreshers_JD.pdf, Hachidori_MTech_2026.png, Info.txt",
+    "char_count": 282
+  },
+  {
+    "chunk_id": "Hachidori_additional_info_05",
+    "primary_key": "Hachidori",
+    "company": "Hachidori",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Internship Duration: 12 month(s)\nStarts On: To be announced\nApply Before: 2025 02.00 PM\nLocation: Bangalore",
+    "source": "RoboticsApplicationEngineerFreshers_JD.pdf, Hachidori_MTech_2026.png, Info.txt",
+    "char_count": 107
+  },
+  {
+    "chunk_id": "Juniper_Networks_about_company_01",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "about_company",
+    "text": "Juniper Networks is a company that provides a comprehensive platform for its interns to foster professional and personal growth. Interns are mentored by talented innovators and participate in workshops, community service initiatives, and executive speaker series. They build lasting friendships and expand their network while contributing to the company’s objectives.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 367
+  },
+  {
+    "chunk_id": "Juniper_Networks_roles_responsibilities_02",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Define and architect high-performance blocks for the latest, most advanced networking ASICs; Perform micro-architecture and logic design to deliver maximum throughput while using minimum power; Collaborate with the verification team in the development of the testplan and assist in debugging test failures; Collaborate with the physical design team to develop timing constraints, analyze timing violations, and perform timing fixes.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 432
+  },
+  {
+    "chunk_id": "Juniper_Networks_skills_required_03",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Strong Verilog RTL coding skills; Knowledge of high performance memory subsystems; Knowledge of multi-domain clock synchronization and high-speed serial interfaces; Strong problem solving and ASIC debugging skills; Excellent written and verbal communications skills.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 266
+  },
+  {
+    "chunk_id": "Juniper_Networks_skills_optional_04",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Knowledge of Synopsys Design Compiler, Verplex LEC, and Spyglass is desirable.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 78
+  },
+  {
+    "chunk_id": "Juniper_Networks_interview_process_05",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Online test for Data Science and COO shortlist will be conducted on 20th Jan 6 PM and interview on 23rd January: Interview will be offline. Pen and paper test for ASIC role will be conducted on 23rd January: Interview date for this role is yet to be decided. Round Details: Profile & CTC Round, Online Test, Interview.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 318
+  },
+  {
+    "chunk_id": "Juniper_Networks_eligibility_criteria_06",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "Computer Science / Network Engineering / Electronics and Communication – MTech; 75% or 7.5 CGPA throughout.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 107
+  },
+  {
+    "chunk_id": "Juniper_Networks_additional_info_07",
+    "primary_key": "Juniper Networks",
+    "company": "Juniper Networks",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Internship duration: 12 months; Start date: 20 Jan 2025; Apply before: 17 Jan 2025 03.00 PM; Work domain: Cloud Engineering, Routing & Switching, Artificial intelligence, Security, Operating Systems, Analytics, Quality Engineering; Exposure: Practical experience with a wide variety of software engineering tasks; Collaborating with experienced teams of software engineers; Shadowing and training opportunities with seasoned software professionals.",
+    "source": "ASIC Internship JD - MTech Intern 2026.pdf, COO Internship JD - MTech Intern 2026.pdf, Juniper Networks.png",
+    "char_count": 448
+  },
+  {
+    "chunk_id": "Niftrix_roles_responsibilities_01",
+    "primary_key": "Niftrix",
+    "company": "Niftrix",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Develop, test, and deploy web applications using React, Angular, or Vue.js (Frontend) and Node.js, Django, or Spring Boot (Backend). Work with databases such as MySQL, PostgreSQL, or MongoDB. Implement RESTful APIs and integrate third-party services. Optimize application performance and security. Work in an Agile development environment with version control (Git). Develop and maintain iOS applications using Swift and Objective-C. Collaborate with UI/UX designers to implement intuitive interfaces. Work with RESTful APIs for data exchange between mobile and backend. Debug and optimize applications for better performance. Publish and maintain apps on the Apple App Store. Develop and maintain Android applications using Kotlin and Java. Implement clean architecture (MVVM, MVP) for scalable development. Integrate REST APIs and third-party services (Firebase, Google APIs). Optimize app performance and handle different screen sizes. Deploy and manage apps on the Google Play Store.",
+    "source": "JD .pdf, Niftrix_MTech_2026.png, Info.txt",
+    "char_count": 987
+  },
+  {
+    "chunk_id": "Niftrix_skills_required_02",
+    "primary_key": "Niftrix",
+    "company": "Niftrix",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Proficiency in HTML, CSS, JavaScript, and modern JS frameworks. Strong knowledge of backend languages like Node.js, Python, Java, or PHP. Experience with databases (SQL & NoSQL). Proficiency in Swift and Objective-C. Experience with Xcode and iOS SDK. Knowledge of MVVM architecture and Core Data. Strong knowledge of Kotlin and Java. Experience with Jetpack Components, Room DB, and Retrofit. Understanding of Android SDK and UI design principles.",
+    "source": "JD .pdf, Niftrix_MTech_2026.png, Info.txt",
+    "char_count": 448
+  },
+  {
+    "chunk_id": "Niftrix_skills_optional_03",
+    "primary_key": "Niftrix",
+    "company": "Niftrix",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Understanding of cloud services (AWS, Azure, or Firebase) is a plus. Familiarity with DevOps tools, CI/CD, and Docker is advantageous. Familiarity with third-party libraries (Alamofire, Firebase, etc.). Familiarity with Gradle, Android Studio, and Firebase.",
+    "source": "JD .pdf, Niftrix_MTech_2026.png, Info.txt",
+    "char_count": 257
+  },
+  {
+    "chunk_id": "Niftrix_eligibility_criteria_04",
+    "primary_key": "Niftrix",
+    "company": "Niftrix",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "Pursuing M.E./M.Tech in Computer Science, Information Technology, Software Engineering, or related fields. 70% or 7 CGPA in UG and PG. Opted-In students will have a direct interview.",
+    "source": "JD .pdf, Niftrix_MTech_2026.png, Info.txt",
+    "char_count": 182
+  },
+  {
+    "chunk_id": "Niftrix_additional_info_05",
+    "primary_key": "Niftrix",
+    "company": "Niftrix",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Location: Bangalore Office. Internship: Full-Time. Duration: 12 month(s). Apply Before: 07 Apr 2025 10.00 AM. Starts On: To be announced.",
+    "source": "JD .pdf, Niftrix_MTech_2026.png, Info.txt",
+    "char_count": 137
+  },
+  {
+    "chunk_id": "Dell_Role-2_about_company_01",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "about_company",
+    "text": "Dell Technologies is a unique family of businesses that helps individuals and organizations transform how they work, live and play. Join us to build a future that works for everyone because Progress Takes All of Us. Dell Technologies is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment.",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 403
+  },
+  {
+    "chunk_id": "Dell_Role-2_roles_responsibilities_02",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "roles_responsibilities",
+    "text": "You will: Perform tasks of varying complexity, requiring judgement with limited direct supervision. Work on overflow tasks from various groups within the company. Participate in special projects as needed.",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 205
+  },
+  {
+    "chunk_id": "Dell_Role-2_skills_required_03",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "skills_required",
+    "text": "M.Tech with specialization in Data Science or AI. Ongoing course work with relevant projects in Data Science and Data Engineering. Python, SQL, Macro, Basic Programming. Ability to prioritize and maintain organization in day-to-day activities. Ability to follow process, policies and practices to achieve consistency and compliance. Critical thinking and problem-solving skills.",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 378
+  },
+  {
+    "chunk_id": "Dell_Role-2_skills_optional_04",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "skills_optional",
+    "text": "Ability to communicate well with senior level team members. Collaboration skills. Data management.",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 98
+  },
+  {
+    "chunk_id": "Dell_Role-2_interview_process_05",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "interview_process",
+    "text": "Online Test - Graduate Intern Data Engineering - 13/02/25. Unstop based online site. 90 min online protected written in Remotely (video, audio and screen record). 17 questions - 2 coding (1 SQL, 1 coding/ 2 Coding), 15 MCQ. Out of 80 shortlisted students (MIT + MSIS), 16 got selected to round - 2. From the rest (64 students from the total 80, 5 got call for other role).",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 372
+  },
+  {
+    "chunk_id": "Dell_Role-2_eligibility_criteria_06",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "eligibility_criteria",
+    "text": "Eligibility Criteria - 80% or 8 CGPA Throughout.",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 48
+  },
+  {
+    "chunk_id": "Dell_Role-2_additional_info_07",
+    "primary_key": "Dell_Role-2",
+    "company": "Dell",
+    "role": "Role-2",
+    "type": "additional_info",
+    "text": "Guidance on Application Submission: Always use your personal email address for creating an account on Workday and then submit your application. Mention your Full Name as per your Aadhaar Card. Add the contact information correctly. Make sure to add complete permanent address details with pin code. Institute Name should be added appropriately as per the admission/selection letter. Read through the application questions related to sponsorship, non-compete agreement, current employer’s relationship with Dell Technologies etc. very carefully and then select the appropriate answers. Always review the information provided before submitting the application.",
+    "source": "Graduate Intern_Growth Data_JD.pdf, Info.txt, Dell Technologies- Guidance on Application Submission.pdf",
+    "char_count": 658
+  },
+  {
+    "chunk_id": "Dell_Role-1_about_company_01",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "about_company",
+    "text": "Dell Technologies is a unique family of businesses that helps individuals and organizations transform how they work, live and play. Join us to build a future that works for everyone because Progress Takes All of Us. Dell Technologies is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. We develop technologies and solutions that drive human progress. Our 2030 ESG agenda is a powerful example of how together we’re changing our world for the better, and our team members are united in driving progress. We are a diverse team that values diversity of thought and experience to create innovative technologies that drive human progress. We are unwavering in our commitment to equality, trust and advocacy for one another because we believe everyone deserves access to opportunity, balance and fulfillment, connection with the world around them, respect, and most of all to be included. We are advancing health, education, and economic opportunities with the goal of delivering enduring results for 1 billion people by 2030. Our team members give more than 700,000 hours to local communities each year. And we match donations to charities of their choice, up to $10,000 annually per team member. Dell has ambitious commitments to achieve net zero emissions and protect our planet. In 2016, Dell launched the industry’s first packaging made with ocean-bound plastics and is a founding member of NextWave Plastics – a group aiming to save 3 million pounds of plastics from entering the oceans. In FY21, we used 27 million pounds of sustainable materials in our products, and since 2007 recovered 2.5 billion pounds of used electronics. Dell Technologies is the most essential technology company, at a time when technology has never been more central to the world. The depth and breadth of our industry leading products and solutions, including new innovations in multi-cloud, edge, telecom, and as-a-Service, set us apart. And set us up to capture tremendous growth opportunity. FY22 was the best full fiscal year in Dell Technologies’ history, with record annual revenue. Servers and networking revenue was up for the fifth consecutive quarter. Client Solutions Group shipped a record 59.3 million units during the 2021 calendar year, up 17% year-over-year. We are capturing opportunities in areas like multi-cloud, edge, and telecom. Our broad scale and unique capabilities position us to do what others can’t and best serve our customers’ growing technology needs. We deliver value to the 96% of Fortune 500 companies we serve. We feel freedom, flexibility and balance are crucial - we know that work is not about a time or place, but an outcome. For more than a decade, we’ve been a recognized leader in flexible work. We don’t make mandates about where and how people work, and more than 90% of roles are hybrid or remote eligible. Through our 13 Employee Resource Groups our team members connect, engage and impact critical social issues and conversations. Plus they have fun (think: innovation contests, lip sync battles, cooking classes). We are committed to the importance of leadership, and invest in developing approachable, humble, optimistic leaders that live our Values and Leadership Principles. 93% of team members say their leader truly cares about them, their personal and professional well-being. 95% of team members say their leader is exceptional in at least one of our defined leadership principles. Flat organizational hierarchies, fast decision making, little bureaucracy. We invest in team members’ growth and future, embracing their entrepreneurial spirit, recognizing their achievements, and providing meaningful work experiences that drive results. >90% of our team members say that everyone at Dell has opportunities to develop and learn new skills.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 3890
+  },
+  {
+    "chunk_id": "Dell_Role-1_roles_responsibilities_02",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "roles_responsibilities",
+    "text": "As a Graduate Intern, you will work on live projects and create measurable business impact. You will work with your business on dynamic tasks designed around personalized Key Result Areas to achieve pre-identified goals, with the guidance of mentors. You will perform tasks of varying complexity, requiring judgement with limited direct supervision. You will work on overflow tasks from various groups within the company. You will participate in special projects, as needed.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 474
+  },
+  {
+    "chunk_id": "Dell_Role-1_skills_required_03",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "skills_required",
+    "text": "Good knowledge of Python/ Java/ C++. Knowledge of Web Development. Knowledge of SQL/ PostGRE/Power BI/ ThoughtSpot/ R/ Python and Statistical Analysis. Excellent communication, presentation, and customer management skills. Strong analytical mindset and familiarity in working with large data sets.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 297
+  },
+  {
+    "chunk_id": "Dell_Role-1_skills_optional_04",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "skills_optional",
+    "text": "Knowledge of Dell Technologies products and services portfolio. Data management skills.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 87
+  },
+  {
+    "chunk_id": "Dell_Role-1_interview_process_05",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "interview_process",
+    "text": "Round 1: Graduate Intern Online Test - Unstop based online site, 90 min online protected written test remotely (video, audio and screen record). 17 questions: 2 coding (1 SQL, 1 coding/ 2 Coding), 15 MCQ. Out of 80 shortlisted students, 16 got selected to round - 2. Round 2: Interview - Placement Hall; 3rd Floor; Building 17 Feb 2025 09.00 AM.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 345
+  },
+  {
+    "chunk_id": "Dell_Role-1_eligibility_criteria_06",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "eligibility_criteria",
+    "text": "Student should not have more than 12 months of prior experience. Eligibility Criteria: 80% or 8 CGPA throughout.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 112
+  },
+  {
+    "chunk_id": "Dell_Role-1_compensation_benefits_07",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "compensation_benefits",
+    "text": "On Conversion CTC INR 21,96,000. Stipend: 35T PM.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 49
+  },
+  {
+    "chunk_id": "Dell_Role-1_additional_info_08",
+    "primary_key": "Dell_Role-1",
+    "company": "Dell",
+    "role": "Role-1",
+    "type": "additional_info",
+    "text": "Duration: 12 months. Starts On: 12 Feb 2025 (Confirmed date). Apply Before: 11 Feb 2025 10.00 AM. Work location: Bangalore. From the rest (64 students from the total 80, 5 got call for other role - Graduate Intern Marketing role - 19/02/25).",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Global Operations - Data Analytics and Automation.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 241
+  },
+  {
+    "chunk_id": "Dell_Role-3_about_company_01",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "about_company",
+    "text": "Dell Technologies is a unique family of businesses that helps individuals and organizations transform how they work, live and play. Join us to build a future that works for everyone because Progress Takes All of Us. Dell Technologies is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. Dell Technologies is the most essential technology company, at a time when technology has never been more central to the world. We develop technologies and solutions that drive human progress. Our 2030 ESG agenda is a powerful example of how together we’re changing our world for the better, and our team members are united in driving progress. We are a diverse team that values diversity of thought and experience to create innovative technologies that drive human progress. We are unwavering in our commitment to equality, trust and advocacy for one another because we believe everyone deserves access to opportunity, balance and fulfillment, connection with the world around them, respect, and most of all to be included. We are advancing health, education, and economic opportunities with the goal of delivering enduring results for 1 billion people by 2030. Our team members give more than 700,000 hours to local communities each year. And we match donations to charities of their choice, up to $10,000 annually per team member. Dell has ambitious commitments to achieve net zero emissions and protect our planet. In 2016, Dell launched the industry’s first packaging made with ocean-bound plastics and is a founding member of NextWave Plastics – a group aiming to save 3 million pounds of plastics from entering the oceans. In FY21, we used 27 million pounds of sustainable materials in our products, and since 2007 recovered 2.5 billion pounds of used electronics. We are recognized for ethics, diversity, innovation, culture, and being a great place to work. We are ranked at #7 on Forbes’ 2021 World’s Best Employer list and have been recognized as one of the World’s Most Ethical Companies ten times. We also have ranked a Human Rights Campaign “Best Place to Work for LGBTQ employees” for the last eighteen years. We support holistic wellness (financial, physical, and mental) with digital solutions and personalized support. We feel freedom, flexibility, and balance are crucial - we know that work is not about a time or place, but an outcome. For more than a decade, we’ve been a recognized leader in flexible work. We don’t make mandates about where and how people work, and more than 90% of roles are hybrid or remote eligible. Through our 13 Employee Resource Groups our team members connect, engage and impact critical social issues and conversations. Plus they have fun (think: innovation contests, lip sync battles, cooking classes). We are committed to the importance of leadership, and invest in developing approachable, humble, optimistic leaders that live our Values and Leadership Principles. 93% of team members say their leader truly cares about them, their personal and professional well-being. 95% of team members say their leader is exceptional in at least one of our defined leadership principles. Flat organizational hierarchies, fast decision making, little bureaucracy. We invest in team members’ growth and future, embracing their entrepreneurial spirit, recognizing their achievements, and providing meaningful work experiences that drive results. >90% of our team members say that everyone at Dell has opportunities to develop and learn new skills.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 3589
+  },
+  {
+    "chunk_id": "Dell_Role-3_roles_responsibilities_02",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "roles_responsibilities",
+    "text": "As an intern, you will work with AI researchers and senior data scientists to explore an area of AI research that impacts Dell’s solution offerings & internal business processes. Your work will be the foundation for the next generation of advanced technologies and customer experiences. Responsibilities include: Apply statistical & machine learning techniques to develop innovative solutions to streamline business processes and improve customer experience. Work closely and collaborate with the Data Science Team to understand their problem statements and partner with them to perform quantitative analysis and develop AI solutions using state of the art architectures. Extensively get involved in Gen AI projects leveraging Large Language Models. Establish new methods for forecasting and prediction, including identifying the causes and predictors of business-related issues. Identify and implement top research paper architectures to optimize existing model accuracies.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 974
+  },
+  {
+    "chunk_id": "Dell_Role-3_skills_required_03",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "skills_required",
+    "text": "Academic experience in manipulating/transforming data, model selection, model training, cross-validation, and deployment at scale. Project or academic experience with Machine and Deep Learning toolkits such as TensorFlow and PyTorch. Knowledge of modern cloud-native architectures, microservices, CI/CD, DevOps tools. Problem-solving capabilities, analytical thinking, and aptitude. Good knowledge of predictive modeling, machine-learning and classification techniques, and algorithms.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 485
+  },
+  {
+    "chunk_id": "Dell_Role-3_skills_optional_04",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "skills_optional",
+    "text": "Experience in Reinforcement Learning and Conversational AI is a plus. Master’s degree in Engineering in Computer Science or a related technical field with a focus on Data Science.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 179
+  },
+  {
+    "chunk_id": "Dell_Role-3_eligibility_criteria_05",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "eligibility_criteria",
+    "text": "60% or 6 CGPA Throughout. No one was shortlisted from BDA.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 58
+  },
+  {
+    "chunk_id": "Dell_Role-3_compensation_benefits_06",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "compensation_benefits",
+    "text": "Stipend: 35T PM. On Conversion CTC: INR 19,33,560.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 50
+  },
+  {
+    "chunk_id": "Dell_Role-3_additional_info_07",
+    "primary_key": "Dell_Role-3",
+    "company": "Dell",
+    "role": "Role-3",
+    "type": "additional_info",
+    "text": "Internship Duration: 12 months. Starts On: To be announced. Apply Before: 18 Feb 2025 0200 PM. Location: Bengaluru (Bangalore), India. Work environment is flexible with more than 90% of roles being hybrid or remote eligible. Opportunities for growth and development, and meaningful work experiences.",
+    "source": "Dell_MTech_2026.png, Job Description - Graduate Intern - Data Science.pdf, why_dell_is_a_great_place_to_work.pdf",
+    "char_count": 299
+  },
+  {
+    "chunk_id": "Sabic_Role-2_roles_responsibilities_01",
+    "primary_key": "Sabic_Role-2",
+    "company": "Sabic",
+    "role": "Role-2",
+    "type": "roles_responsibilities",
+    "text": "Understand the behavior of EM waves, on interaction with periodic structures (e.g.: surface roughness, pyramid structure etc.) of different length scale. The behavior of the EM waves on different surfaces can change with varying frequencies. The physics governing these behavior needs to be understood, characterized, and implemented in the modelling. Develop & validate analytical and simulation methods to predict the system level performance with these features for specified application. Thorough research to understand the physics of wave interaction with different surfaces features. Perform literature search, benchmarking, and baseline studies/analysis. Learn the predictive tools required for the project. Develop the predictive models to understand and evaluate the effect of these surface features for specified applications (Eg: ADAS Radome/Absorber, Antennas etc.). Work with team members to prototype and test the design concept. Validate the CAE model with the test results. Documentation and reporting.",
+    "source": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx, NOVA 2025 - SHPP GAPT - Web Analytics.docx, NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+    "char_count": 1018
+  },
+  {
+    "chunk_id": "Sabic_Role-2_skills_required_02",
+    "primary_key": "Sabic_Role-2",
+    "company": "Sabic",
+    "role": "Role-2",
+    "type": "skills_required",
+    "text": "Masters in Electronics/ Electrical/Communications Engineering Communication Engineering, Strong fundamentals of RF communication, Analytical and numerical methods for predicting RF performance.",
+    "source": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx, NOVA 2025 - SHPP GAPT - Web Analytics.docx, NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+    "char_count": 193
+  },
+  {
+    "chunk_id": "Sabic_Role-2_eligibility_criteria_03",
+    "primary_key": "Sabic_Role-2",
+    "company": "Sabic",
+    "role": "Role-2",
+    "type": "eligibility_criteria",
+    "text": "Masters in Electronics/ Electrical/Communications Engineering Communication Engineering",
+    "source": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx, NOVA 2025 - SHPP GAPT - Web Analytics.docx, NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+    "char_count": 87
+  },
+  {
+    "chunk_id": "Sabic_Role-2_additional_info_04",
+    "primary_key": "Sabic_Role-2",
+    "company": "Sabic",
+    "role": "Role-2",
+    "type": "additional_info",
+    "text": "Work Location: Bengaluru, Gurugram, Vadodara, Mumbai. Assigned project lead/mentor for the intern: Priyanka Bhagawath. Cost Centre owner approval received: YES. Project duration: 6 to 10 Months.",
+    "source": "NOVA 2025 - SHPP GAPT - Surface Feature Sensitivity in RF Applications.docx, NOVA 2025 - SHPP GAPT - Web Analytics.docx, NOVA 2025 - SHPP GAPT - Moisture Absorption.docx",
+    "char_count": 194
+  },
+  {
+    "chunk_id": "Sabic_Role-1_general_01",
+    "primary_key": "Sabic_Role-1",
+    "company": "Sabic",
+    "role": "Role-1",
+    "type": "additional_info",
+    "text": "[SOURCE: Updated Internship Requisitions_ June 2025.xlsx]\nSheet: Sheet2\n                                                                                                                                Unnamed: 0              Unnamed: 1                                                       Unnamed: 2      Unnamed: 3     Unnamed: 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Unnamed: 5                            Unnamed: 6      Unnamed: 7                                                                                                                                                                                                      Unnamed: 8             Unnamed: 9           Unnamed: 10             Unnamed: 11\n0                                                                                                                 SBU/Department/Function                 Managers                           Preferred academic background of Study  Project Number  Work Location                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Project Scope in detail                    Type of internship  No of Interns                                                                                                                                                                        Added Skill sets required for the project   Available \\n(Yes/No)    Process Start Date  Internship Start Month\n1                                                                                                                           Agri-Nutrients  Sivalingam Gunasekaran                                             Chemical Engineering               1      Bengaluru                                                                                                                                                                                                                                                                                ",
+    "source": "combined",
+    "char_count": 3000
+  },
+  {
+    "chunk_id": "Intel_Role_-_1_roles_responsibilities_01",
+    "primary_key": "Intel_Role - 1",
+    "company": "Intel",
+    "role": "Role - 1",
+    "type": "roles_responsibilities",
+    "text": "Hardware Engineer conducts research; definition; design, verification & documentation for SoC (System on Chip) development: Performs Logic design for integration of cell libraries, functional units; and sub systems into SoC full chip design. Register Transfer Level coding; and simulation for SoCs. Hardware contributes to the development of multidimensional designs involving the layout of complex integrated circuits. Engineer (SoC / IP) will be working on aspects of the SoC design flow from high-level design to synthesis, place and route; timing and power. Create a design database that is ready for manufacturing. Initiates, guides and coordinates overall design; development of new Architecture, AI/ML; ideas and products. Digital and Analog domain. Software Engineers conduct or participate in multidisciplinary research and collaborate with design, layout and/or hardware engineers in the design development and utilization of productivity enhancement layout tools. Determines computer user needs, advises hardware designers on machine characteristics that affect software systems such as storage capacity, processing speed, and input/output requirements; designs and develops Software Engineer compilers and assemblers; utility programs and operating systems. Responds to customer/client requests or issues as they occur. Develops solutions to problems utilizing formal education, judgement and formal software process. Researches technical trends and utilizes deep domain and market segment. Integrates and debugs software across the stack for a specific product, graphics and firmware platform, feature, or technology throughout the product lifecycle, including pre-silicon development; power on, and for post-silicon development.",
+    "source": "Hardware JD 1.png, Software JD 1.png, Intel_MTech_2026.png",
+    "char_count": 1742
+  },
+  {
+    "chunk_id": "Intel_Role_-_1_skills_required_02",
+    "primary_key": "Intel_Role - 1",
+    "company": "Intel",
+    "role": "Role - 1",
+    "type": "skills_required",
+    "text": "Logic design, integration of cell libraries, functional units, sub systems into SoC full chip design, Register Transfer Level coding, simulation for SoCs, multidimensional designs, layout of complex integrated circuits, SoC design flow from high-level design to synthesis, place and route, timing and power, design database creation, digital and analog domain, multidisciplinary research, collaboration with design, layout and/or hardware engineers, productivity enhancement layout tools, computer user needs determination, hardware design advice, software systems design and development, compilers and assemblers, utility programs and operating systems, customer/client request response, problem-solving using formal education and judgement, technical trends research, deep domain and market segment utilization, software integration and debugging across the stack, pre-silicon development, power on, post-silicon development.",
+    "source": "Hardware JD 1.png, Software JD 1.png, Intel_MTech_2026.png",
+    "char_count": 927
+  },
+  {
+    "chunk_id": "Intel_Role_-_1_skills_optional_03",
+    "primary_key": "Intel_Role - 1",
+    "company": "Intel",
+    "role": "Role - 1",
+    "type": "skills_optional",
+    "text": "Ramp up quickly on required areas like RTL; Verification {Validation, Structural Design / Physical Design, Analog; Firmware; Embedded; AI; Computer expertise to prototype solutions and develop software including open-source libraries and models; Architecture; Embedded; Graphics and Firmware platform, feature, or technology throughout the product lifecycle.",
+    "source": "Hardware JD 1.png, Software JD 1.png, Intel_MTech_2026.png",
+    "char_count": 358
+  },
+  {
+    "chunk_id": "Intel_Role_-_1_interview_process_04",
+    "primary_key": "Intel_Role - 1",
+    "company": "Intel",
+    "role": "Role - 1",
+    "type": "interview_process",
+    "text": "No test direct resume screening, short listing and then Interview call finally selection. Multiple teams will be interviewing.",
+    "source": "Hardware JD 1.png, Software JD 1.png, Intel_MTech_2026.png",
+    "char_count": 126
+  },
+  {
+    "chunk_id": "Intel_Role_-_1_eligibility_criteria_05",
+    "primary_key": "Intel_Role - 1",
+    "company": "Intel",
+    "role": "Role - 1",
+    "type": "eligibility_criteria",
+    "text": "7 CGPA in PG (Master's). Opted-In; Eligibility Criteria: Bangalore, Hyderabad. Internship 50T PM Duration 12 months. Starts On: To be announced. Apply Before: 14 Jan 2025 10:00 AM. Work Experience In Years: 0.5 (6 Months). Btech/BE Year of Passing: 2024.",
+    "source": "Hardware JD 1.png, Software JD 1.png, Intel_MTech_2026.png",
+    "char_count": 254
+  },
+  {
+    "chunk_id": "Intel_Role_-_1_additional_info_06",
+    "primary_key": "Intel_Role - 1",
+    "company": "Intel",
+    "role": "Role - 1",
+    "type": "additional_info",
+    "text": "Internship offered on OS development. Multiple teams will be interviewing. 1 got selected.",
+    "source": "Hardware JD 1.png, Software JD 1.png, Intel_MTech_2026.png",
+    "char_count": 90
+  },
+  {
+    "chunk_id": "Intel_Role_-_2_roles_responsibilities_01",
+    "primary_key": "Intel_Role - 2",
+    "company": "Intel",
+    "role": "Role - 2",
+    "type": "roles_responsibilities",
+    "text": "Participate in multidisciplinary research and collaborate with design, layout, and hardware engineers in the design, development, and utilization of productivity enhancement layout tools. Determine computer user needs, advise hardware designers on machine characteristics that affect software systems such as storage capacity, processing speed, and input/output requirements; design and develop Software Engineer compilers and assemblers; utility programs and operating systems. Respond to customer/client requests or issues as they occur. Develop solutions to problems utilizing formal education, judgement, and formal software process. Research technical trends and utilize deep domain and market segment expertise to prototype solutions and develop software including open-source libraries and models. Integrate and debug software across the stack for a specific product, platform, feature, or technology throughout the product lifecycle, including pre-silicon development, power on, and post-silicon development.",
+    "source": "Software JD 1.png, Intel_MTech_2026.png, Info.txt",
+    "char_count": 1016
+  },
+  {
+    "chunk_id": "Intel_Role_-_2_skills_required_02",
+    "primary_key": "Intel_Role - 2",
+    "company": "Intel",
+    "role": "Role - 2",
+    "type": "skills_required",
+    "text": "Programming languages, frameworks, tools, technologies, domain knowledge, experience level not explicitly mentioned as required or must-have.",
+    "source": "Software JD 1.png, Intel_MTech_2026.png, Info.txt",
+    "char_count": 141
+  },
+  {
+    "chunk_id": "Intel_Role_-_2_skills_optional_03",
+    "primary_key": "Intel_Role - 2",
+    "company": "Intel",
+    "role": "Role - 2",
+    "type": "skills_optional",
+    "text": "Experience in Computer Architecture, Embedded Systems, Graphics, Firmware, AI, and Intel technologies is advantageous but not mandatory.",
+    "source": "Software JD 1.png, Intel_MTech_2026.png, Info.txt",
+    "char_count": 136
+  },
+  {
+    "chunk_id": "Intel_Role_-_2_interview_process_04",
+    "primary_key": "Intel_Role - 2",
+    "company": "Intel",
+    "role": "Role - 2",
+    "type": "interview_process",
+    "text": "Profile & CTC Round, Software Intern Interview.",
+    "source": "Software JD 1.png, Intel_MTech_2026.png, Info.txt",
+    "char_count": 47
+  },
+  {
+    "chunk_id": "Intel_Role_-_2_compensation_benefits_05",
+    "primary_key": "Intel_Role - 2",
+    "company": "Intel",
+    "role": "Role - 2",
+    "type": "compensation_benefits",
+    "text": "Monthly stipend will be 45000 INR.",
+    "source": "Software JD 1.png, Intel_MTech_2026.png, Info.txt",
+    "char_count": 34
+  },
+  {
+    "chunk_id": "Intel_Role_-_2_additional_info_06",
+    "primary_key": "Intel_Role - 2",
+    "company": "Intel",
+    "role": "Role - 2",
+    "type": "additional_info",
+    "text": "Internship duration is 12 months, starting on 27 Jan 2025. Apply before 23 Jan 2025, 09:00 AM. Hiring is for different business units with different compensation structures.",
+    "source": "Software JD 1.png, Intel_MTech_2026.png, Info.txt",
+    "char_count": 173
+  },
+  {
+    "chunk_id": "Intel_Role_-_3_roles_responsibilities_01",
+    "primary_key": "Intel_Role - 3",
+    "company": "Intel",
+    "role": "Role - 3",
+    "type": "roles_responsibilities",
+    "text": "Phase-1\nPhase-2\nPhase-3\nPhase-4\nPhase-5\nAIPC\nAIPC\nXeons\nGaudi – GPU Accelerator\nAIPC, Xeon, Gaudi\nPersonal Computer Setup\nContainers – Docker Linux\nLLM for Text Generation\nPrompt Engineering\nRAG\nLLM Architecture\nOPEA\nAPIs-Tasks-Models\nFull-Stack Development\nPandas/NumPy\nML Algorithms\nML Ops\nBenchmarking LLMs\nLLM Quantization\nLLM Inference Tuning\nSpeech Processing Models\nCode Generation Models\nMulti Modals\nMulti Modal LLMs\nText- Inference, Finetuning-LoRA, PreTraining, vLLM\nSpeech – Inference, FineTuning; CTC, Seq2Seq\nVideo – Inference\nImage – Inference, FineTuning; Flux, LdM3D, ControlNet, StableDiffusion, TextInversion, Dreambooth\nSingleCard, MultiCard Execution\nVibe Coding – Vercel\nVibe Coding – GitHub-CoPilot\nMCP\nGoogle Sentiment Analysis – Here we work with the components for PII Classification, Profanity Classification, Sentiment Classification, Adding Dockers, Introducing FastAPI, and finally a UX.\nResearcher Assistant – this is a full-blown product that implements RAG on research papers. An implementation of OPEA.\nML Model Recommender\nGovt. Circular Analytics\nAgentic Workflow Framewrorks\nPretrain model for Malayalam Q/A\nSpeech-2-Speech – RealTime/Batch\nInference Bench",
+    "source": "Intel_MTech_2026.png, Intel_JD.docx, Info.txt",
+    "char_count": 1193
+  },
+  {
+    "chunk_id": "Intel_Role_-_3_skills_required_02",
+    "primary_key": "Intel_Role - 3",
+    "company": "Intel",
+    "role": "Role - 3",
+    "type": "skills_required",
+    "text": "Generative Al; Python, Devlops, Data structures; Linux UX",
+    "source": "Intel_MTech_2026.png, Intel_JD.docx, Info.txt",
+    "char_count": 57
+  },
+  {
+    "chunk_id": "Intel_Role_-_3_eligibility_criteria_03",
+    "primary_key": "Intel_Role - 3",
+    "company": "Intel",
+    "role": "Role - 3",
+    "type": "eligibility_criteria",
+    "text": "80% or 8 CGPA In PG. We are looking for 2026 passing candidate and should be available for a long duration internship. Student must work exclusively for Intel and cannot have other freelance/startup/other commitments.",
+    "source": "Intel_MTech_2026.png, Intel_JD.docx, Info.txt",
+    "char_count": 217
+  },
+  {
+    "chunk_id": "Intel_Role_-_3_additional_info_04",
+    "primary_key": "Intel_Role - 3",
+    "company": "Intel",
+    "role": "Role - 3",
+    "type": "additional_info",
+    "text": "Tenure of Internship: Minimum 6 months\nDrive Description: Downlodd file\nApply Before: 12 Jun 2025 02.00 PM\nStarts On: To be announced\nLocation: Bangalore\nDuration: 6 month(s)",
+    "source": "Intel_MTech_2026.png, Intel_JD.docx, Info.txt",
+    "char_count": 174
+  },
+  {
+    "chunk_id": "Synaptics_roles_responsibilities_01",
+    "primary_key": "Synaptics",
+    "company": "Synaptics",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "1. Telecom and Signal Processing skills by working with our experts in the field of Wireless Communications\n2. Wireless LAN and Embedded Systems skills by working with MAC Systems team\n3. Bluetooth & Embedded FW domain skills by working with BT FW Team\n4. Embedded Systems/IoT/Device Driver programming skills by working with our WLAN/Wi-Fi Software Team\n5. Develop IT skills by working with IT Technical Team\n6. Embedded Software / Device Drivers / Multimedia frameworks / AI at the Edge development skills by working with our EEPD BU Software team focusing on the Synaptics Astra® SL and SR Series of Embedded processors\n7. VLSI design skills by working with Industry’s leading IoT development center of Synaptics wireless connectivity group\n8. ASIC Design Verification skills by working with our SoC Verification Team.",
+    "source": "Projects.pdf, Synaptics_MTech_2026.png, Info.txt",
+    "char_count": 821
+  },
+  {
+    "chunk_id": "Synaptics_skills_required_02",
+    "primary_key": "Synaptics",
+    "company": "Synaptics",
+    "role": "general",
+    "type": "skills_required",
+    "text": "1. Communications Engineering & Signal Processing, algorithm, MATLAB, Programming: C\n2. IEEE, Embedded time critical systems and the tools, Strong C Programming fundamentals, Number representation and bitwise operation, Programming: C, Python, TCL\n3. C programming, OS Concepts, embedded OS / RTOS and kernel programming, communication protocols\n4. C/C++ programming, Embedded systems, OS concepts, Linux Internals, Networking, communication protocols\n5. Database analyst, Oracle database, business analyst, Devops, Cyber security\n6. Embedded Software, Operating Systems and Device drivers, Academic projects in IOT and AI, Programming: C/C++\n7. Basic VLSI flows, modern design techniques, low power logic design, Proficient in digital architecture and design, CAD/DFT/STA/Synthesis skills\n8. Digital Design, HDL/HVL (Verilog/SystemVerilog), Languages/Scripts (C/C++, Perl/Shell) and Industry Standard Simulation tools/verification tools",
+    "source": "Projects.pdf, Synaptics_MTech_2026.png, Info.txt",
+    "char_count": 937
+  },
+  {
+    "chunk_id": "Synaptics_interview_process_03",
+    "primary_key": "Synaptics",
+    "company": "Synaptics",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Selection process will be conducted in campus on 10th or 11th April: Exact Date will be communicated once confirmed: Round Details Profile & CTC Round Multiple Profiles",
+    "source": "Projects.pdf, Synaptics_MTech_2026.png, Info.txt",
+    "char_count": 168
+  },
+  {
+    "chunk_id": "Synaptics_eligibility_criteria_04",
+    "primary_key": "Synaptics",
+    "company": "Synaptics",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "7 CGPA in PG(Master's)\nECE/EEE/CSE/IT/EEE branches\nEligible for internship in Hyderabad\nApply Before 28 Mar 2025 10.00 AM",
+    "source": "Projects.pdf, Synaptics_MTech_2026.png, Info.txt",
+    "char_count": 121
+  },
+  {
+    "chunk_id": "Synaptics_additional_info_05",
+    "primary_key": "Synaptics",
+    "company": "Synaptics",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration: 1 month(s)\nStarts On: To be announced\nOpt-Out: Opt-In\nWork location: Hyderabad",
+    "source": "Projects.pdf, Synaptics_MTech_2026.png, Info.txt",
+    "char_count": 88
+  },
+  {
+    "chunk_id": "Astrikos_roles_responsibilities_01",
+    "primary_key": "Astrikos",
+    "company": "Astrikos",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Data Science Developer: \n- Perform thorough exploratory data analysis (EDA) and develop a fully interactive visual dashboard using Google Data Studio (Looker’s Studio) to visualize key insights from the given dataset.\n- Analyze trends, identify patterns, and uncover insights that can help in optimizing building maintenance operations.\n- Apply clustering techniques for data segmentation and conduct time series analysis to identify trends and forecast maintenance needs.\n- Build an interactive dashboard on Looker’s Studio and publish it.\n- Load and explore traffic volume data, handle missing values, outliers, and inconsistencies.\n- Convert timestamps into meaningful time-based features.\n- Generate new features that could improve model performance.\n- Train a predictive model to forecast traffic volume.\n- Generate predictions on test data and submit them.\n- Evaluate performance using Root Mean Squared Error (RMSE).\n- Document the approach, preprocessing steps, and feature engineering choices in a Jupyter Notebook.\n\nBackend Developer: \n- Work on Python and REST API with any web development framework like Django/Flask/FastAPI.\n- Understand Linux, openssl, curl, and protocols like HTTP, HTTPS, FTP, TCP, ping, DNS.\n- Have knowledge of asynchronous programming, scheduler, Celery tasks.\n- Understand SQL queries and SQL Alchemy.\n- Communicate effectively.\n- Have knowledge of Cloud technology (AWS).\n- Be passionate about exploring new technologies.",
+    "source": "Astrikos_MTech_2026.png, Drive Description.txt, Info.txt",
+    "char_count": 1459
+  },
+  {
+    "chunk_id": "Astrikos_skills_required_02",
+    "primary_key": "Astrikos",
+    "company": "Astrikos",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Data Science Developer: \n- Knowledge of statistical programming languages like R, Python, and database query languages like SQL, Hive, Pig.\n- Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators.\n- Good knowledge of machine learning methods like k-Nearest Neighbors, Naive Bayes, SVM, Decision Forests.\n- Strong math skills (Multivariable Calculus and Linear Algebra).\n- Proficiency in handling imperfections in data.\n- Experience with data visualization tools like matplotlib, ggplot, d3.js, Tableau.\n- Excellent communication skills.\n- Strong software engineering background.\n- Hands-on experience with data science tools.\n- Problem-solving aptitude.\n- Analytical mind and great business sense.\n- Degree in Computer Science, Engineering, or relevant field.\n\nBackend Developer: \n- Expertise and hands-on experience on Python.\n- Expertise in REST API and any web development framework like Django/Flask/FastAPI.\n- Good knowledge of SQL queries and SQL Alchemy.\n- Good communication skills.",
+    "source": "Astrikos_MTech_2026.png, Drive Description.txt, Info.txt",
+    "char_count": 1068
+  },
+  {
+    "chunk_id": "Astrikos_skills_optional_03",
+    "primary_key": "Astrikos",
+    "company": "Astrikos",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Data Science Developer: \n- Familiarity with Scala, Java, or C++.\n- Prior experience as Data Analyst or Data Scientist.\n\nBackend Developer: \n- Good knowledge in Linux, should understand openssl, curl and how protocols like HTTP, HTTPS, FTP, TCP, ping, DNS work.\n- Good knowledge of asynchronous programming, scheduler, Celery tasks.\n- Knowledge of Cloud technology (AWS).",
+    "source": "Astrikos_MTech_2026.png, Drive Description.txt, Info.txt",
+    "char_count": 370
+  },
+  {
+    "chunk_id": "Astrikos_interview_process_04",
+    "primary_key": "Astrikos",
+    "company": "Astrikos",
+    "role": "general",
+    "type": "interview_process",
+    "text": "The flow will be as follows:\n- Problem Statement with a timeline of 1 week which begins on 21st March 2025 to conclude by 27th March 2025.\n- Assessment will begin from 28th March to 2nd April.\n- Shortlisted candidates will be interviewed in-person at Manipal on 4th & 5th April.",
+    "source": "Astrikos_MTech_2026.png, Drive Description.txt, Info.txt",
+    "char_count": 278
+  },
+  {
+    "chunk_id": "Astrikos_additional_info_05",
+    "primary_key": "Astrikos",
+    "company": "Astrikos",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Duration: 12 months.\nStarts On: 22 Mar 2025 (Confirmed date).\nApply Before: 21 Mar 2025 03.00 PM.\nLocation: Bangalore.\nRound Details: Profile & CTC Round Multiple Profiles Online Stipend 2 30T PM 22 Mar 2025 09.00 AM Round 2 Placement Hall; 3rd Floor; Library Building 2025 09.00 AM Apr.",
+    "source": "Astrikos_MTech_2026.png, Drive Description.txt, Info.txt",
+    "char_count": 287
+  },
+  {
+    "chunk_id": "PowerSchool_roles_responsibilities_01",
+    "primary_key": "PowerSchool",
+    "company": "PowerSchool",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Responds promptly to incoming technical support requests via phone, email, and chat, addressing hardware, software, networking, and system-related issues. Troubleshoots and resolves end-user problems by identifying root causes, researching solutions, and providing thorough follow-up; escalates complex issues to engineering when necessary. Collaborates closely with engineering teams to support escalated issues, providing technical context and ongoing updates to ensure resolution. Collaborates with developers to communicate software defects and recommend usability or functional improvements. Research customer data issues, perform multiple queries, and escalate case if needed. Assist in the design, development, testing, and maintenance of web/mobile applications. Write clean, maintainable code under the supervision of senior developers. Debug and fix minor issues and bugs in existing applications. Participate in code reviews and follow established coding standards. Document features, processes, or APIs to support future development and knowledge sharing. Logs and manages support tickets in a problem management system, maintaining accurate documentation for issue tracking and knowledge sharing. Participates in the incident management process, ensuring timely response, coordination, and communication for service-impacting issues. Designs and implements lightweight automation tools to streamline repetitive support tasks and improve team efficiency. Help build and maintain web applications, working on both the user interface (what users see) and the backend (how the app works behind the scenes, like handling data and user requests). Support the development of chatbots that use AI to answer questions, guide users, or perform tasks automatically, improving the user experience on websites or apps.",
+    "source": "PowerSchool_MTech_2026.png, Support Intern - JD.docx, Info.txt",
+    "char_count": 1818
+  },
+  {
+    "chunk_id": "PowerSchool_skills_required_02",
+    "primary_key": "PowerSchool",
+    "company": "PowerSchool",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Proficiency in Microsoft Office Suite. Excellent attention to detail and time management. Strong written and verbal communication skills. Exceptional customer service and conflict resolution abilities. Capacity to manage a high-volume workload and adapt to shifting priorities and interruptions. Good Knowledge in Java and JZEE required (Core Java; Web Services, JBoss) with good fundamentals in OO programming. Knowledge of any one database (MySQL, Oracle, etc.). Knowledge of front-end technologies (HTML, CSS, JavaScript). Must write own coding as per the requirement. Strong analytical and problem-solving skills. Designing software applications running on multiple platform types.",
+    "source": "PowerSchool_MTech_2026.png, Support Intern - JD.docx, Info.txt",
+    "char_count": 685
+  },
+  {
+    "chunk_id": "PowerSchool_additional_info_03",
+    "primary_key": "PowerSchool",
+    "company": "PowerSchool",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Location: Bangalore. Job Type: Internship (Full-time). Duration: 10 months. Working Model: Hybrid. Reports To: Technical Support Manager. Design and develops; updates and programming changes to applications by setting expectations and features priorities throughout development life cycle; analyses and determines programming; and integration activities required based on general objectives and knowledge of overall architecture of product or solution.",
+    "source": "PowerSchool_MTech_2026.png, Support Intern - JD.docx, Info.txt",
+    "char_count": 452
+  },
+  {
+    "chunk_id": "ResMed_about_company_01",
+    "primary_key": "ResMed",
+    "company": "ResMed",
+    "role": "general",
+    "type": "about_company",
+    "text": "ResMed is a global leader in sleep and respiratory care, transforming lives with innovative products and technologies. We empower people to take control of their health and live the best lives they can. It began over 35 years ago with the invention of a machine that helped people breathe easier and sleep better. And it continues today with digital health solutions that help keep people out of the hospital. Our mission is to create life-changing health technologies that people love.",
+    "source": "ResMed Data Engineer Intern - JD.pdf, ResMed Software Engineer Intern - JD.pdf, ResMed.png",
+    "char_count": 486
+  },
+  {
+    "chunk_id": "ResMed_roles_responsibilities_02",
+    "primary_key": "ResMed",
+    "company": "ResMed",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "• Build scalable, highly performant infrastructure for delivering clear business insights from a variety of raw data sources. • Develop batch & real-time analytical solutions, prototypes, and proofs of concept for selected solutions. Build frameworks and tools to empower our data scientists and analysts. • Implement complex analytical projects with a focus on collecting, managing, analyzing, and visualizing data. • Responsible for the delivery of a robust scalable data architecture that meets the business goals of the organization. • Be in constant communication with team members and other relevant parties and convey results efficiently and clearly. • Be able to not only solve complex problems, but also consider multiple solutions, weigh them and decide on the best course of action. • Proactively identify technical debt and product areas that require attention or improvements and suggest improvements in our technology stack. • Actively handle escalated incidents to resolution and suggest solutions to limit future exposure.",
+    "source": "ResMed Data Engineer Intern - JD.pdf, ResMed Software Engineer Intern - JD.pdf, ResMed.png",
+    "char_count": 1038
+  },
+  {
+    "chunk_id": "ResMed_skills_required_03",
+    "primary_key": "ResMed",
+    "company": "ResMed",
+    "role": "general",
+    "type": "skills_required",
+    "text": "• Master's degree in IT/Computer Science/software engineering or relevant field. • Understanding in designing and building robust, high-performance, Scalable and adaptable solution optimal for modern platform (Big Data/Relational/No-SQL/OLAP) • Good understanding of Python/Scala language • Understanding of relational SQL and NoSQL databases. • Familiarity with the principles of distributed computing, data modeling, Data ingestion and Data processing (ETL/ELT). • Understanding of Spark Architecture and Data processing and tuning. Knowledge of Dimensional Modelling. • Excellent communication and interpersonal skills.",
+    "source": "ResMed Data Engineer Intern - JD.pdf, ResMed Software Engineer Intern - JD.pdf, ResMed.png",
+    "char_count": 622
+  },
+  {
+    "chunk_id": "ResMed_skills_optional_04",
+    "primary_key": "ResMed",
+    "company": "ResMed",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "• Understanding of Airflow, Building and implementing Rest APIs & Scala • Understanding about infrastructure as code using Terraform and Experience with Dev ops (CICD) services/tools • Basic experience with any public cloud like AWS, GCP etc. • General knowledge of Data Quality & Governance, containerization concepts like docker, Kubernetes etc.",
+    "source": "ResMed Data Engineer Intern - JD.pdf, ResMed Software Engineer Intern - JD.pdf, ResMed.png",
+    "char_count": 347
+  },
+  {
+    "chunk_id": "ResMed_compensation_benefits_05",
+    "primary_key": "ResMed",
+    "company": "ResMed",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "• A supportive environment that focuses on your development and best implementation • Opportunity to design, influence, and be innovative • Work with inclusive global teams and the open sharing of new ideas. We want your ideas! • Be supported both inside and outside of the work environment • The opportunity to build something meaningful and see a direct positive impact on people’s lives! • Dream big, iterate and experiment to drive innovation.",
+    "source": "ResMed Data Engineer Intern - JD.pdf, ResMed Software Engineer Intern - JD.pdf, ResMed.png",
+    "char_count": 447
+  },
+  {
+    "chunk_id": "Novartis_about_company_01",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "about_company",
+    "text": "Novartis is a world-leading innovative pharmaceutical company with a mission to reimagine medicine to improve and extend people’s lives. The company aims to become the most valued and trusted medicines company in the world. Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities they serve.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 377
+  },
+  {
+    "chunk_id": "Novartis_roles_responsibilities_02",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "roles_responsibilities",
+    "text": "Data Science Intern - Advanced Analytics:\n- Assist in the development and implementation of forecasting models using time series analysis techniques.\n- Support the research and application of LLM methodologies.\n- Contribute to NLP projects by applying techniques such as text classification and entity recognition to extract insights from unstructured text data.\n- Assist in the development and implementation of anomaly detection algorithms.\n- Work collaboratively with the data science team to preprocess, clean, and manipulate data.\n- Contribute to the development of data visualization and reporting solutions.\n- Stay updated with the latest advancements in forecasting techniques, LLM, NLP, and anomaly detection.\n\nField Insights and Analytics Intern:\n- Contribute to the design of strategic go-to-market strategies for customer-facing teams.\n- Deploy critical thinking and innovative solutions to solve unstructured problems.\n- Gain hands-on exposure to functional skills and advanced analytics.\n\nPrimary Market Research Intern:\n- Assist in designing and executing groundbreaking market research studies.\n- Collect and analyze data from diverse sources to uncover opportunities and unmet needs.\n- Craft detailed reports and compelling presentations.\n- Work alongside a dynamic team to develop actionable insights.\n- Keep up with industry trends and developments.\n- Cooperate with cross-functional teams to understand business objectives and market strategy.\n\nTrainee Engineer Intern:\n- Provide operational support to business functions in managing contractors and external services.\n- Serve as an interface between the internal community and external partners.\n- Act as a single point of contact for all activities in accordance with legislation, internal regulations, good practices, and business objectives.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 1815
+  },
+  {
+    "chunk_id": "Novartis_skills_required_03",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "skills_required",
+    "text": "Data Science Intern - Advanced Analytics:\n- Currently pursuing or recently completed a Master's degree in a relevant field (e.g., Data Science, Statistics, Computer Science, or related).\n- Strong knowledge and proficiency in forecasting techniques, including time series analysis.\n- Basic understanding of NLP concepts and experience with NLP techniques like sentiment analysis, text classification, and entity recognition.\n- Knowledge of anomaly detection techniques and experience in identifying abnormal patterns in data.\n- Proficiency in programming languages such as Python or R for data manipulation and analysis tasks.\n- Strong analytical thinking, problem-solving, and attention to detail.\n- Excellent communication and teamwork skills.\n- Ability to work independently and take initiative, while also being receptive to guidance and feedback.\n\nField Insights and Analytics Intern:\n- Masters/Bachelor’s degree in engineering, Pharmacy, Statistics, Business or related fields.\n- Superior analytical and problem-solving skills.\n- Skilled in using tools such as Excel, SQL to analyze data.\n- Experience with statistical techniques and data modelling preferred.\n- Familiarity in storyboarding and adept at crafting compelling slide presentations.\n- Basic understanding of the US Pharma market and product commercialization is advantageous.\n\nPrimary Market Research Intern:\n- Strong analytical and problem-solving skills.\n- Inclination for working with data.\n- Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word).\n- Excellent written and verbal communication skills.\n- Ability to work independently and as part of a team.\n- Attention to detail and strong organizational skills.\n\nTrainee Engineer Intern:\n- In-depth knowledge of Engineering subjects.\n- Ability to use systems.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 1789
+  },
+  {
+    "chunk_id": "Novartis_skills_optional_04",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "skills_optional",
+    "text": "Data Science Intern - Advanced Analytics:\n- Stay updated with the latest advancements in forecasting techniques, LLM, NLP, and anomaly detection.\n\nField Insights and Analytics Intern:\n- Familiarity with the US Pharma market and product commercialization.\n\nPrimary Market Research Intern:\n- Previous internship or coursework in market research or related fields.\n- Familiarity with statistical analysis software (e.g., SPSS, Python).\n- Familiarity with basics of Statistics or Data Science.\n\nTrainee Engineer Intern:\n- None specified.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 533
+  },
+  {
+    "chunk_id": "Novartis_interview_process_05",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "interview_process",
+    "text": "Selection process will be conducted in campus on 10th or 11th April. Exact date will be communicated once confirmed. The process includes an attendance profile and CTC round.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 174
+  },
+  {
+    "chunk_id": "Novartis_eligibility_criteria_06",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "eligibility_criteria",
+    "text": "Data Science Intern - Advanced Analytics:\n- Currently pursuing or recently completed a Master's degree in a relevant field.\n\nField Insights and Analytics Intern:\n- Masters/Bachelor’s degree in engineering, Pharmacy, Statistics, Business or related fields.\n\nPrimary Market Research Intern:\n- None specified.\n\nTrainee Engineer Intern:\n- None specified.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 350
+  },
+  {
+    "chunk_id": "Novartis_compensation_benefits_07",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "compensation_benefits",
+    "text": "Data Science Intern - Advanced Analytics:\n- Stipend: 35T PM\n\nField Insights and Analytics Intern:\n- None specified.\n\nPrimary Market Research Intern:\n- None specified.\n\nTrainee Engineer Intern:\n- None specified.\n\nMTech/ME Internship:\n- Annual Base Salary: 2970,000\n- Cost to Company: 81,140,743\n- Joining Bonus: 200,000",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 318
+  },
+  {
+    "chunk_id": "Novartis_additional_info_08",
+    "primary_key": "Novartis",
+    "company": "Novartis",
+    "role": "general",
+    "type": "additional_info",
+    "text": "Data Science Intern - Advanced Analytics:\n- Duration: 11 months\n- Start Date: To be announced\n- Apply Before: 01 Apr 2025 10.00 AM\n\nField Insights and Analytics Intern:\n- Location: Novartis Corporate Centre, Hyderabad for Novartis US\n- Opportunity to work with one of the world's leading innovative pharmaceutical firms.\n\nPrimary Market Research Intern:\n- Location: Novartis Corporate Centre, Hyderabad for Novartis US\n- Opportunity to work with one of the world's leading innovative pharmaceutical firms.\n\nTrainee Engineer Intern:\n- Location: Novartis Corporate Centre, Hyderabad\n- Opportunity to work with NOCC Engineering team.\n\nMTech/ME Internship:\n- Intern FTE (Internship confirmed full time offer) model.",
+    "source": "JD Intern - Data Science.docx, Novartis_MTech_2026.png, JD Intern - US Field Insights and Analytics.docx",
+    "char_count": 711
+  }
+]

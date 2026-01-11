@@ -1,0 +1,37 @@
+# Document processing
+PyMuPDF>=1.23.0
+python-docx>=1.0.0
+python-pptx>=0.6.21
+openpyxl>=3.1.0
+
+# OCR - EasyOCR (recommended, GPU accelerated)
+easyocr>=1.7.0
+
+# Alternative OCR options (uncomment if needed)
+# python-doctr[torch]>=0.7.0
+# paddleocr>=2.7.0
+# paddlepaddle-gpu>=2.5.0  # For PaddleOCR with GPU
+
+# Image processing
+Pillow>=10.0.0
+
+# LLM backends
+vllm>=0.2.0
+# ollama  # Install separately if using Ollama
+
+# Utilities
+tqdm>=4.65.0
+transformers>=4.35.0
+torch>=2.0.0
+
+# For HuggingFace models
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+
+# RAG Dependencies
+faiss-cpu>=1.7.4  # Use faiss-gpu if GPU available for search
+sentence-transformers>=2.2.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0

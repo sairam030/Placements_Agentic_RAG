@@ -1,0 +1,4 @@
+# Web interface requirements
+streamlit>=1.28.0
+watchdog>=3.0.0
+pyngrok>=7.0.0

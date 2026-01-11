@@ -1,0 +1,385 @@
+{
+  "total_entries": 54,
+  "total_files": 123,
+  "total_chars": 252980,
+  "entries": [
+    {
+      "primary_key": "NTRO",
+      "company": "NTRO",
+      "role": "general",
+      "files_count": 1,
+      "chars": 62
+    },
+    {
+      "primary_key": "Emerson",
+      "company": "Emerson",
+      "role": "general",
+      "files_count": 2,
+      "chars": 2608
+    },
+    {
+      "primary_key": "Thales",
+      "company": "Thales",
+      "role": "general",
+      "files_count": 3,
+      "chars": 3879
+    },
+    {
+      "primary_key": "Schneider",
+      "company": "Schneider",
+      "role": "general",
+      "files_count": 4,
+      "chars": 11264
+    },
+    {
+      "primary_key": "Techolution",
+      "company": "Techolution",
+      "role": "general",
+      "files_count": 4,
+      "chars": 20160
+    },
+    {
+      "primary_key": "Bosch",
+      "company": "Bosch",
+      "role": "general",
+      "files_count": 2,
+      "chars": 1340
+    },
+    {
+      "primary_key": "Signify",
+      "company": "Signify",
+      "role": "general",
+      "files_count": 1,
+      "chars": 415
+    },
+    {
+      "primary_key": "Noika",
+      "company": "Noika",
+      "role": "general",
+      "files_count": 1,
+      "chars": 322
+    },
+    {
+      "primary_key": "Suprajit",
+      "company": "Suprajit",
+      "role": "general",
+      "files_count": 1,
+      "chars": 68
+    },
+    {
+      "primary_key": "ABB",
+      "company": "ABB",
+      "role": "general",
+      "files_count": 1,
+      "chars": 376
+    },
+    {
+      "primary_key": "Saviynt",
+      "company": "Saviynt",
+      "role": "general",
+      "files_count": 2,
+      "chars": 4539
+    },
+    {
+      "primary_key": "Nissan Digital",
+      "company": "Nissan Digital",
+      "role": "general",
+      "files_count": 1,
+      "chars": 53
+    },
+    {
+      "primary_key": "Honeywell",
+      "company": "Honeywell",
+      "role": "general",
+      "files_count": 5,
+      "chars": 10508
+    },
+    {
+      "primary_key": "Marvell Technology",
+      "company": "Marvell Technology",
+      "role": "general",
+      "files_count": 2,
+      "chars": 11812
+    },
+    {
+      "primary_key": "Hachidori",
+      "company": "Hachidori",
+      "role": "general",
+      "files_count": 2,
+      "chars": 2229
+    },
+    {
+      "primary_key": "Juniper Networks",
+      "company": "Juniper Networks",
+      "role": "general",
+      "files_count": 4,
+      "chars": 6499
+    },
+    {
+      "primary_key": "Niftrix",
+      "company": "Niftrix",
+      "role": "general",
+      "files_count": 2,
+      "chars": 3493
+    },
+    {
+      "primary_key": "Dell_Role-2",
+      "company": "Dell",
+      "role": "Role-2",
+      "files_count": 3,
+      "chars": 4632
+    },
+    {
+      "primary_key": "Dell_Role-1",
+      "company": "Dell",
+      "role": "Role-1",
+      "files_count": 3,
+      "chars": 7834
+    },
+    {
+      "primary_key": "Dell_Role-3",
+      "company": "Dell",
+      "role": "Role-3",
+      "files_count": 3,
+      "chars": 8282
+    },
+    {
+      "primary_key": "Sabic_Role-2",
+      "company": "Sabic",
+      "role": "Role-2",
+      "files_count": 5,
+      "chars": 9976
+    },
+    {
+      "primary_key": "Sabic_Role-1",
+      "company": "Sabic",
+      "role": "Role-1",
+      "files_count": 2,
+      "chars": 15830
+    },
+    {
+      "primary_key": "Intel_Role - 1",
+      "company": "Intel",
+      "role": "Role - 1",
+      "files_count": 1,
+      "chars": 249
+    },
+    {
+      "primary_key": "Intel_Role - 2",
+      "company": "Intel",
+      "role": "Role - 2",
+      "files_count": 1,
+      "chars": 63
+    },
+    {
+      "primary_key": "Intel_Role - 3",
+      "company": "Intel",
+      "role": "Role - 3",
+      "files_count": 2,
+      "chars": 1830
+    },
+    {
+      "primary_key": "Synaptics",
+      "company": "Synaptics",
+      "role": "general",
+      "files_count": 2,
+      "chars": 2125
+    },
+    {
+      "primary_key": "Astrikos",
+      "company": "Astrikos",
+      "role": "general",
+      "files_count": 4,
+      "chars": 9983
+    },
+    {
+      "primary_key": "PowerSchool",
+      "company": "PowerSchool",
+      "role": "general",
+      "files_count": 2,
+      "chars": 3160
+    },
+    {
+      "primary_key": "ResMed",
+      "company": "ResMed",
+      "role": "general",
+      "files_count": 5,
+      "chars": 16779
+    },
+    {
+      "primary_key": "Novartis",
+      "company": "Novartis",
+      "role": "general",
+      "files_count": 6,
+      "chars": 19166
+    },
+    {
+      "primary_key": "Philips",
+      "company": "Philips",
+      "role": "general",
+      "files_count": 8,
+      "chars": 16289
+    },
+    {
+      "primary_key": "Axius Software",
+      "company": "Axius Software",
+      "role": "general",
+      "files_count": 1,
+      "chars": 67
+    },
+    {
+      "primary_key": "Aditya Birla",
+      "company": "Aditya Birla",
+      "role": "general",
+      "files_count": 2,
+      "chars": 3579
+    },
+    {
+      "primary_key": "Samsung Electro Mechanics",
+      "company": "Samsung Electro Mechanics",
+      "role": "general",
+      "files_count": 1,
+      "chars": 61
+    },
+    {
+      "primary_key": "Amazon",
+      "company": "Amazon",
+      "role": "general",
+      "files_count": 2,
+      "chars": 3370
+    },
+    {
+      "primary_key": "Analog Devices",
+      "company": "Analog Devices",
+      "role": "general",
+      "files_count": 3,
+      "chars": 8471
+    },
+    {
+      "primary_key": "STMicrelectronics",
+      "company": "STMicrelectronics",
+      "role": "general",
+      "files_count": 1,
+      "chars": 68
+    },
+    {
+      "primary_key": "Ivanti",
+      "company": "Ivanti",
+      "role": "general",
+      "files_count": 1,
+      "chars": 69
+    },
+    {
+      "primary_key": "GE Healthcare",
+      "company": "GE Healthcare",
+      "role": "general",
+      "files_count": 1,
+      "chars": 2204
+    },
+    {
+      "primary_key": "Volvo_Role - 1",
+      "company": "Volvo",
+      "role": "Role - 1",
+      "files_count": 1,
+      "chars": 94
+    },
+    {
+      "primary_key": "Volvo_Role - 2",
+      "company": "Volvo",
+      "role": "Role - 2",
+      "files_count": 1,
+      "chars": 94
+    },
+    {
+      "primary_key": "Aditya Auto Products",
+      "company": "Aditya Auto Products",
+      "role": "general",
+      "files_count": 4,
+      "chars": 7386
+    },
+    {
+      "primary_key": "Videojet",
+      "company": "Videojet",
+      "role": "general",
+      "files_count": 0,
+      "chars": 0
+    },
+    {
+      "primary_key": "NetApp",
+      "company": "NetApp",
+      "role": "general",
+      "files_count": 3,
+      "chars": 5932
+    },
+    {
+      "primary_key": "Beckman Coulter",
+      "company": "Beckman Coulter",
+      "role": "general",
+      "files_count": 1,
+      "chars": 61
+    },
+    {
+      "primary_key": "Nvidia_Role - 1",
+      "company": "Nvidia",
+      "role": "Role - 1",
+      "files_count": 2,
+      "chars": 3292
+    },
+    {
+      "primary_key": "Nvidia_Role - 2",
+      "company": "Nvidia",
+      "role": "Role - 2",
+      "files_count": 2,
+      "chars": 3906
+    },
+    {
+      "primary_key": "ArcherIRM",
+      "company": "ArcherIRM",
+      "role": "general",
+      "files_count": 1,
+      "chars": 360
+    },
+    {
+      "primary_key": "SAP Labs",
+      "company": "SAP Labs",
+      "role": "general",
+      "files_count": 1,
+      "chars": 353
+    },
+    {
+      "primary_key": "Commscope",
+      "company": "Commscope",
+      "role": "general",
+      "files_count": 1,
+      "chars": 67
+    },
+    {
+      "primary_key": "Ericsson",
+      "company": "Ericsson",
+      "role": "general",
+      "files_count": 2,
+      "chars": 5709
+    },
+    {
+      "primary_key": "Thomson Reuters",
+      "company": "Thomson Reuters",
+      "role": "general",
+      "files_count": 2,
+      "chars": 3693
+    },
+    {
+      "primary_key": "Tishyas Medical Device",
+      "company": "Tishyas Medical Device",
+      "role": "general",
+      "files_count": 1,
+      "chars": 61
+    },
+    {
+      "primary_key": "Stryker",
+      "company": "Stryker",
+      "role": "general",
+      "files_count": 4,
+      "chars": 8258
+    }
+  ]
+}
